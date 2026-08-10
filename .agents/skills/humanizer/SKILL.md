@@ -1,8 +1,9 @@
 ---
+name: humanizer
+description: Remove signs of AI-generated writing from text. Use when editing, reviewing, writing responses, copy, headings, emails, or docs to sound natural and human.
 title: 'Humanizer: Remove AI Writing Patterns'
 domain: skill
-summary: 'description: | Remove signs of AI-generated writing from text. Use when editing, reviewing, writing responses, copy,
-  headings, emails, or docs to sound natural and human.'
+summary: Remove signs of AI-generated writing from text to sound natural and human.
 critical_directives:
 - Fix:** Always use straight quotes (`"..."` and `'...'`), never smart/curly quotes (`“...”` and `‘...’`).
 - '"It is important to note that" → (delete)'
@@ -20,7 +21,7 @@ read_triggers:
 tags:
 - skill
 - SKILL
-updated: '2026-08-08'
+updated: '2026-08-10'
 ---
 
 ---
