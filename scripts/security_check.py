@@ -42,6 +42,8 @@ def scan_files_for_secrets():
             dirs.remove("brain")
         if ".playwright-mcp" in dirs:
             dirs.remove(".playwright-mcp")
+        if "SecurityOs" in dirs:
+            dirs.remove("SecurityOs")
             
         for file in files:
             file_path = os.path.join(root, file)

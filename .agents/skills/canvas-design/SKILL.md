@@ -39,8 +39,12 @@ When this skill is triggered, you will compile an HTML layout using the brand de
 
 ## Step-by-Step Execution Workflow
 
-### 1. Settle Dimensions & Layout
-Identify the target aspect ratio preset and layout style from the user's prompt (or choose the best fit):
+### 1. Visual Design Philosophy Manifesto & Layout Presets
+First, establish a **Visual Design Philosophy** (e.g. *Brutalist Joy*, *Chromatic Silence*, *Analog Meditation*, *Geometric Silence*):
+* **90% Visual / 10% Text**: Treat text as a minimal, clinical graphic accent.
+* **Expert Craftsmanship**: Execute with museum-grade precision, zero text overlapping, and balanced breathing room.
+* **Subtle Conceptual Thread**: Embed a quiet, sophisticated reference that speaks to experts without cluttering the aesthetic.
+
 * **Aspect Presets**:
   * `instagram-square` (1080 x 1080)
   * `instagram-portrait` (1080 x 1350)

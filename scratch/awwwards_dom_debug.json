@@ -1,0 +1,726 @@
+{
+  "links": [
+    {
+      "href": "https://www.awwwards.com/academy-plan?utm_source=alert",
+      "text": "",
+      "className": "item-link",
+      "parentClass": "marquee-top__wrapper is-visible"
+    },
+    {
+      "href": "https://www.awwwards.com/",
+      "text": "",
+      "className": "header-main__logo",
+      "parentClass": "header-main__container"
+    },
+    {
+      "href": "https://www.awwwards.com/websites/",
+      "text": "Honor Mentions",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/nominees/",
+      "text": "Nominees",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/sites_of_the_day/",
+      "text": "Sites of the Day",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/sites_of_the_month/",
+      "text": "Sites of the Month",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/sites_of_the_year/",
+      "text": "Sites of the Year",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/honors/winners",
+      "text": "Honors\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNew",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/winner-list/",
+      "text": "Most Awarded Profiles",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/jury/2026/",
+      "text": "Jury 2026",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/annual-awards/",
+      "text": "Annual Awards",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/portfolio/",
+      "text": "Portfolio Websites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/awwwards/collections/free-fonts/",
+      "text": "Free fonts",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/animation/",
+      "text": "Animated websites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/",
+      "text": "Sites of the Day",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/scrolling/",
+      "text": "Scrolling",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/single-page/",
+      "text": "One page design",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/ui-design/",
+      "text": "UI design",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/e-commerce/",
+      "text": "E-commerce layouts",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/architecture/",
+      "text": "Architecture websites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/photography/",
+      "text": "Photography websites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/e-commerce/",
+      "text": "E-commerce",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/architecture/",
+      "text": "Architecture",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/hotel-restaurant/",
+      "text": "Restaurant & Hotel",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/design-agencies/",
+      "text": "Design Agencies",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/business-corporate/",
+      "text": "Business & Corporate",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/fashion/",
+      "text": "Fashion",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/mobile-apps/",
+      "text": "Mobile & Apps",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/interaction-design/",
+      "text": "Interaction Design",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/illustration/",
+      "text": "Illustration",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/header-design/",
+      "text": "Header Design",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/awwwards/collections/css-js-animations/",
+      "text": "CSS animations",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/wordpress/",
+      "text": "Wordpress",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/shopify/",
+      "text": "Shopify",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/webgl/",
+      "text": "WebGL sites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/react/",
+      "text": "React Websites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/3d/",
+      "text": "3D websites",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/figma/",
+      "text": "Figma",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/gsap-animation/",
+      "text": "Gsap",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/framer-motion/",
+      "text": "Framer",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/websites/webflow/",
+      "text": "Webflow",
+      "className": "search-inspiration__item",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/collections/",
+      "text": "",
+      "className": "search-inspiration__section",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/blog/",
+      "text": "",
+      "className": "search-inspiration__section",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/directory/",
+      "text": "Directory",
+      "className": "nav-header-main__link",
+      "parentClass": "nav-header-main__item"
+    },
+    {
+      "href": "https://www.awwwards.com/academy/",
+      "text": "Academy\nNew",
+      "className": "nav-header-main__link",
+      "parentClass": "nav-header-main__item"
+    },
+    {
+      "href": "https://www.awwwards.com/jobs/",
+      "text": "Jobs",
+      "className": "nav-header-main__link",
+      "parentClass": "nav-header-main__item"
+    },
+    {
+      "href": "https://www.awwwards.com/market/",
+      "text": "Market",
+      "className": "nav-header-main__link",
+      "parentClass": "nav-header-main__item"
+    },
+    {
+      "href": "https://www.facebook.com/awwwards",
+      "text": "",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.instagram.com/awwwards",
+      "text": "",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://twitter.com/awwwards",
+      "text": "",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.instagram.com/awwwards",
+      "text": "",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.youtube.com/awwwardstv",
+      "text": "",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.tiktok.com/@awwwards.com",
+      "text": "",
+      "className": "tiktok",
+      "parentClass": ""
+    },
+    {
+      "href": "https://www.awwwards.com/pro",
+      "text": "Be Pro",
+      "className": "button button--small--rounded",
+      "parentClass": "header-main__bts"
+    },
+    {
+      "href": "https://www.awwwards.com/submit/",
+      "text": "Submit Website",
+      "className": "button button--small--outline--rounded",
+      "parentClass": "header-main__bts"
+    },
+    {
+      "href": "https://www.awwwards.com/iyo-case-study-selling-the-worlds-first-audio-computer.html",
+      "text": "iyO - Case Study: selling the world's first audio...",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/iyo-case-study-selling-the-worlds-first-audio-computer.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/mattdonini/",
+      "text": "Matteo Donini",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/iyo-case-study-selling-the-worlds-first-audio-computer.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/la-revoltosa-rebooting-a-70-year-old-spanish-soda-brand-for-the-scroll-generation.html",
+      "text": "La Revoltosa: Rebooting a 70-Year-Old Spanish Soda...",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/la-revoltosa-rebooting-a-70-year-old-spanish-soda-brand-for-the-scroll-generation.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/Waka/",
+      "text": "Waka PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/la-revoltosa-rebooting-a-70-year-old-spanish-soda-brand-for-the-scroll-generation.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/reshaping-telha-clarkes-digital-home.html",
+      "text": "Reshaping Telha Clarke\u2019s Digital Home",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/reshaping-telha-clarkes-digital-home.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/greg-lalle/",
+      "text": "Greg Lall\u00e9 PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/reshaping-telha-clarkes-digital-home.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/designing-for-an-identity-that-shapeshifts.html",
+      "text": "Designing for an Identity That \u201cShapeShifts\u201d",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/designing-for-an-identity-that-shapeshifts.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/fromanother/",
+      "text": "fromanother PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/designing-for-an-identity-that-shapeshifts.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/the-new-obys.html",
+      "text": "The New Obys",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/the-new-obys.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/obys/",
+      "text": "Obys PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/the-new-obys.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/gq-audemars-piguet-the-extraordinary-lab.html",
+      "text": "GQ & Audemars Piguet: The Extraordinary Lab",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/gq-audemars-piguet-the-extraordinary-lab.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/immersivegarden/",
+      "text": "Immersive Garden INT",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/gq-audemars-piguet-the-extraordinary-lab.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/fluid-glass-case-study.html",
+      "text": "Fluid Glass - Case Study",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/fluid-glass-case-study.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/exo-ape/",
+      "text": "Exo Ape PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/fluid-glass-case-study.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/mapping-the-uncharted-the-san-rita-project.html",
+      "text": "Mapping the Uncharted: The San Rita Project",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/mapping-the-uncharted-the-san-rita-project.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/Sanrita/",
+      "text": "San Rita PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/mapping-the-uncharted-the-san-rita-project.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/not-a-portfolio-a-presence.html",
+      "text": "Not a Portfolio. A Presence.",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/not-a-portfolio-a-presence.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/blacklead/",
+      "text": "BL/S\u00ae PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/not-a-portfolio-a-presence.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/farm-minerals-case-study.html",
+      "text": "Farm Minerals - Case Study",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/farm-minerals-case-study.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/adelt-agency/",
+      "text": "ADELT Agency PRO",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/farm-minerals-case-study.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/100-lost-species.html",
+      "text": "100 Lost Species",
+      "className": "",
+      "parentClass": "card-blog__title"
+    },
+    {
+      "href": "https://www.awwwards.com/100-lost-species.html",
+      "text": "",
+      "className": "",
+      "parentClass": "card-blog__info"
+    },
+    {
+      "href": "https://www.awwwards.com/immersivegarden/",
+      "text": "Immersive Garden INT",
+      "className": "avatar-name__link",
+      "parentClass": "avatar-name "
+    },
+    {
+      "href": "https://www.awwwards.com/100-lost-species.html",
+      "text": "Read Article",
+      "className": "bt-ico-left",
+      "parentClass": "hidden-sm"
+    },
+    {
+      "href": "https://www.awwwards.com/unesco-virtual-museum-of-stolen-cultural-objects.html",
+      "text": "UNESCO - Virtual Museum of Stolen Cultural Objects",
+      "className": "",
+      "parentClass": "card-blog__title"
+    }
+  ],
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "iyO - Case Study: selling the world's first audio...",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "La Revoltosa: Rebooting a 70-Year-Old Spanish Soda...",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Reshaping Telha Clarke\u2019s Digital Home",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Designing for an Identity That \u201cShapeShifts\u201d",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "The New Obys",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "GQ & Audemars Piguet: The Extraordinary Lab",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Fluid Glass - Case Study",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Mapping the Uncharted: The San Rita Project",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Not a Portfolio. A Presence.",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Farm Minerals - Case Study",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "100 Lost Species",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "UNESCO - Virtual Museum of Stolen Cultural Objects",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "The Art of Getting Noticed: Product Design and Development...",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Bruno\u2019s Portfolio Case Study",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "StringTune: For Core Web Animations",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Ribbit - Case Study",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Inversa - Case Study",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "MindMarket Case Study",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Heidelberg CCUS",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    },
+    {
+      "tag": "H3",
+      "text": "Obys\u2019 Design Books",
+      "className": "card-blog__title",
+      "parentClass": "card-blog__header"
+    }
+  ]
+}

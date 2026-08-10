@@ -1,0 +1,35 @@
+[
+  {
+    "task_id": "test_task_001",
+    "workflow_source": "WorkMon Workflow 2",
+    "status": "HEALTHY",
+    "pid": 10568,
+    "pid_active": true,
+    "idle_seconds": 0,
+    "errors": [],
+    "timestamp": "2026-08-10T12:32:31.623257",
+    "host": "ATINEK"
+  },
+  {
+    "task_id": "test_task_001",
+    "workflow_source": "WorkMon Workflow 2",
+    "status": "HEALTHY",
+    "pid": 1676,
+    "pid_active": true,
+    "idle_seconds": 0,
+    "errors": [],
+    "timestamp": "2026-08-10T12:35:04.824690",
+    "host": "ATINEK"
+  },
+  {
+    "task_id": "test_task_001",
+    "workflow_source": "WorkMon Workflow 2",
+    "status": "HEALTHY",
+    "pid": 26956,
+    "pid_active": true,
+    "idle_seconds": 0,
+    "errors": [],
+    "timestamp": "2026-08-10T12:37:36.333884",
+    "host": "ATINEK"
+  }
+]

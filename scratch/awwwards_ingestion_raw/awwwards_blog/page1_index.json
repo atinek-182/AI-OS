@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "href": "https://www.awwwards.com/blog/?tag=case-study&category=design-illustration",
+      "title": "Design & Illustration"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/?tag=case-study&category=mobile-excellence",
+      "title": "Mobile Excellence"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/?tag=case-study&category=resources-tools",
+      "title": "Resources & Tools"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/?tag=case-study&category=the-best-articles",
+      "title": "The Best Articles"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/?tag=case-study&category=web-design-tag",
+      "title": "Web Design"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/",
+      "title": "Case Study"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/agencies-studios/",
+      "title": "Agencies & Studios"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/animation-tag/",
+      "title": "Animation"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/apps-web-apps/",
+      "title": "Apps & Web Apps"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/art-design/",
+      "title": "Art & Design"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/business-productivity/",
+      "title": "Business & Productivity"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/code-front-end/",
+      "title": "Code & Front-End"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/coding-techniques/",
+      "title": "Coding Techniques"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/creative-advertising/",
+      "title": "Creative Advertising"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/events-conferences/",
+      "title": "Events & Conferences"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/gadgets/",
+      "title": "Gadgets"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/giveaways/",
+      "title": "Giveaways"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/html5-css3/",
+      "title": "HTML5 & CSS3"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/illustration-tag/",
+      "title": "Illustration"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/inspiration/",
+      "title": "Inspiration"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/interviews/",
+      "title": "Interviews"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/javascript-1/",
+      "title": "JavaScript"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/layout-design/",
+      "title": "Layout Design"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/learning-resources/",
+      "title": "Learning Resources"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/los-angeles-2017/",
+      "title": "Los Angeles 2017"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/motion-graphics/",
+      "title": "Motion Graphics"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/packaging-graphic/",
+      "title": "Packaging & Graphic"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/photography-tag/",
+      "title": "Photography"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/plugins-frameworks/",
+      "title": "Plugins & Frameworks"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/responsive/",
+      "title": "Responsive"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/sites-of-the-month/",
+      "title": "Sites of the Month"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/sites-of-the-year/",
+      "title": "Sites of the Year"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/tutorials/",
+      "title": "Tutorials"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/typography-tag/",
+      "title": "Typography"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/ui-ux/",
+      "title": "UI & UX"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/weekend-roundup/",
+      "title": "Weekend Roundup"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/offices/",
+      "title": "offices"
+    }
+  ],
+  "pagination": [
+    {
+      "href": "https://www.awwwards.com/websites/single-page/",
+      "text": "One page design"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/case-study/?page=2",
+      "text": "2"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/case-study/?page=3",
+      "text": "3"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/case-study/?page=4",
+      "text": "4"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/case-study/?page=5",
+      "text": "5"
+    },
+    {
+      "href": "https://www.awwwards.com/blog/case-study/?page=2",
+      "text": "Next"
+    },
+    {
+      "href": "https://www.awwwards.com/directory/homepage/",
+      "text": "Professionals"
+    }
+  ]
+}

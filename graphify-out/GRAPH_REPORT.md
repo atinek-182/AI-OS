@@ -1,16 +1,16 @@
-# Graph Report - AI-OS  (2026-08-08)
+# Graph Report - AI-OS  (2026-08-10)
 
 ## Corpus Check
-- 671 files · ~2,208,802 words
+- 789 files · ~2,348,099 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 6688 nodes · 6417 edges · 580 communities (541 shown, 39 thin omitted)
+- 7947 nodes · 7581 edges · 689 communities (639 shown, 50 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 6 edges (avg confidence: 0.65)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `a2fc4f33`
+- Built from commit: `026112ea`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -22,7 +22,7 @@
 - skill-optimizer/prepare.py
 - FILLER AND HEDGING
 - Step-by-Step 8-Phase Pricing Protocol
-- Cross-Site Request Forgery (CSRF)
+- ZORIXEL AIOS Session Post-Mortem & System Evolution Report
 - 👥 5-Persona Council Audits
 - ZORIXEL Agency Positioning & Strategy: Socratic Discovery & Brainstorm Notes
 - Client Vault & Directory Architecture: Discovery & Brainstorm Notes
@@ -31,7 +31,7 @@
 - component-cookbook.md
 - Vashishthya Research, IJORAR & MJAP: Master AI Strategy & Pitch Discovery
 - Vashishthya Notion OS & Google Sheets Automated Infrastructure: Discovery & Setup Blueprint
-- log.md
+- Decisions Log
 - new_client_runner.py
 - 📌 Generic 1-Line Execution Pipeline
 - ZORIXEL AIOS Session Post-Mortem & System Evolution Report
@@ -238,25 +238,60 @@
 - Full Video Transcript: How Senior Engineers Actually Build With AI in 2026
 - aios_frontmatter_standardizer.py
 - ZORIXEL AIOS Active Security Engine (`/security-os`)
-- Macrostructures
+- SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT
 - security_os_runner.py
 - Slop test — 58 gates + pre-emit self-critique
-- Phase-by-Phase Execution Details
+- Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)
 - validate_yaml_frontmatter.py
 - Atinek Maurya's AI Operating System (`GEMINI.md`)
 - aios_workflow_runner.py
+- Dynamic Loops & Autoresearch Engine: Strategic Integration & Roast Analysis
+- ZORIXEL AIOS Session Post-Mortem & System Evolution Report
+- Awwwards-Level Web Creation Engine: Master Research, Local Vault & Roast Spec
 - Copy
+- 10-Site Pattern Extraction Suite
+- 5-Persona Adversarial Roast Council (`/roast`)
+- ZORIXEL AIOS Native Loop Engineering Engine (`/loop-engine`)
 - Critical (ships as slop)
 - Typography
+- Case Studies of Site of the Day Winners
 - Q&A log
 - 3. Page Structure & Macrostructure Layout
+- aios_browser_engine.py
+- Socratic Discovery Q&A Log
+- Active Workspace Playbooks
+- Awwwards Research Vault 02 - Typography, Spacing & Grid Math
+- Core Execution Guidelines
+- Awwwards Research Vault 03 - GSAP & Lenis Motion Architecture
 - audit/SKILL.md
 - OS Audit — is your AIOS still true?
+- Awwwards Research Vault 01 - Design Principles & Aesthetic Foundations
 - Figma Micrographics Assets: Brainstorm / Discovery Notes
 - 23-Site Design Learning & Synthesis Engine: Discovery & Brainstorm Notes
+- Awwwards Research Vault 04 - WebGL & Three.js Shader Protocol
+- Awwwards Research Vault 06 - Judging Criteria & Master Checklist
+- AI-OS Domain Skills Registry
+- Council Detailed Red-Team Analysis
+- Awwwards Research Vault Master Index
+- test_browser_engine_health.py
+- 🏛️ Discovered 6 High-Moat Master Workflow Systems
+- ZORIXEL AIOS Session Post-Mortem & System Evolution Report
+- n8n Node Reference & Production Workflow Engine
+- Council Detailed Breakdowns
+- 6-Phase Execution Pipeline (with Integrated `/grill-me` + `/roast` Gates)
+- workmon_sensor.py
+- run_auto_evolver
 - 📌 Non-Negotiable Core Execution Rules
 - Client-Side Bugs
+- Python Implementation Patterns
+- WorkMon Workflows 1 & 2: Complete Discovery & Architecture Master Spec
+- XLSX Spreadsheet Engineering Guide
 - Ghost AI
+- DOCX Document Engineering Guide
+- SECTION 1: COMPREHENSIVE TERMINAL, SYNTAX, API & ENVIRONMENT ERROR CATALOG
+- WorkMon Workflows 1 & 2 Unified Engine Master Specification
+- Macrostructures
+- The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio
 - Frontend Slides Generator
 - Microinteraction tells
 - Archetype index — load ONLY the picks you need
@@ -264,7 +299,17 @@
 - 🧭 The 8-Phase Ingestion & Deep System Integration Workflow
 - level-up/SKILL.md
 - Commands & Workflow Guide
+- test_workmon_health.py
+- The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio
 - UI Context
+- FAQ on Extended Fonts
+- Between Print and Digital: The Making of MERSI’s Website
+- Between Print and Digital: The Making of MERSI’s Website
+- ZERO: The Engineering Behind a Defiant Interactive Narrative
+- ZERO: The Engineering Behind a Defiant Interactive Narrative
+- FLUID GLASS - CASE STUDY
+- GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB
+- IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER
 - graphify_runner.py
 - Frontend Slides
 - Responsive
@@ -274,8 +319,20 @@
 - Storm Research Project (`/storm-research-project`)
 - 🛠️ Execution Pipeline
 - Server-Side Bugs
+- FLUID GLASS - CASE STUDY
 - Initial Analysis Details
 - Q&A log
+- GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB
+- IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER
+- 3D and WebGL Pipeline
+- NOT A PORTFOLIO. A PRESENCE.
+- NOT A PORTFOLIO. A PRESENCE.
+- 3D and WebGL Pipeline
+- LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION
+- Production Pipeline
+- LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION
+- Production Pipeline
+- The Department Is Open: Building the PX PUSH Website
 - ZORIXEL Viral Carousel Copywriter (`/carousel-copy`)
 - 🔍 The 6 Audit Gates
 - onboard/SKILL.md
@@ -284,7 +341,19 @@
 - Q&A log
 - Q&A log
 - Q&A Log
+- The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques
 - [Project Name]
+- The Department Is Open: Building the PX PUSH Website
+- The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques
+- 7 Signature Site Case Studies Analyzed
+- MAPPING THE UNCHARTED: THE SAN RITA PROJECT
+- 7 Signature Site Case Studies Analyzed
+- MAPPING THE UNCHARTED: THE SAN RITA PROJECT
+- 5-Persona Adversarial Roast Council Evaluation
+- Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice
+- FARM MINERALS - CASE STUDY
+- RESHAPING TELHA CLARKE’S DIGITAL HOME
+- Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary
 - runner.py
 - 🛠 Command Usage
 - `gstack` — Garry Tan's AI Engineering Team Workflow
@@ -300,6 +369,24 @@
 - Global Constraints
 - Architecture Context
 - Project Dialogs & Editor Home
+- THE NEW OBYS
+- FARM MINERALS - CASE STUDY
+- RESHAPING TELHA CLARKE’S DIGITAL HOME
+- THE NEW OBYS
+- Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice
+- Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary
+- Awwwards Research Vault Ingestion & Expansion: Discovery & Brainstorm Notes
+- DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”
+- Magnetic Commerce: Building the Dash Creative Website
+- DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”
+- Magnetic Commerce: Building the Dash Creative Website
+- Executive Typographic Breakdown
+- Executive Typographic Breakdown
+- Executive Breakdown & Key Traits of SOTY Winners
+- Executive Breakdown & Key Traits of SOTY Winners
+- Sorry, you have been blocked
+- How to win an Awwward — The elements of beautiful webdesign
+- Secret Keys and Sensitive Data Exposure
 - 1. Directory Structure Map
 - Steps
 - Step-by-Step Execution Workflow
@@ -315,10 +402,20 @@
 - Phase 3 Reference: 300+ Component Catalog & Sourcing Guide (v4.0)
 - 🔒 Locked Business Blueprint for ZORIXEL
 - Q&A Log
+- 01 - Aesthetic Foundations & Poster Typography
 - 23-Sites Design Psychology, Sensory Feel, & Spatial Choreography Guide
 - Progress Tracker
 - Progress Tracker
 - Issues
+- Sub-Vault 01: Design Principles & Aesthetics
+- Sub-Vault 02: Typography, Spacing & Grid Math
+- Sub-Vault 03: GSAP & Lenis Motion Architecture
+- Sub-Vault 04: WebGL & Three.js Shader Protocol
+- Sub-Vault 05: Case Studies & Tutorials Catalog
+- Sub-Vault 06: Judging Criteria & Master Checklist
+- 02-oklch-color-math.md
+- 03-art-direction-pillars.md
+- 04-soty-microinteractions-and-digital-hospitality.md
 - run_scrape
 - Autoresearch Loop Targets Manager
 - Layout and space
@@ -522,11 +619,11 @@
 3. `Workspace Rules` - 28 edges
 4. `🛠️ Part 1: Custom Workspace Skills` - 25 edges
 5. `Antigravity Skills & Plugins Guide` - 21 edges
-6. `Major (looks AI-generated)` - 20 edges
-7. `Code Review and Quality` - 19 edges
-8. `Slop test — 58 gates + pre-emit self-critique` - 19 edges
-9. `Full Video Transcript: How Senior Engineers Actually Build With AI in 2026` - 19 edges
-10. `Theme — Hum` - 18 edges
+6. `Case Studies of Site of the Day Winners` - 21 edges
+7. `Major (looks AI-generated)` - 20 edges
+8. `Code Review and Quality` - 19 edges
+9. `Slop test — 58 gates + pre-emit self-critique` - 19 edges
+10. `Full Video Transcript: How Senior Engineers Actually Build With AI in 2026` - 19 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `mirror_site()` --calls--> `html_to_jsx()`  [INFERRED]
@@ -535,7 +632,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (580 total, 39 thin omitted)
+## Communities (689 total, 50 thin omitted)
 
 ### Community 0 - "hallmark/SKILL.md"
 Cohesion: 0.19
@@ -565,9 +662,9 @@ Nodes (44): 10. Rule of Three Overuse, 11. Elegant Variation (Synonym Cycling), 
 Cohesion: 0.12
 Nodes (16): Core Pricing Philosophy: "Cost Floor, Value Ceiling, Defensible Price", Inter-Skill Connections, Output Artifact Format (`proposals/pricing-{client-slug}.md`), Overview & Tri-Mode Execution, Phase 1: Baseline Capture (Time Lens & Income Lens), Phase 2: Calculate Delivery Cost Floor, Phase 3: Calculate Defensible Price Corridor & 10X Check, Phase 4: Staged Micro-Service Proof & Option Architecture (+8 more)
 
-### Community 7 - "Cross-Site Request Forgery (CSRF)"
-Cohesion: 0.40
-Nodes (5): Cross-Site Request Forgery (CSRF), Edge Cases and Common Mistakes, Endpoints Requiring CSRF Protection, Protection Mechanisms, Verification Checklist
+### Community 7 - "ZORIXEL AIOS Session Post-Mortem & System Evolution Report"
+Cohesion: 0.05
+Nodes (39): 1. Executive Session Summary & Execution Context, 1. Global Rules Registry Synchronized, 1. The Contrarian (Red Team), 2. Section 1: Comprehensive Terminal, Syntax, API & Environment Error Catalog, 2. System Prompts Updated, 2. The Expansionist (Bull), 3. Decisions Log & Workspace Map Registered, 3. Section 2: User Instruction-to-Delivery & Tweak Iteration Audit (+31 more)
 
 ### Community 8 - "👥 5-Persona Council Audits"
 Cohesion: 0.17
@@ -600,6 +697,10 @@ Nodes (5): Comprehensive Research Prompt & Deep Teardown Matrix, Executive Summa
 ### Community 15 - "Vashishthya Notion OS & Google Sheets Automated Infrastructure: Discovery & Setup Blueprint"
 Cohesion: 0.11
 Nodes (18): 🚀 100% CLIENT-OWNED GOOGLE WORKSPACE & NOTION NATIVE ARCHITECTURE (NO N8N / NO SERVERS), 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4. The Researcher (Evidence & Market Data), 👥 5-PERSONA ADVERSARIAL ROAST AUDIT (`/roast`), 5. The Buyer (Dr. Prashant Singh & Dr. Pooja Singh), Domain Vocabulary & Glossary (CONTEXT.md) (+10 more)
+
+### Community 16 - "Decisions Log"
+Cohesion: 0.14
+Nodes (13): 2026-08-08 — Rich YAML Frontmatter Workspace Standardization & Agent Routing Directive, 2026-08-09 — Awwwards Master Creation Guide & 10-Site Pattern Extraction Suite, 2026-08-09 — Dedicated Awwwards Research Vault (`references/awwwards-research-vault/`), 2026-08-09 — Dynamic Loop Engine (`--dynamic`) & Autoresearch Synergy Integration, 2026-08-09 — Native Loop Engineering Engine & Workspace `LOOPS.md` Registry, 2026-08-09 — Playwright Engine Enhancement & Domain Skill Resolution (`aios_browser_engine.py`), 2026-08-09 — Session Post-Mortem Audit & Pre-Flight Script Automation, 2026-08-09 — Website Design Engine v5.0 (Awwwards 1-to-5 Pass Loop Edition) (+5 more)
 
 ### Community 17 - "new_client_runner.py"
 Cohesion: 0.60
@@ -1373,9 +1474,9 @@ Nodes (9): extract_directives(), extract_headings(), extract_summary(), extract_
 Cohesion: 0.25
 Nodes (7): 29 Security Domains & 6 Frameworks Covered, CLI Execution Parameters (`scripts/security_os_runner.py`), Overview & Tri-Mode Execution, Personalized Skill & Workflow Integrations, Post-Execution Auto-Evolution, Unified Smart Severity Engine, ZORIXEL AIOS Active Security Engine (`/security-os`)
 
-### Community 259 - "Macrostructures"
-Cohesion: 0.29
-Nodes (7): Diversification rule (mandatory), Hero polish patterns, How to pick, Macrostructures, Nav and footer voice, SaaS page sequence, The 21 macrostructures — index
+### Community 259 - "SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT"
+Cohesion: 0.09
+Nodes (22): 4-Axis Quantitative Risk Matrix, 5-Persona Adversarial Roast Council Audit (`/roast`), Audit Summary, Error 1.1: Graphify CLI Subcommand Mis-match (`update` vs `build`), Error 1.2: Transient Task Log Viewing Before Disk Flush, Error 1.3: External Git Repository Cloning Isolation & Scratch Cleanup, Iteration 2.1: `Forward-Future/loopy` Ingestion & Analysis Request, Iteration 2.2: Native Loop Skill & Master Registry Selection (+14 more)
 
 ### Community 260 - "security_os_runner.py"
 Cohesion: 0.73
@@ -1385,9 +1486,9 @@ Nodes (5): export_rules(), load_domain_index(), main(), run_audit(), search_skil
 Cohesion: 0.11
 Nodes (19): Contrast & readability, Diversification gates, Hero enrichment gates, Honest copy · no fabricated content, Implementation gates, Input-state gate, Layout-safety gates, Microinteractions (+11 more)
 
-### Community 262 - "Phase-by-Phase Execution Details"
-Cohesion: 0.10
-Nodes (19): 10-Phase Execution Architecture (v4.0), Inter-Skill Connections & Handoff Pipeline, Non-Negotiable Core Mandates, Overview & Tri-Mode Execution, Phase 0.1: Comprehensive Project Files & Graphify Context Verification Gate, Phase 0.2: Adversarial Pre-Build Audit (`/roast`), Phase 0: Socratic Intent & Stack Discovery (`/grill-me`), Phase 1: Local Reference Vault & OKLCH Theme Architecture (+11 more)
+### Community 262 - "Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)"
+Cohesion: 0.22
+Nodes (8): 10-Phase Execution Architecture (v5.1), 1-to-5 Pass Awwwards Loop Evaluation & Human-in-the-Loop Protocol, Local Awwwards Component Vault (`C:\Users\HP\Downloads\Components`), Multi-Skill Vault & Web Research Pipeline, Non-Negotiable Core Mandates, Overview & Tri-Mode Execution, Terminal Stopping Conditions, Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)
 
 ### Community 263 - "validate_yaml_frontmatter.py"
 Cohesion: 0.83
@@ -1397,9 +1498,33 @@ Nodes (3): is_reparse_or_link(), main(), validate_file()
 Cohesion: 0.17
 Nodes (11): Atinek Maurya's AI Operating System (`GEMINI.md`), 📌 Core Business & Brand Knowledge, Error Categorization Matrix & Execution Safeguards, 🛠️ How You Work With Me, ⚡ Mandatory Startup & Deep Search Directives, ⚡ SECTION 1: PERMANENT TERMINAL, API, SHELL & OS ERROR PREVENTION RULES, 🎯 SECTION 2: USER INSTRUCTION-TO-DELIVERY FIRST-TRY POLICIES, 🔒 SECTION 4: SECURITYOS MITRE ATT&CK, NIST 2.0 & MITRE ATLAS STANDARDS (+3 more)
 
+### Community 270 - "Dynamic Loops & Autoresearch Engine: Strategic Integration & Roast Analysis"
+Cohesion: 0.08
+Nodes (24): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Quantitative Risk Matrix, 4. The Researcher (Evidence), 5 High-Value AIOS Usage Scenarios, 5-Persona Adversarial Roast Council (`/roast`), 5. The Buyer (Target Agency Client / Business Owner Persona) (+16 more)
+
+### Community 271 - "ZORIXEL AIOS Session Post-Mortem & System Evolution Report"
+Cohesion: 0.08
+Nodes (23): 1. The Contrarian (Red Team) - Score: 9.5 / 10, 2. The Expansionist (Bull) - Score: 10 / 10, 3. The Logician (First Principles) - Score: 10 / 10, 4. The Researcher (Evidence) - Score: 9.8 / 10, 5. The Buyer / Operator (Atinek Maurya) - Score: 10 / 10, Decision Log ([decisions/log.md](file:///d:/AI-OS/decisions/log.md)), Error Categorization Matrix & Resolution Log, 📑 EXECUTIVE SUMMARY & ARCHITECTURAL VERDICT (+15 more)
+
+### Community 272 - "Awwwards-Level Web Creation Engine: Master Research, Local Vault & Roast Spec"
+Cohesion: 0.10
+Nodes (19): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Quantitative Risk Matrix, 4. The Researcher (Evidence), 5-Persona Adversarial Roast Council (`/roast`), 5. The Buyer (ZORIXEL High-Ticket Client Persona), Awwwards-Level Web Creation Engine: Master Research, Local Vault & Roast Spec (+11 more)
+
 ### Community 273 - "Copy"
 Cohesion: 0.11
 Nodes (17): Austere, Banned opening lines (anti-patterns), Brutalist, Buttons, Copy, Editorial, Empty states, Error messages (+9 more)
+
+### Community 274 - "10-Site Pattern Extraction Suite"
+Cohesion: 0.10
+Nodes (19): 10-Site Pattern Extraction Suite, 10. Video Theme Toggle (`theme-toggle.rdsx.dev`), 1. Obys Agency (`Obys-clone`), 2. Spylt (`Spylt-awward-clone`), 3. Mojito (`mojito-awwwards-website`), 4. AW 2025 Portfolio (`AW-2025-Portfolio`), 5. Creative Kai (`creative-kai`), 6. Prototype Studio (`Prototype-studio-rebuilt`) (+11 more)
+
+### Community 275 - "5-Persona Adversarial Roast Council (`/roast`)"
+Cohesion: 0.12
+Nodes (16): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Quantitative Risk Matrix, 4. The Researcher (Evidence & Market Benchmark), 5-Persona Adversarial Roast Council (`/roast`), 5. The Buyer (ZORIXEL Client / SMB Owner Persona), ASK (Operator Decision for Atinek Maurya) (+8 more)
+
+### Community 276 - "ZORIXEL AIOS Native Loop Engineering Engine (`/loop-engine`)"
+Cohesion: 0.12
+Nodes (15): 1. Dynamic Playbook Generation (`--dynamic`), 2. Autoresearch Engine Bridge (`/autoresearch-manage`), 5 Core AIOS Usage Scenarios, 9 Operational Workflows, Dynamic Loop Generation & Autoresearch Bridge, Execution Receipt Standard & `LOOPS.md` Protocol, Inter-Skill Connections & SDLC Handoff Pipeline, Overview & Tri-Mode Execution (+7 more)
 
 ### Community 277 - "Critical (ships as slop)"
 Cohesion: 0.12
@@ -1409,6 +1534,10 @@ Nodes (17): Aurora-blob background, Card-in-card, Critical (ships as slop), Defa
 Cohesion: 0.12
 Nodes (17): Banned defaults, Bans, Body text rules, Free body faces, Free display faces, Free mono / outlier faces, Headings rules, Hero headline sizing — match size to copy length (+9 more)
 
+### Community 279 - "Case Studies of Site of the Day Winners"
+Cohesion: 0.07
+Nodes (29): Awwwards Research Vault 05 - Case Studies, Tutorials & Component Ingestion, Case Studies of Site of the Day Winners, Case Study 10: WelcomeToSeason16 (LeBron James Lakers Campaign), Case Study 11: PulpFingers (Classic SOTD Winner), Case Study 12: iyO One — Audio Computer (Google X Moonshot SOTD Showcase), Case Study 13: The New Obys (Obys Agency Studio Redesign — Studio of the Year Winner), Case Study 14: Fluid Glass (Exo Ape Studio SOTD Showcase), Case Study 15: Trionn Agency Architecture (Coordinating GSAP, Three.js, Lenis & Web Audio) (+21 more)
+
 ### Community 280 - "Q&A log"
 Cohesion: 0.12
 Nodes (16): Adversarial Roast (Self-Roast Verdict), Open flags (pending input), Premium Frontend System Restructuring: Brainstorm / Discovery Notes, Q1 — Root File Restructuring, Q1 — Static Three.js & GSAP Skills Sourcing, Q2 — MCP Server Selection, Q2 — Playwright Reference Ingestion, Q3 — Playwright Audit Instructions in Workflows (+8 more)
@@ -1416,6 +1545,30 @@ Nodes (16): Adversarial Roast (Self-Roast Verdict), Open flags (pending input), 
 ### Community 281 - "3. Page Structure & Macrostructure Layout"
 Cohesion: 0.12
 Nodes (16): 1. Business Objective & Strategy, 2. Design System & Aesthetic Foundation, 3. Page Structure & Macrostructure Layout, 4. Media & Assets Strategy, 5. Verification & Quality Assurance Plan, 🚫 Banned Anti-Patterns (Hallmark Anti-Slop):, 🏛️ Client-Conversion AI Design Studio Showcase — Design Specification, 🎨 Color Token Architecture (OKLCH): (+8 more)
+
+### Community 282 - "aios_browser_engine.py"
+Cohesion: 0.20
+Nodes (11): capture_debug_click(), fill_framework_input_js(), get_domain_skills(), ZORIXEL AIOS Unified Browser Engine & Playwright Helpers. Extracted & adapted…, Draws a red crosshair and target circle at (x, y) coordinates on screenshot…, Empirical verification test suite for AI-OS Browser Engine., Generates pure JS to inject text into React/Vue/Ember controlled input elements…, Scans .agents/skills/domain-skills/<hostname>/ for pre-recorded site SOPs and… (+3 more)
+
+### Community 283 - "Socratic Discovery Q&A Log"
+Cohesion: 0.22
+Nodes (8): Executive Summary & Concept Overview, How Scenario 1 Works Under the Hood, Q1 — Target Prompt / Skill Selection, Q2 — Scoring Criteria & Weighting Strategy, Q3 — Stopping Criteria & Execution Bounds, Q4 — Winning Artifact Promotion Policy, Scenario 1: Autonomous Prompt & Skill Optimization Trial Setup (`prompt-opt`), Socratic Discovery Q&A Log
+
+### Community 284 - "Active Workspace Playbooks"
+Cohesion: 0.18
+Nodes (10): Active Workspace Playbooks, Execution Receipts Log, Master Workflow 01: Zero-Subscription Client Operations & Automation OS (`MW01-zero-subscription-client-os`), Master Workflows Registry, Playbook 01: TDD Error Sweep (`tdd-sweep`), Playbook 02: Documentation & Master Index Sync (`doc-sync`), Playbook 03: Playwright Visual QA Sweep (`visual-qa`), Playbook 04: SecurityOS Anti-Vulnerability Sweep (`security-sweep`) (+2 more)
+
+### Community 285 - "Awwwards Research Vault 02 - Typography, Spacing & Grid Math"
+Cohesion: 0.15
+Nodes (12): Approved Extended Font Families, Awwwards Research Vault 02 - Typography, Spacing & Grid Math, CSS `font-stretch` & Variable Font `wdth` Settings, Extended Font & Variable Font Width Specification, Extended vs. Artificial Distortion (`scaleX`) Rule, Line-Height & Margin Rules, Obys Spatial Padding & Vertical Rhythm Ratios, Overview (+4 more)
+
+### Community 286 - "Core Execution Guidelines"
+Cohesion: 0.25
+Nodes (7): 1. Framework-Aware Input Filling, 2. Domain Skill Resolution, 3. Visual Click Debug Overlays, 4. Non-Blocking Dialog Handling, 5. Automatic Site-Specific Domain Skill Integration, AI-OS Browser Automation & Testing Standard, Core Execution Guidelines
+
+### Community 287 - "Awwwards Research Vault 03 - GSAP & Lenis Motion Architecture"
+Cohesion: 0.22
+Nodes (8): Awwwards Research Vault 03 - GSAP & Lenis Motion Architecture, Barba.js Seamless Page Transition Engine, GSAP ScrollTrigger Pinned Scrollytelling, Lenis Smooth Momentum Scroll Initialization, Magnetic Cursor & Interactive Micro-Physics, Overview, Split-Text Character & Masked Line Reveals, Trionn Master Motion & Web Audio Pipeline (Codrops Standard)
 
 ### Community 288 - "audit/SKILL.md"
 Cohesion: 0.12
@@ -1425,6 +1578,10 @@ Nodes (16): Cadence (25 pts), Capabilities (25 pts), Connections (25 pts) — do
 Cohesion: 0.12
 Nodes (16): Check 1 — Routing integrity ("does everything it points to exist?"), Check 2 — Index truth ("do the indexes match the disk?"), Check 3 — Freshness ("are the data feeds current?"), Check 4 — Bloat, duplication, and organization ("does anything live twice, or in the wrong place, or for no reason?"), Check 5 — Hygiene and silent failures ("what's broken or exposed without anyone noticing?"), Check 6 — Context placement ("is everything on the right side of the expertise/situational line?"), Execution, Inter-Skill Connections & Handoff Pipeline (+8 more)
 
+### Community 290 - "Awwwards Research Vault 01 - Design Principles & Aesthetic Foundations"
+Cohesion: 0.25
+Nodes (7): Anti-Slop Safeguards & Quality Gates, Awwwards Research Vault 01 - Design Principles & Aesthetic Foundations, Executive Summary, OKLCH Dopamine-Monochromatic Color Math, Poster Typography & Editorial Visuals, SOTY Checklist & Microinteraction Physics (Alex Streza, Obys & Exo Ape Synthesis), The 4 Pillar Awwwards Aesthetic Principles
+
 ### Community 291 - "Figma Micrographics Assets: Brainstorm / Discovery Notes"
 Cohesion: 0.12
 Nodes (15): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First principles), 4. The Researcher (Evidence), 5. The Buyer (Voice of customer), adversarial roast council, Figma Micrographics Assets: Brainstorm / Discovery Notes, Open flags (pending input) (+7 more)
@@ -1433,17 +1590,97 @@ Nodes (15): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Log
 Cohesion: 0.12
 Nodes (15): 1. The Contrarian (Red Team), 23-Site Design Learning & Synthesis Engine: Discovery & Brainstorm Notes, 2. The Expansionist (Bull), 3. The Logician (First Principles), 4. The Researcher (Evidence), 5. The Buyer (Voice of Customer — Atinek Maurya), 🥊 ADVERSARIAL 5-PERSONA COUNCIL ROAST (`/roast`), Domain Vocabulary & Glossary (CONTEXT.md candidates) (+7 more)
 
+### Community 293 - "Awwwards Research Vault 04 - WebGL & Three.js Shader Protocol"
+Cohesion: 0.20
+Nodes (9): ASCII Hero & Video-to-ASCII Canvas Engine, Awwwards Research Vault 04 - WebGL & Three.js Shader Protocol, Custom WebGL Image Distortion Slider Protocol, Overview, Radiant WebGL Shaders Integration, Static Mesh Network Pulse Shader Rule, Three.js `onBeforeCompile()` GLSL Injection Architecture (Cerebrium Case Study), Three.js ShaderMaterial Setup (+1 more)
+
+### Community 294 - "Awwwards Research Vault 06 - Judging Criteria & Master Checklist"
+Cohesion: 0.29
+Nodes (6): Awwwards Research Vault 06 - Judging Criteria & Master Checklist, Human-in-the-Loop Visual Rating Gate Protocol, Master Pre-Flight Quality Checklist, Official Awwwards 4-Category Weighted Scoring System, Overview, The 5-Pass `prepare.py` Evaluator Rubric
+
+### Community 295 - "AI-OS Domain Skills Registry"
+Cohesion: 0.40
+Nodes (4): Adding a Domain Skill, AI-OS Domain Skills Registry, Folder Structure, How It Works
+
+### Community 296 - "Council Detailed Red-Team Analysis"
+Cohesion: 0.14
+Nodes (13): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Risk Matrix, 4. The Researcher (Evidence), 5. The Buyer (Target Customer / Agency Client View), 6. Extended Security Auditor (`/vibesec`), 7. Extended UX & Workflow Lead (+5 more)
+
+### Community 297 - "Awwwards Research Vault Master Index"
+Cohesion: 0.50
+Nodes (3): Awwwards Research Vault Master Index, Core System Integrations, Vault Document Catalog
+
+### Community 299 - "🏛️ Discovered 6 High-Moat Master Workflow Systems"
+Cohesion: 0.12
+Nodes (15): All-Skill Dynamic Workflow Integration & Autonomous Execution Engine: Discovery & Brainstorm Notes, 🏛️ Discovered 6 High-Moat Master Workflow Systems, Domain Vocabulary & Glossary (CONTEXT.md updates), Executive Summary & Key Decisions, Master Workflow 1: The Zero-Subscription Client Operations & Automation OS [ACTIVE SESSION FOCUS — LOCKED], Master Workflow 2: Awwwards-Grade Web Creation & Anti-Slop Visual Design Engine [PENDING QUEUE - SESSION 2], Master Workflow 3: Fullstack AI Agency Build & Security Gate Pipeline (SDLC Master Engine) [PENDING QUEUE - SESSION 3], Master Workflow 4: Autonomous Deep Research, YouTube & Web Intelligence Engine [PENDING QUEUE - SESSION 4] (+7 more)
+
+### Community 300 - "ZORIXEL AIOS Session Post-Mortem & System Evolution Report"
+Cohesion: 0.13
+Nodes (14): 1.1 Error Categorization & Execution Safeguards Matrix, 1.2 Detailed Traceback Analysis & Solutions, 2.1 User Prompt Iteration Analysis, 3.1 Reusable Skill Template: Self-Hosted n8n Workflow Engine (`.agents/skills/n8n/SKILL.md`), 4.1 5-Persona Council Audit, 4.2 Automated Pre-Flight Health Script (`scripts/test_master_workflows_health.py`), Case Study 1: Missing Skill Path Resolution (`wowerpoint` vs `frontend-slides`), 📑 EXECUTIVE SUMMARY (+6 more)
+
+### Community 301 - "n8n Node Reference & Production Workflow Engine"
+Cohesion: 0.15
+Nodes (11): 1-Click Launch Script (`start_n8n.bat`), n8n Expression Standard, n8n Node Reference & Production Workflow Engine, Overview, Standard Node Types (`n8n-nodes-base.*`), 1. Build Full n8n Workflow JSON, 2. Generate Client Launch Script, Complete Executable Workflow Example (+3 more)
+
+### Community 302 - "Council Detailed Breakdowns"
+Cohesion: 0.15
+Nodes (12): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Risk Matrix, 4. The Researcher (Evidence), 5. The Buyer (Target Customer / Client View), 6. Extended UX & Workflow Specialist, Council Detailed Breakdowns (+4 more)
+
+### Community 303 - "6-Phase Execution Pipeline (with Integrated `/grill-me` + `/roast` Gates)"
+Cohesion: 0.17
+Nodes (11): 6-Phase Execution Pipeline (with Integrated `/grill-me` + `/roast` Gates), Combined Skills Matrix, Executive Overview, Master Workflow 1: Zero-Subscription Client Operations & Automation OS (MW01), Phase 1: Intake & Discovery (`grill-me` + `roast` + `to-questionnaire`), Phase 2: Database & Schema Provisioning (`grill-me` + `roast` + `gws-automation-engine` + `notion-formula-builder`), Phase 3: Self-Hosted n8n Workflow Construction (`grill-me` + `roast` + `n8n`), Phase 4: Status-Driven Document Generation (`grill-me` + `roast` + `pdf` + `xlsx` + `docx`) (+3 more)
+
+### Community 304 - "workmon_sensor.py"
+Cohesion: 0.18
+Nodes (15): check_pid_active(), cleanup_old_task_logs(), inspect_task(), is_alert_rate_limited(), main(), Suppresses duplicate webhooks for the same task ID within COOLDOWN_SECONDS…, Posts telemetry payload to n8n webhook with rate-limiting and local JSON…, Runs aios_gws_health_check.py script to handle OAuth token refreshes. (+7 more)
+
+### Community 305 - "run_auto_evolver"
+Cohesion: 0.29
+Nodes (9): extract_and_register_error_rule(), main(), Appends a newly discovered error pattern to GLOBAL_ERROR_PREVENTION_RULES.md., Triggers graphify AST update after workflow state mutations., Scans skills-library directory for tools/skills relevant to execution context., Executes full auto-improvement loop post-workflow run., run_auto_evolver(), run_graphify_update() (+1 more)
+
 ### Community 306 - "📌 Non-Negotiable Core Execution Rules"
 Cohesion: 0.12
 Nodes (15): 1. Global Zero-Hurry & Rigor Mandate, 2. Concept Explanation BEFORE Every Question, 3. Proactive Web Research & Documentation Sourcing, 4. Categorized Option-Based Inquiries (INFER / ASK / RECOMMEND), 5. Checkpoint to Disk After Every Single Response, 6. Domain Vocabulary & Ubiquitous Language Maintenance (`mattpocock-domain-modeling`), 7. Mandatory Pre-Write `/roast` Council Gate, 8. Pre-Coding Backstop Check (+7 more)
 
 ### Community 307 - "Client-Side Bugs"
-Cohesion: 0.13
-Nodes (15): Best Practices, Bypass Techniques to Block, Client-Side Bugs, Cross-Site Scripting (XSS), IDN Homograph Attack Protection, Input Sources to Protect, Never Expose in Client-Side Code, Open Redirect (+7 more)
+Cohesion: 0.12
+Nodes (16): Bypass Techniques to Block, Client-Side Bugs, Cross-Site Request Forgery (CSRF), Cross-Site Scripting (XSS), Edge Cases and Common Mistakes, Endpoints Requiring CSRF Protection, IDN Homograph Attack Protection, Input Sources to Protect (+8 more)
+
+### Community 308 - "Python Implementation Patterns"
+Cohesion: 0.29
+Nodes (6): 1. Extract Text & Tables with `pdfplumber`, 2. Merge & Split with `pypdf`, 3. Create PDF Reports with `reportlab`, Core Capabilities, PDF Processing & Generation Engine, Python Implementation Patterns
+
+### Community 309 - "WorkMon Workflows 1 & 2: Complete Discovery & Architecture Master Spec"
+Cohesion: 0.29
+Nodes (6): Complete Q&A Log & Decisions, Domain Vocabulary & Glossary (CONTEXT.md updates), Executive Summary & Key Decisions, Implementation Components, System Architecture Blueprint, WorkMon Workflows 1 & 2: Complete Discovery & Architecture Master Spec
+
+### Community 310 - "XLSX Spreadsheet Engineering Guide"
+Cohesion: 0.40
+Nodes (4): Core Capabilities, Financial Modeling Standards, Formula Rules & Compatibility, XLSX Spreadsheet Engineering Guide
 
 ### Community 311 - "Ghost AI"
 Cohesion: 0.13
 Nodes (14): AI Architecture Generation, Authentication and Projects, Collaborative Canvas, Core User Flow, Features, Ghost AI, Goals, In Scope (+6 more)
+
+### Community 312 - "DOCX Document Engineering Guide"
+Cohesion: 0.50
+Nodes (3): Core Capabilities, Creation Standards (`docx-js`), DOCX Document Engineering Guide
+
+### Community 316 - "SECTION 1: COMPREHENSIVE TERMINAL, SYNTAX, API & ENVIRONMENT ERROR CATALOG"
+Cohesion: 0.15
+Nodes (12): Error 1: Task Log Path Direct Access Failure (`WinError 2` / File Not Found), Error 2: CLI Subcommand Schema Misalignment (`graphify_runner.py update` vs `build`), Error 3: Local Webhook Connection Refused (`WinError 10061`), Error 4: Windows File Locking (`PermissionError: [WinError 32]`), Pre-Flight Python Health Script (`scripts/test_workmon_health.py`), Reusable Pattern: WorkMon Engine Integration Skill Spec, SECTION 1: COMPREHENSIVE TERMINAL, SYNTAX, API & ENVIRONMENT ERROR CATALOG, SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT (+4 more)
+
+### Community 317 - "WorkMon Workflows 1 & 2 Unified Engine Master Specification"
+Cohesion: 0.18
+Nodes (10): 1. Manual Health Check, 2. Manual Auto-Evolution Test, 3. n8n Import SOP, Auto-Evolution & Skill Suggestion Protocol, Health Decision Matrix, n8n Central Hub Integration, Operational SOPs, Overview & System Architecture (+2 more)
+
+### Community 318 - "Macrostructures"
+Cohesion: 0.29
+Nodes (7): Diversification rule (mandatory), Hero polish patterns, How to pick, Macrostructures, Nav and footer voice, SaaS page sequence, The 21 macrostructures — index
+
+### Community 319 - "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio"
+Cohesion: 0.04
+Nodes (47): A Shared Scroll Driver, Audio-Reactive Fog, Bending Cards onto the Helix, Building the Helix, Charge-Up and Blast, clickBurst Drives the Explosion, Client-side image mounting and color sampling, Closing Notes (+39 more)
 
 ### Community 320 - "Frontend Slides Generator"
 Cohesion: 0.13
@@ -1473,9 +1710,45 @@ Nodes (14): Critical implementation rules, Execution — three phases, Inputs th
 Cohesion: 0.12
 Nodes (15): 1. `/six-file-context-methodology init`, 2. `/six-file-context-methodology spec <feature-name>`, 3. `/six-file-context-methodology spec-all`, 4. `/six-file-context-methodology execute [ticket|wave|all]`, 5. `/six-file-context-methodology verify`, 6. `/six-file-context-methodology check`, 7. `/six-file-context-methodology resume`, Addressed Vulnerabilities & v3.2 System Upgrades (+7 more)
 
+### Community 328 - "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio"
+Cohesion: 0.04
+Nodes (47): A Shared Scroll Driver, Audio-Reactive Fog, Bending Cards onto the Helix, Building the Helix, Charge-Up and Blast, clickBurst Drives the Explosion, Client-side image mounting and color sampling, Closing Notes (+39 more)
+
 ### Community 329 - "UI Context"
 Cohesion: 0.14
 Nodes (13): Border Radius, Canvas, Canvas Background, Component Library, Connection Handles, Edge Style, Icons, Layout Patterns (+5 more)
+
+### Community 330 - "FAQ on Extended Fonts"
+Cohesion: 0.07
+Nodes (28): Artificially Stretched Text, Artificially Stretched vs. True Extended, Body Text and Long-Form Reading, Can I use an extended font for body text?, Conclusion, Do extended fonts affect page load performance?, Does CSS font-stretch actually stretch a font?, Extended Font Families Worth Knowing (+20 more)
+
+### Community 331 - "Between Print and Digital: The Making of MERSI’s Website"
+Cohesion: 0.09
+Nodes (22): A Signature Split-Screen Slider, Between Print and Digital, Between Print and Digital: The Making of MERSI’s Website, Between Print and Digital: The Making of MERSI’s Website, Building a Tailored Webflow Experience, Creating a Website the Client Could Finally Own, Credits, Designing to Sublimate the Projects (+14 more)
+
+### Community 332 - "Between Print and Digital: The Making of MERSI’s Website"
+Cohesion: 0.09
+Nodes (22): A Signature Split-Screen Slider, Between Print and Digital, Between Print and Digital: The Making of MERSI’s Website, Between Print and Digital: The Making of MERSI’s Website, Building a Tailored Webflow Experience, Creating a Website the Client Could Finally Own, Credits, Designing to Sublimate the Projects (+14 more)
+
+### Community 333 - "ZERO: The Engineering Behind a Defiant Interactive Narrative"
+Cohesion: 0.09
+Nodes (21): Burning money, Credits, Final thoughts, How the project started, Interaction design, Lighting the hands without lights, Preparing the 3D for the web, Shredding certificates (+13 more)
+
+### Community 334 - "ZERO: The Engineering Behind a Defiant Interactive Narrative"
+Cohesion: 0.09
+Nodes (21): Burning money, Credits, Final thoughts, How the project started, Interaction design, Lighting the hands without lights, Preparing the 3D for the web, Shredding certificates (+13 more)
+
+### Community 335 - "FLUID GLASS - CASE STUDY"
+Cohesion: 0.12
+Nodes (15): About Exo Ape, Credits, Digital Hospitality, Early motion studies, Fluid Glass - Case Study, FLUID GLASS - CASE STUDY, From digital to physical, Introduction (+7 more)
+
+### Community 336 - "GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB"
+Cohesion: 0.12
+Nodes (15): AI-Assisted Production Experiments, Building a Continuous Cinematic Timeline, Collaboration Between Creative and Technical Teams, Company Info, Creating a Real-Time Cinematic Experience Around Audemars Piguet’s RD#5, Creating an Audemars Piguet Universe, Designing Luxury Rendering in Real Time, GQ & Audemars Piguet: The Extraordinary Lab (+7 more)
+
+### Community 337 - "IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER"
+Cohesion: 0.12
+Nodes (15): A digital showroom, A journey in three acts, Awards, Credits, From engineering to e-commerce ready, Futuristic, but familiar, Inside the device, iyO - Case Study: selling the world's first audio... (+7 more)
 
 ### Community 338 - "graphify_runner.py"
 Cohesion: 0.24
@@ -1513,6 +1786,10 @@ Nodes (13): 🎭 Domain Persona Presets, Execution Pipeline, Inter-Skill Connect
 Cohesion: 0.15
 Nodes (13): Additional Defenses, Injection Points to Watch, Path Traversal, Path Traversal Checklist, Prevention by Language/Parser, Prevention Methods, Prevention Strategies, Server-Side Bugs (+5 more)
 
+### Community 347 - "FLUID GLASS - CASE STUDY"
+Cohesion: 0.12
+Nodes (15): About Exo Ape, Credits, Digital Hospitality, Early motion studies, Fluid Glass - Case Study, FLUID GLASS - CASE STUDY, From digital to physical, Introduction (+7 more)
+
 ### Community 348 - "Initial Analysis Details"
 Cohesion: 0.15
 Nodes (12): 1. How It Benefits Us, 2. Can It Be Improved?, 3. Can It Improve Our AIOS?, 4. Does It Reduce Quality?, 5. Deleted Skills Check, 6. Vulnerabilities & Risks, Initial Analysis Details, Open flags (pending input) (+4 more)
@@ -1520,6 +1797,50 @@ Nodes (12): 1. How It Benefits Us, 2. Can It Be Improved?, 3. Can It Improve Our
 ### Community 349 - "Q&A log"
 Cohesion: 0.15
 Nodes (12): Open flags (pending input), Q1 — Primary Upgrade Roadmap Focus, Q2 — Component Registry & Taxonomy Architecture, Q3 — Candidate Source Selection (Phase 1), Q4 — Phase 2 Granularity Targets & Deconstruct Upgrade Sequence, Q5 — Deconstruction Engine Upgrade & Unbounded Component Extraction Rule, Q6 — Dedicated Shader & Canvas Physics Vault Architecture (Phase 3), Q7 — Structured Component Vault Creation (+4 more)
+
+### Community 350 - "GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB"
+Cohesion: 0.12
+Nodes (15): AI-Assisted Production Experiments, Building a Continuous Cinematic Timeline, Collaboration Between Creative and Technical Teams, Company Info, Creating a Real-Time Cinematic Experience Around Audemars Piguet’s RD#5, Creating an Audemars Piguet Universe, Designing Luxury Rendering in Real Time, GQ & Audemars Piguet: The Extraordinary Lab (+7 more)
+
+### Community 351 - "IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER"
+Cohesion: 0.12
+Nodes (15): A digital showroom, A journey in three acts, Awards, Credits, From engineering to e-commerce ready, Futuristic, but familiar, Inside the device, iyO - Case Study: selling the world's first audio... (+7 more)
+
+### Community 352 - "3D and WebGL Pipeline"
+Cohesion: 0.13
+Nodes (14): 3D and WebGL Pipeline, A Shared Environment, Animating the Network, Bad topology, Baking the Camera Animation, Building Cerebrium: Making Serverless Infrastructure Tangible, Building Cerebrium: Making Serverless Infrastructure Tangible, Could We Build It with WebGPU? (+6 more)
+
+### Community 353 - "NOT A PORTFOLIO. A PRESENCE."
+Cohesion: 0.13
+Nodes (14): A Director, Not a Website Owner, Apr 22, 2026, Building the Experience, Company Info, Killing the Interface, Less Control, More Trust, Motion as Narrative, Not a Portfolio. A Presence. (+6 more)
+
+### Community 354 - "NOT A PORTFOLIO. A PRESENCE."
+Cohesion: 0.13
+Nodes (14): A Director, Not a Website Owner, Apr 22, 2026, Building the Experience, Company Info, Killing the Interface, Less Control, More Trust, Motion as Narrative, Not a Portfolio. A Presence. (+6 more)
+
+### Community 355 - "3D and WebGL Pipeline"
+Cohesion: 0.13
+Nodes (14): 3D and WebGL Pipeline, A Shared Environment, Animating the Network, Bad topology, Baking the Camera Animation, Building Cerebrium: Making Serverless Infrastructure Tangible, Building Cerebrium: Making Serverless Infrastructure Tangible, Could We Build It with WebGPU? (+6 more)
+
+### Community 356 - "LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION"
+Cohesion: 0.14
+Nodes (13): Behind the curtain: the stack, Company Info, Credits, Introduction, Jul 15, 2026, La Revoltosa: Rebooting a 70-Year-Old Spanish Soda..., LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION, Technologies used (+5 more)
+
+### Community 357 - "Production Pipeline"
+Cohesion: 0.14
+Nodes (13): Character Animation, Character Posing, Clothing Simulation, Hair Sculpting, Photogrammetry, Production Pipeline, Project Backstory, Prop Optimization (+5 more)
+
+### Community 358 - "LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION"
+Cohesion: 0.14
+Nodes (13): Behind the curtain: the stack, Company Info, Credits, Introduction, Jul 15, 2026, La Revoltosa: Rebooting a 70-Year-Old Spanish Soda..., LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION, Technologies used (+5 more)
+
+### Community 359 - "Production Pipeline"
+Cohesion: 0.14
+Nodes (13): Character Animation, Character Posing, Clothing Simulation, Hair Sculpting, Photogrammetry, Production Pipeline, Project Backstory, Prop Optimization (+5 more)
+
+### Community 360 - "The Department Is Open: Building the PX PUSH Website"
+Cohesion: 0.15
+Nodes (12): A Drawer Made of Paper, Bringing the ’80s Office into the Browser, Credits, Stack, The Department Is Open: Building the PX PUSH Website, The Department Is Open: Building the PX PUSH Website, The Error Page, The Founders Rotate Like a Character-Select Screen (+4 more)
 
 ### Community 361 - "ZORIXEL Viral Carousel Copywriter (`/carousel-copy`)"
 Cohesion: 0.15
@@ -1553,9 +1874,57 @@ Nodes (11): Open flags (pending input), Q1 — Scaffolding / Initialization Mode
 Cohesion: 0.17
 Nodes (11): Open Flags (Pending Input), Q1 — Scope & Upgrade Vision, Q2 — Area A: Multi-Page & Token System Integration, Q3 — Area B: Motion Dialing, WebGL & Skills-Library Integration, Q4 — Area C: Technical QA, Multi-Viewport Verification & SEO/GEO Suite, Q5 — Ecosystem Integrations & Asset Generation, Q6 — Structural Fixes for User Pain Points (Context Bloat, Rushing, AI Slop), Q7 — Automatic Vault Reading & Zero-Cost Media Guard (+3 more)
 
+### Community 369 - "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques"
+Cohesion: 0.15
+Nodes (12): 2. Solidify modifier, Fog, Infinite Scrolling City, Lighting, Mesh Outlines, Step 1: Create a material dedicated to the outline., Step 1: Linear Vertical Fog, Step 2: Noise-Driven Fog Animation (+4 more)
+
 ### Community 370 - "[Project Name]"
 Cohesion: 0.17
 Nodes (11): Core User Flow, [Feature Category One], [Feature Category Two], Features, Goals, In Scope, Out of Scope, Overview (+3 more)
+
+### Community 371 - "The Department Is Open: Building the PX PUSH Website"
+Cohesion: 0.15
+Nodes (12): A Drawer Made of Paper, Bringing the ’80s Office into the Browser, Credits, Stack, The Department Is Open: Building the PX PUSH Website, The Department Is Open: Building the PX PUSH Website, The Error Page, The Founders Rotate Like a Character-Select Screen (+4 more)
+
+### Community 372 - "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques"
+Cohesion: 0.15
+Nodes (12): 2. Solidify modifier, Fog, Infinite Scrolling City, Lighting, Mesh Outlines, Step 1: Create a material dedicated to the outline., Step 1: Linear Vertical Fog, Step 2: Noise-Driven Fog Animation (+4 more)
+
+### Community 373 - "7 Signature Site Case Studies Analyzed"
+Cohesion: 0.17
+Nodes (11): 1. Pioneer: Corn Revolutionized (Resn — SOTY 2020 Winner), 2. Das Falter Inferno (Wild.as — SOTD Winner), 3. ChungiYoo Portfolio (Art Direction by Zhenya Rynzhuk), 4. Carine Roitfeld (Numbered Studio & AskPhill), 5. WelcomeToSeason16 (LeBron James Lakers Campaign), 6. PulpFingers (Classic SOTD Winner), 7. B-Boy Lilou (90s Street Culture Showcase), 7 Signature Site Case Studies Analyzed (+3 more)
+
+### Community 374 - "MAPPING THE UNCHARTED: THE SAN RITA PROJECT"
+Cohesion: 0.17
+Nodes (11): A Living Portfolio, A Place to Call Home, About the Studio, Apr 29, 2026, Building the Territory: From GPS to Shaders, Lessons from the Trail, Mapping the Uncharted: The San Rita Project, MAPPING THE UNCHARTED: THE SAN RITA PROJECT (+3 more)
+
+### Community 375 - "7 Signature Site Case Studies Analyzed"
+Cohesion: 0.17
+Nodes (11): 1. Pioneer: Corn Revolutionized (Resn — SOTY 2020 Winner), 2. Das Falter Inferno (Wild.as — SOTD Winner), 3. ChungiYoo Portfolio (Art Direction by Zhenya Rynzhuk), 4. Carine Roitfeld (Numbered Studio & AskPhill), 5. WelcomeToSeason16 (LeBron James Lakers Campaign), 6. PulpFingers (Classic SOTD Winner), 7. B-Boy Lilou (90s Street Culture Showcase), 7 Signature Site Case Studies Analyzed (+3 more)
+
+### Community 376 - "MAPPING THE UNCHARTED: THE SAN RITA PROJECT"
+Cohesion: 0.17
+Nodes (11): A Living Portfolio, A Place to Call Home, About the Studio, Apr 29, 2026, Building the Territory: From GPS to Shaders, Lessons from the Trail, Mapping the Uncharted: The San Rita Project, MAPPING THE UNCHARTED: THE SAN RITA PROJECT (+3 more)
+
+### Community 377 - "5-Persona Adversarial Roast Council Evaluation"
+Cohesion: 0.18
+Nodes (10): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Quantitative Risk Matrix, 4. The Researcher (Evidence), 5-Persona Adversarial Roast Council Evaluation, 5. The Buyer (Atinek Maurya / Developer Ergonomics), Action Plan: What We Will Do After Creating 6 Folders (+2 more)
+
+### Community 378 - "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice"
+Cohesion: 0.18
+Nodes (10): A Quiet Structure, Building an Archive, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing for Time, Image First, Motion, Navigation as Movement (+2 more)
+
+### Community 379 - "FARM MINERALS - CASE STUDY"
+Cohesion: 0.18
+Nodes (10): Apr 15, 2026, Company Info, Farm Minerals - Case Study, FARM MINERALS - CASE STUDY, Introduction, Lessons Learned, Product Visualization, Technologies (+2 more)
+
+### Community 380 - "RESHAPING TELHA CLARKE’S DIGITAL HOME"
+Cohesion: 0.18
+Nodes (10): About Gregory & Thomas, Final thoughts, Introduction, Jul 10, 2026, Layouts shaped by content, Meaningful motion, seamless experience, Reducing interaction to a single system, Reshaping Telha Clarke’s Digital Home (+2 more)
+
+### Community 381 - "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary"
+Cohesion: 0.18
+Nodes (10): How the Experience Works, Mouse Trail, One Year Later, Optimizations, Sound as a Chapter, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Thank you (+2 more)
 
 ### Community 382 - "runner.py"
 Cohesion: 0.26
@@ -1617,6 +1986,78 @@ Nodes (10): AI Generation Model, Architecture Context, Auth and Collaboration Mo
 Cohesion: 0.18
 Nodes (10): Check When Done, Create Project, Delete Project, Dialogs, Editor Home, Goal, Implementation, Project Dialogs & Editor Home (+2 more)
 
+### Community 397 - "THE NEW OBYS"
+Cohesion: 0.18
+Nodes (10): A system behind the simplicity, A Website Built as a Space, Choosing What Matters, Company Info, Introduction, It started with a typeface, Jul 1, 2026, Technologies (+2 more)
+
+### Community 398 - "FARM MINERALS - CASE STUDY"
+Cohesion: 0.18
+Nodes (10): Apr 15, 2026, Company Info, Farm Minerals - Case Study, FARM MINERALS - CASE STUDY, Introduction, Lessons Learned, Product Visualization, Technologies (+2 more)
+
+### Community 399 - "RESHAPING TELHA CLARKE’S DIGITAL HOME"
+Cohesion: 0.18
+Nodes (10): About Gregory & Thomas, Final thoughts, Introduction, Jul 10, 2026, Layouts shaped by content, Meaningful motion, seamless experience, Reducing interaction to a single system, Reshaping Telha Clarke’s Digital Home (+2 more)
+
+### Community 400 - "THE NEW OBYS"
+Cohesion: 0.18
+Nodes (10): A system behind the simplicity, A Website Built as a Space, Choosing What Matters, Company Info, Introduction, It started with a typeface, Jul 1, 2026, Technologies (+2 more)
+
+### Community 401 - "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice"
+Cohesion: 0.18
+Nodes (10): A Quiet Structure, Building an Archive, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing for Time, Image First, Motion, Navigation as Movement (+2 more)
+
+### Community 402 - "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary"
+Cohesion: 0.18
+Nodes (10): How the Experience Works, Mouse Trail, One Year Later, Optimizations, Sound as a Chapter, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Thank you (+2 more)
+
+### Community 403 - "Awwwards Research Vault Ingestion & Expansion: Discovery & Brainstorm Notes"
+Cohesion: 0.20
+Nodes (9): Awwwards Research Vault Ingestion & Expansion: Discovery & Brainstorm Notes, Executive Summary & Key Decisions, Q1 — Ingestion Strategy & Vault Architecture, Q2 — Article & Case Study Intake Sources, Q3 — Scraping Execution & Non-Lossy Ingestion Strategy, Q4 — 6-Folder Sub-Vault Restructuring Plan & /roast Verdict, Q&A Log, Wave 2 Execution Summary & Checkpoint (+1 more)
+
+### Community 404 - "DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”"
+Cohesion: 0.20
+Nodes (9): Company Info, Designed to Be Discovered, Designing for an Identity That “ShapeShifts”, DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”, Final Thought - Second Attempt., Jul 8, 2026, Leaving the Method behind, Technologies (+1 more)
+
+### Community 405 - "Magnetic Commerce: Building the Dash Creative Website"
+Cohesion: 0.20
+Nodes (9): Architecture, Magnetic Commerce: Building the Dash Creative Website, Magnetic Commerce: Building the Dash Creative Website, Motion Direction and Persistence, Reflections, Stack and Tools, The Approach, The Hero Background: Distorting a Live Surface (+1 more)
+
+### Community 406 - "DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”"
+Cohesion: 0.20
+Nodes (9): Company Info, Designed to Be Discovered, Designing for an Identity That “ShapeShifts”, DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”, Final Thought - Second Attempt., Jul 8, 2026, Leaving the Method behind, Technologies (+1 more)
+
+### Community 407 - "Magnetic Commerce: Building the Dash Creative Website"
+Cohesion: 0.20
+Nodes (9): Architecture, Magnetic Commerce: Building the Dash Creative Website, Magnetic Commerce: Building the Dash Creative Website, Motion Direction and Persistence, Reflections, Stack and Tools, The Approach, The Hero Background: Distorting a Live Surface (+1 more)
+
+### Community 408 - "Executive Typographic Breakdown"
+Cohesion: 0.25
+Nodes (7): Executive Typographic Breakdown, Extended vs. Artificially Stretched Text, Font Width Classification & CSS Specs, Key Extended Typeface Recommendations, Key Use Cases in Awwwards Layouts, Modern Web CSS Rules for Extended Fonts, What Is an Extended Font and When to Use It in Web Design
+
+### Community 409 - "Executive Typographic Breakdown"
+Cohesion: 0.25
+Nodes (7): Executive Typographic Breakdown, Extended vs. Artificially Stretched Text, Font Width Classification & CSS Specs, Key Extended Typeface Recommendations, Key Use Cases in Awwwards Layouts, Modern Web CSS Rules for Extended Fonts, What Is an Extended Font and When to Use It in Web Design
+
+### Community 410 - "Executive Breakdown & Key Traits of SOTY Winners"
+Cohesion: 0.33
+Nodes (5): A Guide on Building Awwwards-Worthy Websites, Awwwards Judging & Scoring Scale, Executive Breakdown & Key Traits of SOTY Winners, SOTY Checklist & Key Design Traits, Tech Stack & Architecture for SOTY Winners
+
+### Community 411 - "Executive Breakdown & Key Traits of SOTY Winners"
+Cohesion: 0.33
+Nodes (5): A Guide on Building Awwwards-Worthy Websites, Awwwards Judging & Scoring Scale, Executive Breakdown & Key Traits of SOTY Winners, SOTY Checklist & Key Design Traits, Tech Stack & Architecture for SOTY Winners
+
+### Community 412 - "Sorry, you have been blocked"
+Cohesion: 0.33
+Nodes (5): Attention Required! | Cloudflare, Sorry, you have been blocked, What can I do to resolve this?, Why have I been blocked?, You are unable to access medium.com
+
+### Community 413 - "How to win an Awwward — The elements of beautiful webdesign"
+Cohesion: 0.40
+Nodes (4): How to Win an Awwward, How to win an Awwward — The elements of beautiful webdesign, How to win an Awwward — The elements of beautiful webdesign | by Nick Ungerer | Bootcamp | Medium, Lessons from a decade of lurking awwwards.com
+
+### Community 414 - "Secret Keys and Sensitive Data Exposure"
+Cohesion: 0.50
+Nodes (4): Best Practices, Never Expose in Client-Side Code, Secret Keys and Sensitive Data Exposure, Where Secrets Hide (Check These!)
+
 ### Community 415 - "1. Directory Structure Map"
 Cohesion: 0.18
 Nodes (10): 1. Directory Structure Map, 2. Read/Write Policy & Log Alignment Table, 3. Maintenance and Drift Prevention, Global Systems & Vaults (External/Local), Maintenance Scripts (`scripts/`), Reference Manuals (`references/`), Workspace Root Core Configs & Indexes, Workspace-Scoped Agents (`.agents/agents/`) (+2 more)
@@ -1627,7 +2068,7 @@ Nodes (10): Inter-Skill Connections & Handoff Pipeline, Invocation & Tri-Mode Ro
 
 ### Community 417 - "Step-by-Step Execution Workflow"
 Cohesion: 0.18
-Nodes (10): 1. Settle Dimensions & Layout, 2. Compile HTML Preview, 3. Render and Capture PNG via Browser Subagent, 4. Visual Self-Correction Loop, 5. Deliver, Canvas Design Router Skill, Inter-Skill Connections & Handoff Pipeline, Invocation & Tri-Mode Routing (+2 more)
+Nodes (10): 1. Visual Design Philosophy Manifesto & Layout Presets, 2. Compile HTML Preview, 3. Render and Capture PNG via Browser Subagent, 4. Visual Self-Correction Loop, 5. Deliver, Canvas Design Router Skill, Inter-Skill Connections & Handoff Pipeline, Invocation & Tri-Mode Routing (+2 more)
 
 ### Community 418 - "HTML Presentation Template"
 Cohesion: 0.20
@@ -2378,28 +2819,28 @@ Cohesion: 0.67
 Nodes (3): Convert a PowerPoint, Create a New Presentation, Usage
 
 ### Community 1119 - "ZORIXEL AIOS Hot Cache & Handoff State"
-Cohesion: 0.40
-Nodes (4): Active Context & Strategic Baseline, Immediate Next Actions, Verified Pre-Flight Health Scripts, ZORIXEL AIOS Hot Cache & Handoff State
+Cohesion: 0.33
+Nodes (5): Active Context & Strategic Baseline, Immediate Next Actions for Next Session, 📌 Master Workflows Queue Status, Verified Pre-Flight Health Scripts, ZORIXEL AIOS Hot Cache & Handoff State
 
 ## Knowledge Gaps
-- **4679 isolated node(s):** `idea-refine.sh script`, `{ chromium }`, `fs`, `path`, `OUTPUT_FILE` (+4674 more)
+- **5552 isolated node(s):** `idea-refine.sh script`, `{ chromium }`, `fs`, `path`, `OUTPUT_FILE` (+5547 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **39 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **50 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Anti-patterns — the named tells` connect `Minor (small taste issues)` to `hallmark/SKILL.md`, `Microinteraction tells`, `Major (looks AI-generated)`, `Critical (ships as slop)`?**
   _High betweenness centrality (0.003) - this node is a cross-community bridge._
-- **Why does `Hallmark` connect `Hallmark` to `hallmark/SKILL.md`?**
-  _High betweenness centrality (0.001) - this node is a cross-community bridge._
-- **Why does `Critical (ships as slop)` connect `Critical (ships as slop)` to `Minor (small taste issues)`?**
-  _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `Hero enrichment — when, what, and how much` connect `Hero enrichment — when, what, and how much` to `hallmark/SKILL.md`?**
+  _High betweenness centrality (0.002) - this node is a cross-community bridge._
+- **Why does `Microinteraction tells` connect `Microinteraction tells` to `Minor (small taste issues)`?**
+  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **What connects `idea-refine.sh script`, `{ chromium }`, `fs` to the rest of the system?**
-  _4679 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _5552 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `FILLER AND HEDGING` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `Step-by-Step 8-Phase Pricing Protocol` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
-- **Should `component-cookbook.md` be split into smaller, more focused modules?**
-  _Cohesion score 0.020618556701030927 - nodes in this community are weakly interconnected._
+- **Should `ZORIXEL AIOS Session Post-Mortem & System Evolution Report` be split into smaller, more focused modules?**
+  _Cohesion score 0.05 - nodes in this community are weakly interconnected._

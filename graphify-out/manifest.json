@@ -320,8 +320,8 @@
     "semantic_hash": ""
   },
   "scripts/security_check.py": {
-    "mtime": 1784787410.3666694,
-    "ast_hash": "6c5612f2e32f8e9179cf6cf6bb015e0b",
+    "mtime": 1786347485.7691324,
+    "ast_hash": "ec9ada545971c8d775763fc23f909a52",
     "semantic_hash": ""
   },
   "scripts/serve.js": {
@@ -430,8 +430,8 @@
     "semantic_hash": ""
   },
   ".agents/skills/audit/SKILL.md": {
-    "mtime": 1786211133.7989852,
-    "ast_hash": "8518c80c4e3105db8cb6860ef6dc9c97",
+    "mtime": 1786281283.3575416,
+    "ast_hash": "ad841b1f8f489a95c4c1c4ee601de647",
     "semantic_hash": ""
   },
   ".agents/skills/autoresearch-manage/SKILL.md": {
@@ -445,8 +445,8 @@
     "semantic_hash": ""
   },
   ".agents/skills/canvas-design/SKILL.md": {
-    "mtime": 1786211133.8428764,
-    "ast_hash": "6da72dcc8d6cb4b51fd57235f1c50688",
+    "mtime": 1786339362.676215,
+    "ast_hash": "9b4e4cb17fdfb7bb253f8f663a813055",
     "semantic_hash": ""
   },
   ".agents/skills/carousel-copy/SKILL.md": {
@@ -1440,8 +1440,8 @@
     "semantic_hash": ""
   },
   ".agents/skills/marketing/SKILL.md": {
-    "mtime": 1786211141.9172525,
-    "ast_hash": "3cd8f9732c978d07b1f9817eddea080c",
+    "mtime": 1786339410.302882,
+    "ast_hash": "a1bf6f208bb4979b13ad198aab45aba8",
     "semantic_hash": ""
   },
   ".agents/skills/mattpocock-domain-modeling/SKILL.md": {
@@ -1550,8 +1550,8 @@
     "semantic_hash": ""
   },
   ".agents/skills/skill-builder/SKILL.md": {
-    "mtime": 1786211142.415285,
-    "ast_hash": "f539a71412b60d91b33c223c61e0cf95",
+    "mtime": 1786339379.4830317,
+    "ast_hash": "78a117e938f7c6263e48ec3717dc5191",
     "semantic_hash": ""
   },
   ".agents/skills/skill-builder/reference.md": {
@@ -1600,8 +1600,8 @@
     "semantic_hash": ""
   },
   ".agents/skills/website-design-engine/SKILL.md": {
-    "mtime": 1786211143.1794212,
-    "ast_hash": "13b46458a63311b001ee28d4d99b803a",
+    "mtime": 1786254712.3416915,
+    "ast_hash": "9d14e99cc195975ba4a33f81520e3d86",
     "semantic_hash": ""
   },
   ".agents/skills/website-design-engine/references/00-sitemap-and-architecture.md": {
@@ -1645,18 +1645,18 @@
     "semantic_hash": ""
   },
   "GEMINI.md": {
-    "mtime": 1786210520.2964835,
-    "ast_hash": "6f27e39b4057204d192736df4b884f17",
+    "mtime": 1786345694.5425284,
+    "ast_hash": "062e096bd56c4908851512a530c6164f",
     "semantic_hash": ""
   },
   "MEMORY.md": {
-    "mtime": 1786208749.6615627,
-    "ast_hash": "4b7dd2b27bd9cc827ddb547b488cdc23",
+    "mtime": 1786345775.4360552,
+    "ast_hash": "721c5deac8cbd31da63b9f1230b76b23",
     "semantic_hash": ""
   },
   "WORKSPACE_MAP.md": {
-    "mtime": 1786208323.679242,
-    "ast_hash": "86a9d07bcd5c229d66fba3d76f550a43",
+    "mtime": 1786345698.5069125,
+    "ast_hash": "f1150ee52627b913bcc1b88b5132a0ab",
     "semantic_hash": ""
   },
   "archives/intake-2026-07-14-1940/GEMINI.md": {
@@ -1860,8 +1860,8 @@
     "semantic_hash": ""
   },
   "context/experiences/README.md": {
-    "mtime": 1786211111.406079,
-    "ast_hash": "7c16dfc36fe13822cbf84cc1f33efb48",
+    "mtime": 1786342741.9524722,
+    "ast_hash": "4a6e47e93d2d1f485e3482b5382b3b6a",
     "semantic_hash": ""
   },
   "context/priorities.md": {
@@ -1870,8 +1870,8 @@
     "semantic_hash": ""
   },
   "decisions/log.md": {
-    "mtime": 1786211133.245689,
-    "ast_hash": "17b46bf045af51b6ade59352e3013443",
+    "mtime": 1786345718.567889,
+    "ast_hash": "182c12ecef33f3c6ee626f9dba510489",
     "semantic_hash": ""
   },
   "docs/daily-plans/2026-07-30-master-plan.md": {
@@ -1890,8 +1890,8 @@
     "semantic_hash": ""
   },
   "hot.md": {
-    "mtime": 1786174374.5579677,
-    "ast_hash": "d6b5554d7c8d54ed957cf6a3198d36ca",
+    "mtime": 1786345915.2679417,
+    "ast_hash": "dc225bf1a1431280a2aa9c29d75125f9",
     "semantic_hash": ""
   },
   "references/23-SITES-MASTER-DESIGN-MATRIX.md": {
@@ -3020,8 +3020,8 @@
     "semantic_hash": ""
   },
   "AGENTS.md": {
-    "mtime": 1786210509.0206337,
-    "ast_hash": "4262591ad73c3c92f15c21cb70f5f7ae",
+    "mtime": 1786345694.5415306,
+    "ast_hash": "c4269b4f11024e51856d5c16f5a72322",
     "semantic_hash": ""
   },
   "brainstorms/2026-08-04-vashishthya-notion-gssheets-setup.md": {
@@ -3165,8 +3165,8 @@
     "semantic_hash": ""
   },
   "references/GLOBAL_ERROR_PREVENTION_RULES.md": {
-    "mtime": 1786211111.713016,
-    "ast_hash": "f82d01c60bc01f0015e025b81cc1b487",
+    "mtime": 1786345688.5907817,
+    "ast_hash": "293dc4441707ea33222d074e42a45f57",
     "semantic_hash": ""
   },
   "references/aios-architecture-guide.md": {
@@ -3655,8 +3655,8 @@
     "semantic_hash": ""
   },
   ".agents/skills/prototype/SKILL.md": {
-    "mtime": 1786211142.1430848,
-    "ast_hash": "db0cfb5a3be84aa90900b93be2792d0b",
+    "mtime": 1786339397.0967164,
+    "ast_hash": "bb44ebcbb6b0e3d8bffc96c3f8f0a8bb",
     "semantic_hash": ""
   },
   ".agents/skills/prototype/UI.md": {
@@ -4015,7 +4015,7 @@
     "semantic_hash": ""
   },
   "scratch/security_os_export_antigravity.json": {
-    "mtime": 1786208531.698158,
+    "mtime": 1786211649.83887,
     "ast_hash": "1b10b37dd2d2de005f02a57d0f6dd4cb",
     "semantic_hash": ""
   },
@@ -4082,6 +4082,596 @@
   "references/10-MASTER-AIOS-WORKFLOWS.md": {
     "mtime": 1786211111.4815838,
     "ast_hash": "049d089a024871bde871ad3ee375870d",
+    "semantic_hash": ""
+  },
+  "scripts/aios_browser_engine.py": {
+    "mtime": 1786252000.6111362,
+    "ast_hash": "d25217ebe5617a7cbd4b54d7ebdd1b38",
+    "semantic_hash": ""
+  },
+  "scripts/test_browser_engine_health.py": {
+    "mtime": 1786252197.2016172,
+    "ast_hash": "e980d0a2f2de19633946c22e6522fcd4",
+    "semantic_hash": ""
+  },
+  ".agents/skills/browser-testing/SKILL.md": {
+    "mtime": 1786252119.397937,
+    "ast_hash": "e4632e6333b39d000cd5878305cac154",
+    "semantic_hash": ""
+  },
+  ".agents/skills/domain-skills/README.md": {
+    "mtime": 1786252014.4261837,
+    "ast_hash": "06582c59054756dec7c54fd52e85d684",
+    "semantic_hash": ""
+  },
+  ".agents/skills/loop-engine/SKILL.md": {
+    "mtime": 1786253025.515191,
+    "ast_hash": "f52058d9f60e6254597c5a1500eb2378",
+    "semantic_hash": ""
+  },
+  "LOOPS.md": {
+    "mtime": 1786342456.559033,
+    "ast_hash": "8ac6900e9795e6b9496e0f9e8b579d5e",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-09-awwwards-website-design-loop-discovery.md": {
+    "mtime": 1786254704.598591,
+    "ast_hash": "012a0dd47185ccbfd1c6344c2bd9e87d",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-09-dynamic-loops-and-autoresearch-analysis.md": {
+    "mtime": 1786253018.751248,
+    "ast_hash": "74d3c56db40d4c7e010312b3b4c91bee",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-09-loopy-skill-analysis.md": {
+    "mtime": 1786252574.6492615,
+    "ast_hash": "2b0dacdef41d967950d2a540cb3ba5e6",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-09-prompt-optimization-trial-setup.md": {
+    "mtime": 1786253214.6429117,
+    "ast_hash": "1517f0b4c66350bab66030c33122272b",
+    "semantic_hash": ""
+  },
+  "errors-and-lessons/2026-08-08-session-postmortem-audit.md": {
+    "mtime": 1786211480.9508052,
+    "ast_hash": "3b4184e454ddbd8b22adabd81dc3a27e",
+    "semantic_hash": ""
+  },
+  "errors-and-lessons/SESSION_POSTMORTEM_2026-08-09_BROWSER_HARNESS_INTEGRATION.md": {
+    "mtime": 1786252210.011779,
+    "ast_hash": "8995c6339352917f513f203a62a43ae2",
+    "semantic_hash": ""
+  },
+  "references/AWWWARDS-MASTER-CREATION-GUIDE.md": {
+    "mtime": 1786258856.7115562,
+    "ast_hash": "ac36fbf91f0bd67dfc41885858ac480d",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/01-awwwards-design-principles-and-aesthetics.md": {
+    "mtime": 1786347935.9200964,
+    "ast_hash": "1d528493137fd7c703ca28da6965bb67",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/02-awwwards-typography-spacing-grid-math.md": {
+    "mtime": 1786347353.1605732,
+    "ast_hash": "69630e394db7c232c6a8b55ca2b5c600",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/03-awwwards-gsap-lenis-motion-scrollytelling.md": {
+    "mtime": 1786348350.6707697,
+    "ast_hash": "a75273607a736983f42d72440b6da7b5",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/04-awwwards-webgl-threejs-fragment-shaders.md": {
+    "mtime": 1786348299.5128226,
+    "ast_hash": "f252f71faa7082f77f9517411eb39937",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-awwwards-case-studies-and-tutorials.md": {
+    "mtime": 1786348334.4344516,
+    "ast_hash": "07909d6387c21b4cb06bf8f93dbe8eac",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/06-awwwards-judging-criteria-and-master-checklist.md": {
+    "mtime": 1786259234.949321,
+    "ast_hash": "c6014fd980048ad37195b214cf0f1e63",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/INDEX.md": {
+    "mtime": 1786348388.1750128,
+    "ast_hash": "52bffef077586ca7144cae302cbb2b31",
+    "semantic_hash": ""
+  },
+  "scratch/build_postmortem_report.py": {
+    "mtime": 1786342619.3819463,
+    "ast_hash": "282ec186245680c163e6dc03407699ab",
+    "semantic_hash": ""
+  },
+  "scratch/workmon_fallback.json": {
+    "mtime": 1786345660.6981823,
+    "ast_hash": "c9565f452b955adeb9a1a0e4f9c3b1f4",
+    "semantic_hash": ""
+  },
+  "scripts/test_loop_engine_health.py": {
+    "mtime": 1786259450.5040193,
+    "ast_hash": "23adf867cbd269546e81a4c1cb6b1883",
+    "semantic_hash": ""
+  },
+  "scripts/test_master_workflows_health.py": {
+    "mtime": 1786342629.8176074,
+    "ast_hash": "f0fa11660c48fe598169cb49bf112eb9",
+    "semantic_hash": ""
+  },
+  "scripts/workmon_auto_evolver.py": {
+    "mtime": 1786345374.9227262,
+    "ast_hash": "722752e99067c69c88d1f47fe7d46164",
+    "semantic_hash": ""
+  },
+  "scripts/workmon_sensor.py": {
+    "mtime": 1786345499.1915112,
+    "ast_hash": "7cc35d4df40746f92c0a4e27978fd2f5",
+    "semantic_hash": ""
+  },
+  ".agents/skills/docx/SKILL.md": {
+    "mtime": 1786339336.9528365,
+    "ast_hash": "96b085659aaa3532344fa3555f7a7c17",
+    "semantic_hash": ""
+  },
+  ".agents/skills/domain-skills/workflows/MW01_zero_subscription_client_os.md": {
+    "mtime": 1786342440.4196393,
+    "ast_hash": "232a8cf59a9b2be2ecf5de24f29a6d9d",
+    "semantic_hash": ""
+  },
+  ".agents/skills/n8n/SKILL.md": {
+    "mtime": 1786341226.127865,
+    "ast_hash": "12375baf43c544b1669f1dff982dad8f",
+    "semantic_hash": ""
+  },
+  ".agents/skills/n8n/references/n8n-nodes-guide.md": {
+    "mtime": 1786341216.771705,
+    "ast_hash": "481c190e3bf909441ab789b9a898f9d5",
+    "semantic_hash": ""
+  },
+  ".agents/skills/pdf/SKILL.md": {
+    "mtime": 1786339311.2637212,
+    "ast_hash": "8573c4fa5f8f8aa03f351fc02464ff81",
+    "semantic_hash": ""
+  },
+  ".agents/skills/xlsx/SKILL.md": {
+    "mtime": 1786339322.7584908,
+    "ast_hash": "114725b7d6bf3307aa64d89e0ac69270",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-10-dynamic-skill-workflows-integration.md": {
+    "mtime": 1786342450.0786693,
+    "ast_hash": "9bb3db0130f429ebc9b7095c6c7f9322",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-10-workmon-workflow-2.md": {
+    "mtime": 1786345298.6074283,
+    "ast_hash": "25afe2ca3abdb785a5126bdc3a9e7094",
+    "semantic_hash": ""
+  },
+  "brainstorms/roast_2026-08-10_workmon_workflow_fusion.md": {
+    "mtime": 1786345120.7599292,
+    "ast_hash": "1ef7c756fe32a7f9cb579856cba1be37",
+    "semantic_hash": ""
+  },
+  "errors-and-lessons/SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT.md": {
+    "mtime": 1786259468.0863976,
+    "ast_hash": "a1ae23b107c621b1d76fad60e4fda966",
+    "semantic_hash": ""
+  },
+  "errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_ALL_SKILL_WORKFLOWS_INTEGRATION.md": {
+    "mtime": 1786342625.3328526,
+    "ast_hash": "f82035486f78432cd9b091e8c5b83eca",
+    "semantic_hash": ""
+  },
+  "n8n/workflows/workmon_master_hub.json": {
+    "mtime": 1786345392.9177973,
+    "ast_hash": "d24b9eefa4757157dddfabea95baaf91",
+    "semantic_hash": ""
+  },
+  "scripts/test_workmon_health.py": {
+    "mtime": 1786345637.7349207,
+    "ast_hash": "633771183da76a66f30054d3a98c41e0",
+    "semantic_hash": ""
+  },
+  "brainstorms/roast_2026-08-10_workmon_engine_post_build.md": {
+    "mtime": 1786345485.3660336,
+    "ast_hash": "99533954d7fc9886c377784463841b4d",
+    "semantic_hash": ""
+  },
+  "docs/specs/SPEC-workmon-master.md": {
+    "mtime": 1786345399.6701686,
+    "ast_hash": "ef610c3ab8c041b8d1bb4da5d871f1c4",
+    "semantic_hash": ""
+  },
+  "errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_WORKMON_ENGINE_AND_N8N_HUB.md": {
+    "mtime": 1786345622.9523306,
+    "ast_hash": "d597bac016f74cfe1f6560d4ac78529d",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_dom_debug.json": {
+    "mtime": 1786347823.4395964,
+    "ast_hash": "d9f9785b288de73e850153819df72588",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/all_awwwards_case_studies.json": {
+    "mtime": 1786347870.0274024,
+    "ast_hash": "c87e1ffd9485af8a2187530ee830e5b7",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/all_case_studies_index.json": {
+    "mtime": 1786347806.1336474,
+    "ast_hash": "d751713988987e9331980363e24189ce",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/page1_index.json": {
+    "mtime": 1786347723.449988,
+    "ast_hash": "5ccfbde151ef8a7eb5037ea96918c56a",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/all_codrops_case_studies.json": {
+    "mtime": 1786348233.6298296,
+    "ast_hash": "7361fa7551dcd6cd459410bcc588608b",
+    "semantic_hash": ""
+  },
+  "scratch/codrops_dom_debug.json": {
+    "mtime": 1786348116.3931515,
+    "ast_hash": "fcb16b6ff0d09c3c47ca3fc6a479e18b",
+    "semantic_hash": ""
+  },
+  "scratch/crawl_awwwards_blog.py": {
+    "mtime": 1786347701.035471,
+    "ast_hash": "099ddaf3275508b5ff15e0553f70a7e3",
+    "semantic_hash": ""
+  },
+  "scratch/crawl_awwwards_blog_deep.py": {
+    "mtime": 1786347840.2920134,
+    "ast_hash": "82a42979ce777cc57d9c5b7dc41d4947",
+    "semantic_hash": ""
+  },
+  "scratch/crawl_codrops_case_studies.py": {
+    "mtime": 1786348163.1271887,
+    "ast_hash": "4b6df658a903824c917ca2825c7b5d6d",
+    "semantic_hash": ""
+  },
+  "scratch/fetch_medium.py": {
+    "mtime": 1786347220.1879606,
+    "ast_hash": "003a5298225d7c30f2fa6e86989c6a87",
+    "semantic_hash": ""
+  },
+  "scratch/inspect_awwwards_dom.py": {
+    "mtime": 1786347810.1678524,
+    "ast_hash": "2ff51ecc57f0878c807836abcdeba84a",
+    "semantic_hash": ""
+  },
+  "scratch/inspect_codrops_dom.py": {
+    "mtime": 1786348090.8191605,
+    "ast_hash": "a4ca0bdfbd5186794c5337f352c7aba1",
+    "semantic_hash": ""
+  },
+  "scratch/migrate_awwwards_vault.py": {
+    "mtime": 1786348656.709171,
+    "ast_hash": "b20f32f719265908558174c13fa983a3",
+    "semantic_hash": ""
+  },
+  "scratch/populate_subvault_files.py": {
+    "mtime": 1786348699.5151837,
+    "ast_hash": "656f7f58e639d14ca78f362bf8fa93b5",
+    "semantic_hash": ""
+  },
+  "scratch/scrape_wave1.py": {
+    "mtime": 1786347084.0743484,
+    "ast_hash": "4fd8c879712e4c92b001471ba6252821",
+    "semantic_hash": ""
+  },
+  "brainstorms/2026-08-10-awwwards-vault-ingestion.md": {
+    "mtime": 1786348627.5190766,
+    "ast_hash": "d1da2bfc7b8bb2b5718c5ee0494e6cbe",
+    "semantic_hash": ""
+  },
+  "brainstorms/roast_2026-08-10_awwwards_vault_folder_structure.md": {
+    "mtime": 1786348596.3463526,
+    "ast_hash": "57de910caa27a0ce57cadc3dbcb9d591",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/01-design-principles-and-aesthetics/01-aesthetic-foundations.md": {
+    "mtime": 1786348728.6880956,
+    "ast_hash": "c2ee413391e95d75cd413b85eb0fe3e9",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/01-design-principles-and-aesthetics/02-oklch-color-math.md": {
+    "mtime": 1786348728.6890936,
+    "ast_hash": "d3eac5c47c048698c53a01374d3a3727",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/01-design-principles-and-aesthetics/03-art-direction-pillars.md": {
+    "mtime": 1786348728.6890936,
+    "ast_hash": "42b1c66adfd08090709c1e3be0533f78",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/01-design-principles-and-aesthetics/04-soty-microinteractions-and-digital-hospitality.md": {
+    "mtime": 1786348728.6890936,
+    "ast_hash": "b0fed3e9855e848e2181549c177370f6",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/01-design-principles-and-aesthetics/INDEX.md": {
+    "mtime": 1786348668.7304132,
+    "ast_hash": "583fa0f75ea69e5a5ac4ce568b30cf29",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/02-typography-spacing-grid-math/INDEX.md": {
+    "mtime": 1786348668.7311392,
+    "ast_hash": "7a27813666cf7a638f33e4cdcce65dce",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/INDEX.md": {
+    "mtime": 1786348668.7311392,
+    "ast_hash": "3b20ae08d034594281db9ba4c809c12d",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/INDEX.md": {
+    "mtime": 1786348668.7311392,
+    "ast_hash": "3e3450bc711543a5c6da57b5b7d97db7",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/01-nick-ungerer-how-to-win-an-awwward.md": {
+    "mtime": 1786348728.676054,
+    "ast_hash": "5ecdc2ca909d374ad8d8c69bb9a679ba",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/02-alex-streza-building-awwwards-worthy-websites.md": {
+    "mtime": 1786348728.676054,
+    "ast_hash": "50479769fd70aef05f6ce47c571e8e0b",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/03-designyourway-extended-font-guide.md": {
+    "mtime": 1786348728.6770573,
+    "ast_hash": "ae49031c3cb6911d39302d3a0bb56c7e",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/INDEX.md": {
+    "mtime": 1786348668.7311392,
+    "ast_hash": "de766476166935f89c29378b9626a03f",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/between_print_and_digital_the_making_of_mersi_s_website.md": {
+    "mtime": 1786348728.6840277,
+    "ast_hash": "fcbc17866920ae1fa7d750f81dca86b7",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/building_cerebrium_making_serverless_infrastructure_tangible.md": {
+    "mtime": 1786348728.6840277,
+    "ast_hash": "474d64eae829a5df96695e63199090f1",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/designing_a_flexible_digital_archive_for_chems_studio_s_crea.md": {
+    "mtime": 1786348728.685033,
+    "ast_hash": "3081df08d07b066ee3e4c92ece6e342e",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/designing_for_an_identity_that_shapeshifts.md": {
+    "mtime": 1786348728.6780562,
+    "ast_hash": "61d3c9e2b71db6b2566be7b8735b64ba",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/farm_minerals_case_study.md": {
+    "mtime": 1786348728.6795285,
+    "ast_hash": "cf7c92ebad2ac9e738445abc1ade5922",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/fluid_glass_case_study.md": {
+    "mtime": 1786348728.6795285,
+    "ast_hash": "d44ba58dd9ca49cc8757b326dee7c564",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/gq_audemars_piguet_the_extraordinary_lab.md": {
+    "mtime": 1786348728.6805265,
+    "ast_hash": "b4ef4262cc15f78f15e1c361c92895c3",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/iyo_case_study_selling_the_world_s_first_audio.md": {
+    "mtime": 1786348728.6815274,
+    "ast_hash": "7cc1126fd6b4e23b8fed1fc6671986c1",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/la_revoltosa_rebooting_a_70_year_old_spanish_soda.md": {
+    "mtime": 1786348728.6815274,
+    "ast_hash": "e5802b7faf9f236aa87d0af81ffa3a90",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/magnetic_commerce_building_the_dash_creative_website.md": {
+    "mtime": 1786348728.685033,
+    "ast_hash": "9fa12d8e42133166dcffca1938c22469",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/mapping_the_uncharted_the_san_rita_project.md": {
+    "mtime": 1786348728.682524,
+    "ast_hash": "018ab9f1306ac7056bddfadb337a038d",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/not_a_portfolio_a_presence.md": {
+    "mtime": 1786348728.682524,
+    "ast_hash": "97fb08e1558fb5d80146a5905d1186de",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/reshaping_telha_clarke_s_digital_home.md": {
+    "mtime": 1786348728.682524,
+    "ast_hash": "83e1711607314df8a96dcde3ff6824cc",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/sculpting_a_digital_athlete_capturing_stefanos_tsitsipas_bey.md": {
+    "mtime": 1786348728.685033,
+    "ast_hash": "130d495c6bfb53baf85549b849874ad3",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/ten_years_away_designing_an_interactive_comic_for_studio375_.md": {
+    "mtime": 1786348728.6860933,
+    "ast_hash": "0ddca5e5c6ec5b9d6afd50d2854a6341",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/the_architecture_behind_trionn_coordinating_gsap_three_js_le.md": {
+    "mtime": 1786348728.6860933,
+    "ast_hash": "e175325d784e6e32a197bb47b224a9c9",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/the_department_is_open_building_the_px_push_website.md": {
+    "mtime": 1786348728.6870947,
+    "ast_hash": "658d4b147631c6ee1ac70f6a089f9e77",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/the_new_obys.md": {
+    "mtime": 1786348728.682524,
+    "ast_hash": "6ab1469abb061f6cdccbb069f014e5a7",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/the_sleepers_creating_an_atmospheric_webgl_experience_with_l.md": {
+    "mtime": 1786348728.6880956,
+    "ast_hash": "bb230d7706947c2d375570c8e4eeb7d3",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/05-case-studies-and-tutorials/zero_the_engineering_behind_a_defiant_interactive_narrative.md": {
+    "mtime": 1786348728.6880956,
+    "ast_hash": "a70587b1267466053b7a92282c80683e",
+    "semantic_hash": ""
+  },
+  "references/awwwards-research-vault/06-judging-criteria-and-master-checklist/INDEX.md": {
+    "mtime": 1786348668.732142,
+    "ast_hash": "f8ffdaddea38855a9be9b18c3a8444b0",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/01_medium_how_to_win_an_awwward.md": {
+    "mtime": 1786347521.2239606,
+    "ast_hash": "5ecdc2ca909d374ad8d8c69bb9a679ba",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/02_medium_guide_building_awwwards_worthy_websites.md": {
+    "mtime": 1786347325.481909,
+    "ast_hash": "50479769fd70aef05f6ce47c571e8e0b",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/03_designyourway_extended_font.md": {
+    "mtime": 1786347332.712224,
+    "ast_hash": "ae49031c3cb6911d39302d3a0bb56c7e",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/designing_for_an_identity_that_shapeshifts.md": {
+    "mtime": 1786347889.2094822,
+    "ast_hash": "61d3c9e2b71db6b2566be7b8735b64ba",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/farm_minerals_case_study.md": {
+    "mtime": 1786347915.103804,
+    "ast_hash": "cf7c92ebad2ac9e738445abc1ade5922",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/fluid_glass_case_study.md": {
+    "mtime": 1786347902.6698635,
+    "ast_hash": "d44ba58dd9ca49cc8757b326dee7c564",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/gq_audemars_piguet_the_extraordinary_lab.md": {
+    "mtime": 1786347898.2312422,
+    "ast_hash": "b4ef4262cc15f78f15e1c361c92895c3",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/iyo_case_study_selling_the_world_s_first_audio.md": {
+    "mtime": 1786347875.3881721,
+    "ast_hash": "7cc1126fd6b4e23b8fed1fc6671986c1",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/la_revoltosa_rebooting_a_70_year_old_spanish_soda.md": {
+    "mtime": 1786347880.0858123,
+    "ast_hash": "e5802b7faf9f236aa87d0af81ffa3a90",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/mapping_the_uncharted_the_san_rita_project.md": {
+    "mtime": 1786347906.838983,
+    "ast_hash": "018ab9f1306ac7056bddfadb337a038d",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/not_a_portfolio_a_presence.md": {
+    "mtime": 1786347910.8888865,
+    "ast_hash": "97fb08e1558fb5d80146a5905d1186de",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/reshaping_telha_clarke_s_digital_home.md": {
+    "mtime": 1786347884.793564,
+    "ast_hash": "83e1711607314df8a96dcde3ff6824cc",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/awwwards_blog/the_new_obys.md": {
+    "mtime": 1786347893.6724167,
+    "ast_hash": "6ab1469abb061f6cdccbb069f014e5a7",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/between_print_and_digital_the_making_of_mersi_s_website.md": {
+    "mtime": 1786348264.1687784,
+    "ast_hash": "fcbc17866920ae1fa7d750f81dca86b7",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/building_cerebrium_making_serverless_infrastructure_tangible.md": {
+    "mtime": 1786348269.8776512,
+    "ast_hash": "474d64eae829a5df96695e63199090f1",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/designing_a_flexible_digital_archive_for_chems_studio_s_crea.md": {
+    "mtime": 1786348238.522477,
+    "ast_hash": "3081df08d07b066ee3e4c92ece6e342e",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/magnetic_commerce_building_the_dash_creative_website.md": {
+    "mtime": 1786348275.638109,
+    "ast_hash": "9fa12d8e42133166dcffca1938c22469",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/sculpting_a_digital_athlete_capturing_stefanos_tsitsipas_bey.md": {
+    "mtime": 1786348317.5361352,
+    "ast_hash": "130d495c6bfb53baf85549b849874ad3",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/ten_years_away_designing_an_interactive_comic_for_studio375_.md": {
+    "mtime": 1786348311.1778522,
+    "ast_hash": "0ddca5e5c6ec5b9d6afd50d2854a6341",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/the_architecture_behind_trionn_coordinating_gsap_three_js_le.md": {
+    "mtime": 1786348297.2753336,
+    "ast_hash": "e175325d784e6e32a197bb47b224a9c9",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/the_department_is_open_building_the_px_push_website.md": {
+    "mtime": 1786348259.132101,
+    "ast_hash": "658d4b147631c6ee1ac70f6a089f9e77",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/the_sleepers_creating_an_atmospheric_webgl_experience_with_l.md": {
+    "mtime": 1786348305.9288938,
+    "ast_hash": "bb230d7706947c2d375570c8e4eeb7d3",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/codrops/zero_the_engineering_behind_a_defiant_interactive_narrative.md": {
+    "mtime": 1786348280.1642435,
+    "ast_hash": "a70587b1267466053b7a92282c80683e",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/designyourway_extended_font.md": {
+    "mtime": 1786347119.882379,
+    "ast_hash": "14e784938e957cf457eb4bd2ee88d542",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/medium_guide_building_awwwards_worthy_websites.md": {
+    "mtime": 1786347107.4588869,
+    "ast_hash": "84696cb0beaf56c689591536df4235f0",
+    "semantic_hash": ""
+  },
+  "scratch/awwwards_ingestion_raw/medium_how_to_win_an_awwward.md": {
+    "mtime": 1786347101.4294116,
+    "ast_hash": "aff9a77dbc9081d57695ad4a13e234e6",
     "semantic_hash": ""
   }
 }

@@ -1,0 +1,156 @@
+{
+  "name": "WorkMon Master Hub - Workflows 1 & 2 Unified Engine",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "workmon-telemetry",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "name": "Webhook - WorkMon Telemetry Input",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 5
+            }
+          ]
+        }
+      },
+      "name": "Cron - 5-Min Heartbeat Check",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        250,
+        500
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{$json[\"body\"][\"status\"]}}",
+              "value2": "FAILED"
+            }
+          ]
+        }
+      },
+      "name": "If - Task Failed?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        480,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "resource": "databasePage",
+        "databaseId": "={{$env.NOTION_WORKMON_DB_ID || 'WORKMON_DASHBOARD_DB'}}",
+        "propertiesUi": {
+          "propertyValues": [
+            {
+              "key": "Task Name|title",
+              "title": "={{$json[\"body\"][\"task_id\"]}}"
+            },
+            {
+              "key": "Status|select",
+              "selectValue": "={{$json[\"body\"][\"status\"]}}"
+            },
+            {
+              "key": "Workflow Source|select",
+              "selectValue": "={{$json[\"body\"][\"workflow_source\"]}}"
+            },
+            {
+              "key": "Log Snippet|rich_text",
+              "textContent": "={{$json[\"body\"][\"errors\"] ? $json[\"body\"][\"errors\"].join(', ') : 'OK'}}"
+            }
+          ]
+        }
+      },
+      "name": "Notion - Sync Task Status",
+      "type": "n8n-nodes-base.notion",
+      "typeVersion": 2,
+      "position": [
+        720,
+        200
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "sheetId": "={{$env.GOOGLE_WORKMON_SHEET_ID || 'WORKMON_LOG_SHEET'}}",
+        "range": "A:E",
+        "options": {}
+      },
+      "name": "Google Sheets - Zero-Fee Sync",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [
+        720,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "command": "python scripts/workmon_auto_evolver.py"
+      },
+      "name": "Execute - Auto-Evolution Engine",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        940,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook - WorkMon Telemetry Input": {
+      "main": [
+        [
+          {
+            "node": "If - Task Failed?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If - Task Failed?": {
+      "main": [
+        [
+          {
+            "node": "Notion - Sync Task Status",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Google Sheets - Zero-Fee Sync",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Execute - Auto-Evolution Engine",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

@@ -30,13 +30,14 @@ argument-hint: '[skill-name_or_path]'
 
 ## What This Skill Does
 
-Guides the creation, optimization, and quality auditing of Antigravity skills. Incorporates Matt Pocock's **`writing-great-skills`** quality gates:
+Guides the creation, optimization, and quality auditing of Antigravity skills. Incorporates Matt Pocock's **`writing-great-skills`** quality gates and Anthropic's **`skill-creator`** quantitative evaluation framework:
 
 1. **The No-Op Test**: Every instruction line MUST change model behavior versus default behavior. Eliminate redundant, obvious, or no-op fluff.
 2. **Pruning Discipline**: Strip stale cruft, duplicate meaning, or accreted lines that add token cost without adding value.
 3. **Leading Words Technique**: Use strong imperative verbs ("Enforce", "Verify", "Ban", "Compile") to direct model attention.
 4. **Explicit Purpose & Use-Case Specification**: Every skill MUST explicitly state when, why, and how to use it, with concrete usage scenarios.
 5. **Mandatory Dual-Trigger Frontmatter**: Ensure description contains both slash command (`/skill-name`) and natural language trigger phrases.
+6. **Quantitative Eval & Benchmark Loop**: Draft 2-3 realistic eval prompts (`evals/evals.json`), run baseline vs. with-skill tasks in parallel, grade assertions (`text`, `passed`, `evidence`), track execution timing (`timing.json`), and aggregate performance benchmarks (`benchmark.json`).
 
 For the complete technical reference on all frontmatter fields, advanced patterns, and troubleshooting, see [reference.md](reference.md).
 

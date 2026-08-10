@@ -1,0 +1,711 @@
+{
+  "links": [
+    {
+      "href": "https://tympanus.net/codrops/",
+      "text": "",
+      "className": "ct-logo",
+      "parentClass": "ct-branding"
+    },
+    {
+      "href": "https://tympanus.net/codrops/all-posts/",
+      "text": "All Posts",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/hub/",
+      "text": "Creative Hub",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/webzibition/",
+      "text": "Webzibition",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webflow/",
+      "text": "webflow",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
+      "text": "Designing a Flexible Digital Archive for Chems.Studio\u2019s Creative Practice",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/nicolasleuliet/",
+      "text": "Nicolas Leuliet",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/gsap/",
+      "text": "gsap",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/nuxt-js/",
+      "text": "nuxt.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
+      "text": "The Department Is Open: Building the PX PUSH Website",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/lewiswebber/",
+      "text": "Lewis Webber",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webflow/",
+      "text": "webflow",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/",
+      "text": "Between Print and Digital: The Making of MERSI\u2019s Website",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/flotnoir/",
+      "text": "FLOT NOIR",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/23/building-cerebrium-making-serverless-infrastructure-tangible/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/3d/",
+      "text": "3d",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/three-js/",
+      "text": "three.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgpu/",
+      "text": "webgpu",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/23/building-cerebrium-making-serverless-infrastructure-tangible/",
+      "text": "Building Cerebrium: Making Serverless Infrastructure Tangible",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/hellocelialopez-fr/",
+      "text": "C\u00e9lia Lopez",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/21/magnetic-commerce-building-the-dash-creative-website/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webflow/",
+      "text": "webflow",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/21/magnetic-commerce-building-the-dash-creative-website/",
+      "text": "Magnetic Commerce: Building the Dash Creative Website",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/adamshabbo/",
+      "text": "Dash",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/3d/",
+      "text": "3d",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/three-js/",
+      "text": "three.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
+      "text": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/sindhurdutta/",
+      "text": "Sindhur Dutta",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/gsap/",
+      "text": "gsap",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/three-js/",
+      "text": "three.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
+      "text": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/trionn/",
+      "text": "Trionn",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/3d/",
+      "text": "3d",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/three-js/",
+      "text": "three.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+      "text": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/thibautfoussard/",
+      "text": "Thibaut Foussard",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
+      "text": "Ten Years Away: Designing an Interactive Comic for Studio375\u2019s Tenth Anniversary",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/danielbassan/",
+      "text": "Daniel Bassan",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/3d/",
+      "text": "3d",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/blender/",
+      "text": "blender",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
+      "text": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/offbrand/",
+      "text": "OFF+BRAND",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
+      "text": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/beaucoup/",
+      "text": "Beaucoup",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/performance/",
+      "text": "performance",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/react-three-fiber/",
+      "text": "react three fiber",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/shopify/",
+      "text": "shopify",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/three-js/",
+      "text": "three.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
+      "text": "Engineering the Web Experience Behind Shopify\u2019s Spring \u201926 Edition: Everywhere",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/andythelander/",
+      "text": "Andy Thelander",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/06/23/podium-building-a-website-where-running-becomes-storytelling/",
+      "text": "",
+      "className": "thumb-filled",
+      "parentClass": "ct-latest-thumb-archive"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/case-study/",
+      "text": "case study",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/gsap/",
+      "text": "gsap",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/three-js/",
+      "text": "three.js",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/tag/webgl/",
+      "text": "webgl",
+      "className": "",
+      "parentClass": "ct-post-tags"
+    },
+    {
+      "href": "https://tympanus.net/codrops/2026/06/23/podium-building-a-website-where-running-becomes-storytelling/",
+      "text": "Podium: Building a Website Where Running Becomes Storytelling",
+      "className": "",
+      "parentClass": ""
+    },
+    {
+      "href": "https://tympanus.net/codrops/category/articles/",
+      "text": "Articles",
+      "className": "",
+      "parentClass": "ct-subline"
+    },
+    {
+      "href": "https://tympanus.net/codrops/author/juliensister/",
+      "text": "Julien Sister",
+      "className": "",
+      "parentClass": "ct-subline"
+    }
+  ],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "case study (133)",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Designing a Flexible Digital Archive for Chems.Studio\u2019s Creative Practice",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "The Department Is Open: Building the PX PUSH Website",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Between Print and Digital: The Making of MERSI\u2019s Website",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Building Cerebrium: Making Serverless Infrastructure Tangible",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Magnetic Commerce: Building the Dash Creative Website",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Ten Years Away: Designing an Interactive Comic for Studio375\u2019s Tenth Anniversary",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Engineering the Web Experience Behind Shopify\u2019s Spring \u201926 Edition: Everywhere",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Podium: Building a Website Where Running Becomes Storytelling",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Designing A Better Lou: Reducing Cognitive Load Through Design, Content, and Systems",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Sketching the Impossible: A 3D Portfolio Built Without a Single 3D Model",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Building Horeca: Advanced Motion Design in Webflow Without the Performance Trade-Offs",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "Building an Interactive Digital Stamp Collection with Shaders, Postcards, and Playful Inspection",
+      "className": ""
+    },
+    {
+      "tag": "H2",
+      "text": "The Making of the New Lesse Studio Website: Clarity, Performance, and Intentionality",
+      "className": ""
+    },
+    {
+      "tag": "H3",
+      "text": "Creative Hub",
+      "className": "title-demos-hub"
+    },
+    {
+      "tag": "H3",
+      "text": "",
+      "className": ""
+    }
+  ]
+}

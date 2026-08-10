@@ -44,16 +44,15 @@ updated: '2026-08-08'
 - **2026-08-03**: [2026-08-03-vashishthya-notion-intake-and-vault-rule.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-03-vashishthya-notion-intake-and-vault-rule.md) — Notion Operational OS Teardown, Mobile Loom Cheat Sheet Pattern & Client Vault Placement Mandate.
 - **2026-08-05**: [2026-08-05-gws-windows-subprocess-and-notion-formula2-safeguards.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-05-gws-windows-subprocess-and-notion-formula2-safeguards.md) — GWS Windows Direct Node Subprocess Routing, Notion Formula 2.0 Null Safeguards & Pre-Flight Automation Scripts.
 - **2026-08-07**: [2026-08-07-universal-roast-upgrade-and-awwwards-web-design-engine-v4.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-07-universal-roast-upgrade-and-awwwards-web-design-engine-v4.md) — Universal Multi-Agent Roast Engine v4.0, 65-Skill Emoji Purge, & Awwwards-Grade Website Design Engine v4.0.
-
 - **2026-08-07**: [2026-08-07-permanent-context-architecture-and-self-healing-upgrades.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-07-permanent-context-architecture-and-self-healing-upgrades.md) — Permanent AIOS Context Architecture, System Prompt Truncation Fix (<14KB), 2-Stage Deep Search Engine & Self-Healing Upgrades.
 - **2026-08-08**: [2026-08-08-skill-workflows-engine-and-reusable-agency-architecture.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-skill-workflows-engine-and-reusable-agency-architecture.md) — Skill Workflows Engine, Skill Plug-and-Play Protocol, & 7-Stage AI Agency Master Architecture.
 - **2026-08-08**: [2026-08-08-agent-skills-sdlc-unification.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-agent-skills-sdlc-unification.md) — Addy Osmani Agent-Skills Ingestion, Unified 6-Phase SDLC Master Engine Integration & Silent Background Auto-Upgrade Engine.
-- **2026-08-08**: [2026-08-08-zero-cost-boundary-and-paid-api-purge.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-zero-cost-boundary-and-paid-api-purge.md) — Zero-Cost Boundary Enforcement, Resemble Detect Purge, Rule 1.23 Zero-Fee Mandate & Pre-Flight Validator.
-- **2026-08-08**: [2026-08-08-securityos-ingestion-and-active-enforcement.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-securityos-ingestion-and-active-enforcement.md) — SecurityOs 817 Skills Ingestion, Active CLI Security Runner, Multi-Agent Exporter & Section 4 Rules Synchronization.
-
-
-
-
+- **2026-08-08**: [2026-08-08-zero-cost-boundary-and-paid-api-purge.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-zero-cost-boundary-and-paid-api-purge.md) — Zero-Cost Paywall Boundary & Paid API Purge: Enforce Rule 1.23 Zero-Subscription Mandate.
+- **2026-08-08**: [2026-08-08-securityos-ingestion-and-active-enforcement.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-securityos-ingestion-and-active-enforcement.md) — SecurityOs Ingestion & Active CLI Security Runner.
+- **2026-08-08**: [2026-08-08-rich-yaml-frontmatter-standardization-and-junction-safeguards.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-08-rich-yaml-frontmatter-standardization-and-junction-safeguards.md) — Rich YAML Frontmatter Standardization & Windows Directory Junction Safeguards: Standardized 793 files and deployed Rules 1.24 to 1.27.
+- **2026-08-09**: [2026-08-09-playwright-engine-and-domain-skills-integration.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-09-playwright-engine-and-domain-skills-integration.md) — Playwright Engine Enhancement & Domain Skill Auto-Resolution Integration: Integrated React/Vue input setters, visual debug overlays, and site SOP auto-resolution.
+- **2026-08-09**: [2026-08-09-native-loop-engine-and-awwwards-vault.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-09-native-loop-engine-and-awwwards-vault.md) — Native Loop Engineering Engine & Awwwards Research Vault Integration: Built .agents/skills/loop-engine/SKILL.md, LOOPS.md, Website Design Engine v5.1, and 7-document research vault.
+- **2026-08-10**: [2026-08-10-dynamic-skill-workflows-and-n8n-production-engine.md](file:///d:/AI-OS/brain-aios/wiki/experiences/2026-08-10-dynamic-skill-workflows-and-n8n-production-engine.md) — Dynamic Skill Workflows Integration & Self-Hosted n8n Production Engine: Audited 33 skills, locked MW01 blueprint, created self-hosted n8n skill/reference, and established 10x recursive self-improvement loop with mandatory dual /grill-me + /roast gates.
 
 
 
