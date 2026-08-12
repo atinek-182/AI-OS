@@ -1,26 +1,25 @@
 ---
-title: Awwwards Sub-Vault 03 - GSAP & Lenis Motion Architecture
-domain: reference
-summary: Motion sub-vault defining Lenis inertia smooth scroll, GSAP ScrollTrigger timeline pins, Barba.js transition engine, Trionn Master Motion & Web Audio ticker loop, and 3D Spline Camera Progress code.
+title: Sub-Vault 03 — GSAP, Lenis Motion & Scrollytelling Index
+domain: index
+summary: Directory index for sub-vault 03 covering Trionn master motion pipeline, ZERO 3D camera spline narrative engine, and MERSI GSAP Flip page transitions & clip-path sliders.
 critical_directives:
-- Always synchronize Lenis ticker with GSAP ScrollTrigger.update and WebGL uTime uniforms in a single RAF loop.
+- Maintain explicit read_triggers for all child files in this directory.
 read_triggers:
-- When working on reference in references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/
-- When reading context for Awwwards GSAP & Lenis Motion Architecture
+- When working on architecture in references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling
+- When reading context for Sub-Vault 03 — GSAP, Lenis Motion & Scrollytelling Index
 tags:
-- reference
-- awwwards
+- index
 - gsap
 - lenis
 - motion
+- scrollytelling
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 03: GSAP & Lenis Motion Architecture
+# Sub-Vault 03 — GSAP, Lenis Motion & Scrollytelling Index
 
-## Master Directives & Files
-- [01-lenis-and-gsap-ticker-sync.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/01-lenis-and-gsap-ticker-sync.md)
-- [02-gsap-scrolltrigger-pin-cards.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/02-gsap-scrolltrigger-pin-cards.md)
-- [03-barba-page-transitions.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/03-barba-page-transitions.md)
-- [04-trionn-master-motion-and-audio-pipeline.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/04-trionn-master-motion-and-audio-pipeline.md)
-- [05-3d-camera-spline-progress.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/05-3d-camera-spline-progress.md)
+## Cataloged Files
+
+- [01-trionn-master-motion-and-web-audio-pipeline.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/01-trionn-master-motion-and-web-audio-pipeline.md): Unified `explodeAmt` state engine, `BlurTextReveal` SplitText component, raycasted 3D magnetic hover, Web Audio API sound synthesis, and Lenis + `gsap.ticker` sync.
+- [02-zero-3d-spline-camera-narrative.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/02-zero-3d-spline-camera-narrative.md): Virtual scroll architecture (`scrollVh`), 3-check draw-a-zero gesture unlock math, KTX2/ETC1S GPU texture streaming, idle upload queue manager (`drainUploads`), and 7-tap hexagonal text blur shader.
+- [03-mersi-gsap-flip-and-clip-path-slider.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/03-mersi-gsap-flip-and-clip-path-slider.md): GSAP `Flip.fit()` Taxi.js page transition engine, split-screen synchronized `clip-path: inset()` slider, and Lenis silent scroll teleportation.

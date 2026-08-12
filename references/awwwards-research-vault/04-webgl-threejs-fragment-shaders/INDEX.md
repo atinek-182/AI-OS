@@ -1,26 +1,26 @@
 ---
-title: Awwwards Sub-Vault 04 - WebGL & Three.js Shader Protocol
-domain: reference
-summary: Technical WebGL sub-vault for Three.js onBeforeCompile() GLSL injection, Static Mesh Network Pulse Shaders, GPGPU 1.6M Particle Soundwave simulation, and 44% GPU Fragment Shader Workload Optimization Math.
+title: Sub-Vault 04 — WebGL, Three.js & Fragment Shaders Index
+domain: index
+summary: Directory index for sub-vault 04 covering IYO 1.6M GPGPU particles, PX PUSH CRT monitor shaders, The Sleepers fake volumetric fog, and Cerebrium network pulse shaders.
 critical_directives:
-- Set devicePixelRatio cap at Math.min(window.devicePixelRatio, 1.5) to cut fragment shader workload by 44%.
+- Maintain explicit read_triggers for all child files in this directory.
 read_triggers:
-- When working on reference in references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/
-- When reading context for Awwwards WebGL & Three.js Shader Protocol
+- When working on architecture in references/awwwards-research-vault/04-webgl-threejs-fragment-shaders
+- When reading context for Sub-Vault 04 — WebGL, Three.js & Fragment Shaders Index
 tags:
-- reference
-- awwwards
+- index
 - webgl
 - threejs
 - shaders
+- awwwards
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 04: WebGL & Three.js Shader Protocol
+# Sub-Vault 04 — WebGL, Three.js & Fragment Shaders Index
 
-## Master Directives & Files
-- [01-threejs-shadermaterial-setup.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/01-threejs-shadermaterial-setup.md)
-- [02-onbeforecompile-glsl-injection.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/02-onbeforecompile-glsl-injection.md)
-- [03-static-mesh-network-pulse-shader.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/03-static-mesh-network-pulse-shader.md)
-- [04-gpgpu-particle-soundwave-simulation.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/04-gpgpu-particle-soundwave-simulation.md)
-- [05-crt-convex-monitor-shader-simulation.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/05-crt-convex-monitor-shader-simulation.md)
+## Cataloged Files
+
+- [iyo-gpgpu-particle-simulation.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/iyo-gpgpu-particle-simulation.md): 1.6M GPGPU particle physics simulation, Chladni sound frequency shader math, retopologized CAD Draco compression, and 44% Retina shader workload reduction rule.
+- [px-push-crt-monitor-shader.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/px-push-crt-monitor-shader.md): CRT convex monitor screen simulation, SVGLoader extruded chrome logo with scroll velocity rotation, `registerPageTask()` WebGL readiness gate, and CSS radial-gradient punch holes.
+- [the-sleepers-atmospheric-webgl.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/the-sleepers-atmospheric-webgl.md): Threshold swirling post-processing transition shader, `onBeforeCompile` fake volumetric fog, and Blender inverted hull mesh outlines.
+- [cerebrium-threejs-pulse-shader.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/cerebrium-threejs-pulse-shader.md): Static mesh UV network pulse shader, interactive Fresnel forcefield energy shield, and TSL/WebGPU compilation latency analysis.

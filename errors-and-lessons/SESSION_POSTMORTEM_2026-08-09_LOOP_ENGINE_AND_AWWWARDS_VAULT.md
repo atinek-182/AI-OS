@@ -1,3 +1,28 @@
+---
+title: ZORIXEL AIOS Session Post-Mortem & System Evolution Audit Report
+domain: architecture
+summary: 'Date: 2026-08-09 · Goal: Comprehensive Session Audit, Error Prevention & System Evolution · Operator: Atinek Maurya
+  - **Category**: Command Line & Parameter Verification'
+critical_directives:
+- 'Mandatory Pre-Execution Rule (Rule 1.27)**: `CLI Argument Schema Verification`: Always inspect `--help` or subcommand de'
+- 'Mandatory Pre-Execution Rule (Rule 1.28)**: `Async Task Log Read Guard`: Never attempt to read a background task log fil'
+- 'Exact Error Log**: None (Preventative rule enforcement during `Forward-Future/loopy` ingestion).'
+- 'Mandatory Pre-Execution Rule (Rule 1.21)**: `Scratch Isolation & Vault Bloat Prevention`: When ingesting external reposi'
+section_outline:
+- ZORIXEL AIOS Session Post-Mortem & System Evolution Audit Report
+- 'SECTION 1: COMPREHENSIVE TERMINAL, SYNTAX, API & ENVIRONMENT ERROR CATALOG'
+- 'Error 1.1: Graphify CLI Subcommand Mis-match (`update` vs `build`)'
+- 'Error 1.2: Transient Task Log Viewing Before Disk Flush'
+- 'Error 1.3: External Git Repository Cloning Isolation & Scratch Cleanup'
+read_triggers:
+- When working on architecture in errors-and-lessons/SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT.md
+- When reading context for ZORIXEL AIOS Session Post-Mortem & System Evolution Audit Report
+tags:
+- architecture
+- SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT
+updated: '2026-08-08'
+---
+
 # ZORIXEL AIOS Session Post-Mortem & System Evolution Audit Report
 Date: 2026-08-09 · Goal: Comprehensive Session Audit, Error Prevention & System Evolution · Operator: Atinek Maurya
 

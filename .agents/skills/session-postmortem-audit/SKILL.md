@@ -134,3 +134,9 @@ At the completion of every execution of this skill:
    - Run pre-flight health checks (`aios_gws_health_check.py`, `test_notion_formula.py`, `test_zero_cost_boundary.py`, `graphify_runner.py`).
    - Self-upgrade this `SKILL.md` instruction file with newly learned edge cases using `replace_file_content` or `write_to_file`.
 3. **Register & Log**: Log milestone upgrades in [WORKSPACE_MAP.md](file:///d:/AI-OS/WORKSPACE_MAP.md) and [decisions/log.md](file:///d:/AI-OS/decisions/log.md).
+
+---
+
+## ⚡ Post-Mortem Auto-Evolution History
+- **2026-08-10 Upgrade**: Enforced Rules 1.37 (7-Sub-Vault Ingestion Standard), 1.38 (Socratic Concept Pre-Explanation Requirement), and 1.39 (Immediate Disk Checkpointing Mandate). Generated `scripts/aios_awwwards_vault_health_check.py` to audit 168 atomic reference files across 24 Awwwards sites.
+

@@ -1,27 +1,24 @@
 ---
-title: 'Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)'
+title: 'Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v5.0 Awwwards Vault Edition)'
 domain: skill
-summary: 'Motion intensity is established in Phase 0 Q&A. Every animation must serve a clear purpose (hierarchy, tactile feedback,
-  spatial transition, narrative sequence): - **Dial 0–3 (Airy / Minimalist)**: Clean CSS hover transitions (`duration-200
-  ease-out`'
+summary: Comprehensive reference for motion engineering, GSAP timelines, Lenis smooth scrolling, WebGL shaders, GPGPU particles, and GSAP Flip page transitions synthesized from Awwwards SOTD/SOTY winners.
 critical_directives:
 - Follow document guidance without bypassing established safeguards.
-section_outline:
-- 'Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)'
-- Motion Dialing Matrix (Dial 0 to 10)
-- Lenis Smooth Momentum Scroll & RAF Sync
-- Native CSS View Timeline Animation Offloading
-- Interactive Radiant Shader HTML Protocol (`pbakaus/radiant`)
+- Synchronize Lenis smooth scroll with `gsap.ticker` to prevent main-thread jitter.
+- Enforce 44% Retina shader reduction rule by capping pixel ratio to `Math.min(window.devicePixelRatio, 1.5)`.
 read_triggers:
 - When working on skill in .agents/skills/website-design-engine/references/04-motion-and-shaders.md
-- 'When reading context for Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)'
+- When reading context for Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders
 tags:
 - skill
 - 04-motion-and-shaders
-updated: '2026-08-08'
+- awwwards
+- webgl
+- gsap
+updated: '2026-08-10'
 ---
 
-# Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)
+# Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v5.0 Awwwards Vault Edition)
 
 ## Motion Dialing Matrix (Dial 0 to 10)
 
@@ -89,79 +86,46 @@ For simple scroll reveals, offload animation from main-thread JS to native CSS S
 
 ---
 
-## Interactive Radiant Shader HTML Protocol (`pbakaus/radiant`)
+## Master Awwwards Motion & WebGL Protocols
 
-When a WebGL background or generative graphic is considered:
-1. Ask the user: *"Would you like a WebGL shader background here? If yes, which shader from radiant-shaders.com gallery?"*
-2. The user will place the HTML file into `reference/`.
-3. Extract and adapt vertex/fragment shader programs and uniform controls directly from that HTML file into your WebGL canvas stage.
-
----
-
-## GSAP ScrollTrigger Canonical Skeletons
-
-### A. Sticky-Stack Scroll (Card Stack Effect)
-```tsx
-"use client";
-import { useRef, useEffect } from "react";
-import { gsap } from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
-
-gsap.registerPlugin(ScrollTrigger);
-
-export function StickyStack({ cards }: { cards: React.ReactNode[] }) {
-  const ref = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (!ref.current) return;
-    const ctx = gsap.context(() => {
-      const cardEls = gsap.utils.toArray<HTMLElement>(".stack-card");
-      cardEls.forEach((card, i) => {
-        if (i === cardEls.length - 1) return;
-        ScrollTrigger.create({
-          trigger: card,
-          start: "top top",
-          endTrigger: cardEls[cardEls.length - 1],
-          end: "top top",
-          pin: true,
-          pinSpacing: false,
-        });
-        gsap.to(card, {
-          scale: 0.92,
-          opacity: 0.55,
-          ease: "none",
-          scrollTrigger: {
-            trigger: cardEls[i + 1],
-            start: "top bottom",
-            end: "top top",
-            scrub: true,
-          },
-        });
-      });
-    }, ref);
-    return () => ctx.revert();
-  }, []);
-
-  return <div ref={ref}>{cards}</div>;
-}
+### 1. Trionn Unified `explodeAmt` State Engine
+Instead of competing GSAP tweens, drive 3D mesh transformations with a single composite state float:
+```typescript
+const explodeAmt = Math.max(st.scrollProgress, st.hoverAmt, st.clickBurst, st.introAmt);
 ```
 
-### B. Magnetic Hover Button Physics
+### 2. GSAP `Flip.fit()` Page Transition Engine (Taxi.js / Barba.js)
 ```typescript
-export const useMagnetic = (ref: React.RefObject<HTMLElement>, strength = 0.3) => {
-  const handleMouseMove = (e: MouseEvent) => {
-    if (!ref.current) return;
-    const { left, top, width, height } = ref.current.getBoundingClientRect();
-    const x = (e.clientX - (left + width / 2)) * strength;
-    const y = (e.clientY - (top + height / 2)) * strength;
-    gsap.to(ref.current, { x, y, duration: 0.4, ease: "power2.out" });
-  };
+Flip.fit(clone, targetContainer, {
+  duration: 1.2,
+  ease: 'expo.inOut',
+  onComplete: () => {
+    targetContainer.appendChild(clone);
+  }
+});
+```
 
-  const handleMouseLeave = () => {
-    if (!ref.current) return;
-    gsap.to(ref.current, { x: 0, y: 0, duration: 0.6, ease: "elastic.out(1, 0.3)" });
-  };
+### 3. IYO 1.6M GPGPU Particle Sound Visualization
+```javascript
+// Scale particle count dynamically based on hardware capability
+const particleCount = isMobile ? 400000 : 1600000;
+// Cap Retina pixel ratio to save 44% fragment shader workload
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.5));
+```
 
-  return { handleMouseMove, handleMouseLeave };
-};
+### 4. The Sleepers Fake Volumetric Fog (`onBeforeCompile`)
+```javascript
+gltf.scene.traverse(child => {
+  if (child.isMesh) {
+    child.material.onBeforeCompile = (shader) => {
+      fogOnBeforeCompile(shader);
+    };
+  }
+});
+```
+
+### 5. PX PUSH CRT Convex Monitor Filter
+```css
+.gloom::before { backdrop-filter: blur(10px); opacity: 0.15; }
+.vignette::before { background-image: url("/img/crt.png"); background-size: 100% 100%; opacity: 0.7; }
 ```

@@ -1,23 +1,32 @@
 ---
-title: "ZORIXEL AIOS Session Post-Mortem, Error Catalog & System Evolution Report"
-domain: "audit"
-summary: "Exhaustive post-mortem report auditing session execution, regex backtracking, Windows directory junction recursion, frontmatter standardization across 792 files, and pre-flight health script automation."
+title: ZORIXEL AIOS Session Post-Mortem, Error Catalog & System Evolution Report
+domain: audit
+summary: Exhaustive post-mortem report auditing session execution, regex backtracking, Windows directory junction recursion,
+  frontmatter standardization across 792 files, and pre-flight health script automation.
 critical_directives:
-  - "Rule 1.24: Windows Directory Junction Resolution: Always use is_reparse_or_link() to detect FILE_ATTRIBUTE_REPARSE_POINT (1024) to prevent os.walk recursion hangs."
-  - "Rule 1.25: Regex Backtracking Isolation: Never run unbounded re.findall() patterns across raw file contents; use line-by-line string parsing."
-  - "Rule 1.26: External Scratch & Library Isolation: Always exclude skills-library and unpruned repo scratch folders from workspace-wide mutations."
+- 'Rule 1.24: Windows Directory Junction Resolution: Always use is_reparse_or_link() to detect FILE_ATTRIBUTE_REPARSE_POINT
+  (1024) to prevent os.walk recursion hangs.'
+- 'Rule 1.25: Regex Backtracking Isolation: Never run unbounded re.findall() patterns across raw file contents; use line-by-line
+  string parsing.'
+- 'Rule 1.26: External Scratch & Library Isolation: Always exclude skills-library and unpruned repo scratch folders from workspace-wide
+  mutations.'
 section_outline:
-  - "1. Executive Session Summary & Execution Context"
-  - "2. Section 1: Comprehensive Terminal, Syntax, API & Environment Error Catalog"
-  - "3. Section 2: User Instruction-to-Delivery & Tweak Iteration Audit"
-  - "4. Section 3: Repeatable Patterns & Reusable Skill Specifications"
-  - "5. Section 4: 5-Persona Adversarial Council Audit & Pre-Flight Health Scripts"
-  - "6. Phase 3 System Evolution & Auto-Upgrade Log"
+- 1. Executive Session Summary & Execution Context
+- '2. Section 1: Comprehensive Terminal, Syntax, API & Environment Error Catalog'
+- '3. Section 2: User Instruction-to-Delivery & Tweak Iteration Audit'
+- '4. Section 3: Repeatable Patterns & Reusable Skill Specifications'
+- '5. Section 4: 5-Persona Adversarial Council Audit & Pre-Flight Health Scripts'
+- 6. Phase 3 System Evolution & Auto-Upgrade Log
 read_triggers:
-  - "When reviewing post-mortem audits in errors-and-lessons/"
-  - "When encountering os.walk hangs or regex backtracking errors"
-tags: ["audit", "postmortem", "error-catalog", "frontmatter", "system-evolution"]
-updated: 2026-08-08
+- When reviewing post-mortem audits in errors-and-lessons/
+- When encountering os.walk hangs or regex backtracking errors
+tags:
+- audit
+- postmortem
+- error-catalog
+- frontmatter
+- system-evolution
+updated: '2026-08-08'
 ---
 
 # ZORIXEL AIOS Session Post-Mortem & System Evolution Report

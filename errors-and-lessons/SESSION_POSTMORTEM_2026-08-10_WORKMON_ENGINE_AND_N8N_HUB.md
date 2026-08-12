@@ -1,7 +1,8 @@
 ---
 title: ZORIXEL AIOS Session Post-Mortem & System Evolution Report — WorkMon Engine & n8n Hub Integration
 domain: errors-and-lessons
-summary: Comprehensive post-mortem audit documenting terminal errors, user iteration logs, zero-cost boundary verifications, and permanent system rules from the WorkMon Workflows 1 & 2 Socratic discovery and implementation session.
+summary: Comprehensive post-mortem audit documenting terminal errors, user iteration logs, zero-cost boundary verifications,
+  and permanent system rules from the WorkMon Workflows 1 & 2 Socratic discovery and implementation session.
 critical_directives:
 - Maintain non-intrusive local watchdog telemetry decoupled from network availability.
 - Enforce strict 100% zero-fee/zero-subscription boundary across all tools, scripts, and n8n workflows.
@@ -21,7 +22,7 @@ tags:
 - workmon
 - n8n
 - auto-evolution
-updated: '2026-08-10'
+updated: '2026-08-08'
 ---
 
 # ZORIXEL AIOS Session Post-Mortem & System Evolution Report — WorkMon Engine & n8n Hub Integration
