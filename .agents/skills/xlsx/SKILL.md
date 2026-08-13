@@ -1,18 +1,28 @@
 ---
-name: xlsx
-description: Spreadsheet manipulation, creation, editing, data cleaning, formula recalculation, financial modeling, and bulk data import/export with openpyxl, pandas, and LibreOffice.
+title: XLSX Spreadsheet Engineering Guide
 domain: spreadsheet-engineering
 summary: XLSX and CSV spreadsheet creation, formula auditing, data cleaning, and openpyxl formatting.
 critical_directives:
 - Use formulas over hardcoded numbers (e.g. '=SUM(B2:B9)').
 - Post-2007 Excel functions (TEXTJOIN, IFS, MINIFS) require '_xlfn.' prefix when written in openpyxl strings.
 - Never use XLOOKUP, XMATCH, or dynamic spill array functions; use INDEX and MATCH for maximum LibreOffice/Excel compatibility.
+section_outline:
+- XLSX Spreadsheet Engineering Guide
+- Core Capabilities
+- Formula Rules & Compatibility
+- Financial Modeling Standards
+read_triggers:
+- When working on spreadsheet-engineering in .agents/skills/xlsx/SKILL.md
+- When reading context for XLSX Spreadsheet Engineering Guide
 tags:
 - xlsx
 - openpyxl
 - pandas
 - spreadsheets
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: xlsx
+description: Spreadsheet manipulation, creation, editing, data cleaning, formula recalculation, financial modeling, and bulk
+  data import/export with openpyxl, pandas, and LibreOffice.
 ---
 
 # XLSX Spreadsheet Engineering Guide

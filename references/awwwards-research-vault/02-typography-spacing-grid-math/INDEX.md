@@ -1,22 +1,32 @@
 ---
-title: Sub-Vault 02 — Typography, Spacing & Grid Math Index
-domain: index
-summary: Directory index for sub-vault 02 covering Awwwards typography standards, extended font rules, OpenType wdth axis math, and Barlow Expanded specs.
+title: 02 Typography Spacing Grid Math Index
+domain: reference
+summary: Master index for 02-typography-spacing-grid-math organizing 25 reference files into 4 sub-category directories.
 critical_directives:
-- Maintain explicit read_triggers for all child files in this directory.
+- Enforce zero-emoji mandate across all vault reference files.
+section_outline:
+- 02 Typography Spacing Grid Math Index
+- Sub-Category Catalog
 read_triggers:
-- When working on architecture in references/awwwards-research-vault/02-typography-spacing-grid-math
-- When reading context for Sub-Vault 02 — Typography, Spacing & Grid Math Index
+- When working on reference in 02-typography-spacing-grid-math
 tags:
-- index
-- typography
-- css-math
+- reference
 - awwwards
+- index
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 02 — Typography, Spacing & Grid Math Index
+# 02 Typography Spacing Grid Math Index
 
-## Cataloged Files
+This sub-vault organizes atomic reference files into crisp, isolated sub-category directories with fresh sequential file numbering for pinpoint skill retrieval.
 
-- [01-extended-font-typography-rulebook.md](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/01-extended-font-typography-rulebook.md): Extended font rules vs artificial scaling distortion, OpenType `wdth` variable font axis, Barlow Expanded & Trade Gothic specs.
+---
+
+## Sub-Category Catalog
+
+| Sub-Category Directory | Title & Focus | Specifications & File Count |
+| :--- | :--- | :--- |
+| **[01-obys-padding-and-spatial-rules/](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/01-obys-padding-and-spatial-rules/INDEX.md)** | 01 Obys Padding And Spatial Rules | 17 reference files |
+| **[02-bento-and-multicolumn-grids/](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/02-bento-and-multicolumn-grids/INDEX.md)** | 02 Bento And Multicolumn Grids | 4 reference files |
+| **[03-fluid-type-math-and-clamp/](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/03-fluid-type-math-and-clamp/INDEX.md)** | 03 Fluid Type Math And Clamp | 3 reference files |
+| **[04-font-stacks-and-pairings/](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/04-font-stacks-and-pairings/INDEX.md)** | 04 Font Stacks And Pairings | 1 reference files |

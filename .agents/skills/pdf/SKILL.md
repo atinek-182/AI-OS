@@ -1,16 +1,27 @@
 ---
-name: pdf
-description: Use this skill whenever the user wants to process, read, edit, merge, split, extract text/tables, fill forms, or create PDF files. Includes pypdf, pdfplumber, reportlab, and qpdf command standards.
+title: PDF Processing & Generation Engine
 domain: pdf-processing
 summary: PDF manipulation, extraction, report building, form filling, and OCR processing using Python and CLI tools.
 critical_directives:
 - Never use Unicode subscript/superscript characters in ReportLab PDFs; use ReportLab XML tags (<sub>, <super>).
+section_outline:
+- PDF Processing & Generation Engine
+- Core Capabilities
+- Python Implementation Patterns
+- 1. Extract Text & Tables with `pdfplumber`
+- 2. Merge & Split with `pypdf`
+read_triggers:
+- When working on pdf-processing in .agents/skills/pdf/SKILL.md
+- When reading context for PDF Processing & Generation Engine
 tags:
 - pdf
 - pypdf
 - pdfplumber
 - reportlab
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: pdf
+description: Use this skill whenever the user wants to process, read, edit, merge, split, extract text/tables, fill forms,
+  or create PDF files. Includes pypdf, pdfplumber, reportlab, and qpdf command standards.
 ---
 
 # PDF Processing & Generation Engine

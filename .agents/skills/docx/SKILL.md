@@ -1,17 +1,26 @@
 ---
-name: docx
-description: Create, read, edit, and convert Microsoft Word documents (.docx, .dotx) using docx-js (Node.js), pandoc, and XML editing tools. Includes table width rules, tracked changes, and PDF conversion validation.
+title: DOCX Document Engineering Guide
 domain: document-engineering
 summary: DOCX creation and XML editing standards using docx (npm), pandoc, and LibreOffice.
 critical_directives:
 - Tables require dual widths (columnWidths on table AND width on every cell in WidthType.DXA).
 - Never use solid table shading (ShadingType.CLEAR only).
 - PageBreak must always be placed inside a Paragraph.
+section_outline:
+- DOCX Document Engineering Guide
+- Core Capabilities
+- Creation Standards (`docx-js`)
+read_triggers:
+- When working on document-engineering in .agents/skills/docx/SKILL.md
+- When reading context for DOCX Document Engineering Guide
 tags:
 - docx
 - word
 - document-processing
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: docx
+description: Create, read, edit, and convert Microsoft Word documents (.docx, .dotx) using docx-js (Node.js), pandoc, and
+  XML editing tools. Includes table width rules, tracked changes, and PDF conversion validation.
 ---
 
 # DOCX Document Engineering Guide

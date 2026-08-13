@@ -1,10 +1,14 @@
 ---
 title: Awwwards Master Creation Guide & Multi-Site Pattern Synthesis
 domain: reference
-summary: Comprehensive reference manual defining Awwwards-grade web creation mechanics. Synthesizes design patterns across 10 award-winning websites, Obys spatial rhythm (140px padding), Lenis inertia scroll, GSAP ScrollTrigger scrollytelling, Radiant WebGL shaders, local C:\Users\HP\Downloads\Components vault assets, and Playwright 5-viewport QA with Human-in-the-Loop visual ratings.
+summary: Comprehensive reference manual defining Awwwards-grade web creation mechanics. Synthesizes design patterns across
+  10 award-winning websites, Obys spatial rhythm (140px padding), Lenis inertia scroll, GSAP ScrollTrigger scrollytelling,
+  Radiant WebGL shaders, local C:\Users\HP\Downloads\Components vault assets, and Playwright 5-viewport QA with Human-in-the-Loop
+  visual ratings.
 critical_directives:
 - Strictly enforce Obys spatial padding (140px-160px desktop vertical padding) and 12-column asymmetric bento grid layout.
-- Sourcing components: Primary source is local Awwwards vault (C:\Users\HP\Downloads\Components). Generic 300+ component library is permanently discarded.
+- Sourcing components: Primary source is local Awwwards vault (C:\Users\HP\Downloads\Components). Generic 300+ component library
+    is permanently discarded.
 - Never use generic purple/blue gradients or glassmorphism. Enforce OKLCH color math and 3% SVG noise texture.
 - Incorporate Human-in-the-Loop Visual Rating Gate after Playwright 5-viewport sweeps.
 - Zero emoji mandate across all code, styles, commit messages, and receipts.
@@ -25,7 +29,7 @@ tags:
 - web-design
 - gsap
 - webgl
-updated: '2026-08-09'
+updated: '2026-08-08'
 ---
 
 # Awwwards Master Creation Guide & Multi-Site Pattern Synthesis

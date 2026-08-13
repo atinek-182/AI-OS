@@ -1,12 +1,19 @@
 ---
 title: Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)
 domain: skill
-summary: Master 10-Phase Web Creation Engine v5.1 (Awwwards-Grade Architecture). Integrates local Awwwards Component Vault (C:\Users\HP\Downloads\Components), multi-skill research harvesting (/storm-research-project, /agent-reach, GSAP, Three.js, Hallmark, GStack), Obys grid math (140px padding), Lenis inertia scroll, Radiant WebGL Shaders, and Playwright 5-viewport visual QA with a Human-in-the-Loop Visual Rating Gate inside a 1-to-5 pass loop.
+summary: Master 10-Phase Web Creation Engine v5.1 (Awwwards-Grade Architecture). Integrates local Awwwards Component Vault
+  (C:\Users\HP\Downloads\Components), multi-skill research harvesting (/storm-research-project, /agent-reach, GSAP, Three.js,
+  Hallmark, GStack), Obys grid math (140px padding), Lenis inertia scroll, Radiant WebGL Shaders, and Playwright 5-viewport
+  visual QA with a Human-in-the-Loop Visual Rating Gate inside a 1-to-5 pass loop.
 critical_directives:
-- Sourcing components: Primary source is local Awwwards Component Vault (C:\Users\HP\Downloads\Components) containing 24 clone repos and shader galleries. Generic 300+ component catalog is permanently discarded for Awwwards builds.
-- Execute live web research via /storm-research-project (7-agent suite) and /agent-reach across YouTube, X, Reddit, and Awwwards articles.
-- Strictly enforce Obys spatial padding (140px desktop), bespoke display typography, project-specific OKLCH color math, and zero-slop rules.
-- Incorporate Human-in-the-Loop Visual Rating Gate after Playwright 5-viewport visual audit. Atinek Maurya provides direct 1-line visual feedback after each pass.
+- Sourcing components: Primary source is local Awwwards Component Vault (C:\Users\HP\Downloads\Components) containing 24 clone
+    repos and shader galleries. Generic 300+ component catalog is permanently discarded for Awwwards builds.
+- Execute live web research via /storm-research-project (7-agent suite) and /agent-reach across YouTube, X, Reddit, and Awwwards
+  articles.
+- Strictly enforce Obys spatial padding (140px desktop), bespoke display typography, project-specific OKLCH color math, and
+  zero-slop rules.
+- Incorporate Human-in-the-Loop Visual Rating Gate after Playwright 5-viewport visual audit. Atinek Maurya provides direct
+  1-line visual feedback after each pass.
 - Follow zero-emoji mandate across all output code, styles, and receipts.
 section_outline:
 - Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)
@@ -23,9 +30,11 @@ tags:
 - skill
 - SKILL
 - website-design-engine
-updated: '2026-08-09'
+updated: '2026-08-08'
 name: website-design-engine
-description: Master 10-Phase Web Creation Engine v5.1. Generates Awwwards-grade digital experiences in 1-5 passes using local Awwwards Component Vault (C:\Users\HP\Downloads\Components), /storm-research-project research ingestion, GSAP, Three.js, Hallmark, Obys grid math, and Lenis inertia scroll with a Human-in-the-Loop Visual Rating Gate.
+description: Master 10-Phase Web Creation Engine v5.1. Generates Awwwards-grade digital experiences in 1-5 passes using local
+  Awwwards Component Vault (C:\Users\HP\Downloads\Components), /storm-research-project research ingestion, GSAP, Three.js,
+  Hallmark, Obys grid math, and Lenis inertia scroll with a Human-in-the-Loop Visual Rating Gate.
 argument-hint: '[brief_or_url] [--loop] [--passes N]'
 ---
 
@@ -101,6 +110,27 @@ To achieve Site of the Day / Site of the Month quality consistently, this engine
 [Phase 6: Playwright QA + Human Visual Gate] ──► verify_design_milestone.py (320px to 1920px Visual Audit) + Atinek Maurya Feedback
 [Phase 7: 1-to-5 Pass Loop Convergence]    ──► /loop-engine execution receipt logging & LOOPS.md sync
 ```
+
+---
+
+## Awwwards Research Vault Precision Sub-Category Phase Routing
+
+Every AI agent executing this skill MUST use `view_file` to read the specific sub-category `INDEX.md` before starting work on each phase (see master [SKILL_ROUTING_MAP.md](file:///d:/AI-OS/references/awwwards-research-vault/SKILL_ROUTING_MAP.md)):
+
+- **Phase 0 (Discovery & Intent)**: Read [Flagships Index](file:///d:/AI-OS/references/awwwards-research-vault/05-case-studies-and-tutorials/01-agency-flagships/INDEX.md) & [Digital Hospitality Index](file:///d:/AI-OS/references/awwwards-research-vault/07-ux-psychology-and-brand-choreography/01-digital-hospitality-and-trust/INDEX.md).
+- **Phase 0.1 (Research Harvest)**: Read [SaaS & Boutique Case Studies Index](file:///d:/AI-OS/references/awwwards-research-vault/05-case-studies-and-tutorials/02-product-saas-and-boutique/INDEX.md).
+- **Phase 0.2 (Roast Audit)**: Read [4-Category Scoring Rubrics Index](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/01-awwwards-4-category-rubrics/INDEX.md).
+- **Phase 1 (OKLCH Color Theme)**: Read [Color Math Index](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/01-color-math-and-palettes/INDEX.md) & [Surface Physics Index](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/02-surface-physics-and-textures/INDEX.md).
+- **Phase 2 (Grid Math & Typography)**: Read [Obys Padding Rules Index](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/01-obys-padding-and-spatial-rules/INDEX.md) & [Bento Grids Index](file:///d:/AI-OS/references/awwwards-research-vault/02-typography-spacing-grid-math/02-bento-and-multicolumn-grids/INDEX.md).
+- **Phase 3 (Component Sourcing)**: Read [Flagships Index](file:///d:/AI-OS/references/awwwards-research-vault/05-case-studies-and-tutorials/01-agency-flagships/INDEX.md) + source `C:\Users\HP\Downloads\Components` (24 repos).
+- **Phase 4.1 (Smooth Scroll & Motion)**: Read [Smooth Scroll Engines Index](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/01-smooth-scroll-and-momentum-engines/INDEX.md) & [Scrollytelling Pinning Index](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/02-scrollytelling-and-pinning/INDEX.md).
+- **Phase 4.2 (Wave & Grid Shaders)**: Read [Wave Distortion Shaders Index](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/01-wave-and-distortion-shaders/INDEX.md).
+- **Phase 4.3 (Particle Systems & GPGPU)**: Read [GPGPU Particles Index](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/02-particles-and-gpgpu/INDEX.md).
+- **Phase 4.4 (CRT & Screen Effects)**: Read [CRT Screen Effects Index](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/03-crt-and-screen-effects/INDEX.md).
+- **Phase 4.5 (Asset Pipeline)**: Read [Surface Physics & Textures Index](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/02-surface-physics-and-textures/INDEX.md).
+- **Phase 5 (Pre-Emit Anti-Slop QA)**: Read [SOTY & AOY Rubrics Index](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/02-soty-and-aoy-rubrics/INDEX.md).
+- **Phase 6 (Playwright QA & Human Gate)**: Read [Developer Award Rubrics Index](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/03-developer-award-rubrics/INDEX.md).
+- **Phase 7 (Loop Receipt Sync)**: Read [4-Category Scoring Rubrics Index](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/01-awwwards-4-category-rubrics/INDEX.md).
 
 ---
 

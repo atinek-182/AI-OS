@@ -1,9 +1,11 @@
 ---
 title: Awwwards Research Vault Master Index
 domain: reference
-summary: Centralized catalog and index for all 7 Awwwards research vault sub-directories covering design principles, Obys grid math, GSAP motion, WebGL fragment shaders, case studies, local components, judging criteria, and UX psychology.
+summary: Centralized catalog and index for all 7 Awwwards research vault sub-directories covering design principles, Obys
+  grid math, GSAP motion, WebGL fragment shaders, case studies, local components, judging criteria, and UX psychology.
 critical_directives:
-- Sourcing components: Primary source is local Awwwards vault (C:\Users\HP\Downloads\Components). Generic 300+ component library is permanently discarded.
+- Sourcing components: Primary source is local Awwwards vault (C:\Users\HP\Downloads\Components). Generic 300+ component library
+    is permanently discarded.
 - Follow zero-emoji mandate across all vault documents and catalog indexes.
 section_outline:
 - Awwwards Research Vault Master Index
@@ -17,7 +19,7 @@ tags:
 - awwwards
 - research-vault
 - index
-updated: '2026-08-10'
+updated: '2026-08-08'
 ---
 
 # Awwwards Research Vault Master Index
@@ -43,6 +45,7 @@ This directory serves as the dedicated research vault for building Awwwards Site
 ## Core System Integrations
 
 - **Skill Engine**: [.agents/skills/website-design-engine/SKILL.md](file:///d:/AI-OS/.agents/skills/website-design-engine/SKILL.md) (v5.1 Awwwards Vault Edition).
+- **Skill Routing Map**: [references/awwwards-research-vault/SKILL_ROUTING_MAP.md](file:///d:/AI-OS/references/awwwards-research-vault/SKILL_ROUTING_MAP.md).
 - **Master Guide**: [references/AWWWARDS-MASTER-CREATION-GUIDE.md](file:///d:/AI-OS/references/AWWWARDS-MASTER-CREATION-GUIDE.md).
 - **Local Vault**: `C:\Users\HP\Downloads\Components` (24 repos).
 - **Raw Ingestion Vaults**: `scratch/awwwards_ingestion_raw/` (`awwwards_blog/`, `codrops/`).

@@ -1,3 +1,25 @@
+---
+title: AI-OS Domain Skills Registry
+domain: skill
+summary: This directory contains pre-recorded, site-specific operational procedures (SOPs), DOM selector maps, and edge-case
+  handling rules for web automation. Each site domain gets a dedicated folder named after its primary hostname slug (e.g.
+  `github`, `lin
+critical_directives:
+- Follow document guidance without bypassing established safeguards.
+section_outline:
+- AI-OS Domain Skills Registry
+- Folder Structure
+- How It Works
+- Adding a Domain Skill
+read_triggers:
+- When working on skill in .agents/skills/domain-skills/README.md
+- When reading context for AI-OS Domain Skills Registry
+tags:
+- skill
+- README
+updated: '2026-08-08'
+---
+
 # AI-OS Domain Skills Registry
 
 This directory contains pre-recorded, site-specific operational procedures (SOPs), DOM selector maps, and edge-case handling rules for web automation.

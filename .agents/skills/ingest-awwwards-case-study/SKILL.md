@@ -1,12 +1,20 @@
 ---
 title: ZORIXEL AIOS Awwwards Case Study & Research Ingestion Engine (`/ingest-awwwards-case-study`)
 domain: skill
-summary: Automated line-by-line reading and zero-loss synthesis engine for Awwwards, Codrops, Medium, and agency winner case studies. Reads raw markdowns, extracts unsummarized code/shaders/math, creates atomic sub-vault files, spawns dynamic sub-vaults if needed, updates indexes, and synchronizes skill references in tandem.
+summary: Automated line-by-line reading and zero-loss synthesis engine for Awwwards, Codrops, Medium, and agency winner case
+  studies. Reads raw markdowns, extracts unsummarized code/shaders/math, creates atomic sub-vault files, spawns dynamic sub-vaults
+  if needed, updates indexes, and synchronizes skill references in tandem.
 critical_directives:
 - Never summarize code or skip GLSL shaders, GSAP timelines, or math formulas during extraction.
 - Perform line-by-line file reading using native view_file tool; zero automated regex pruning.
 - Register newly created atomic sub-vault files in the target sub-vault's INDEX.md and main research vault INDEX.md.
 - Synchronize website-design-engine references in tandem on every run.
+section_outline:
+- Overview & Invocation
+- 6-Phase Non-Lossy Ingestion Protocol
+- 'Phase 1: Source Intake & Defuddle Parsing'
+- 'Phase 2: Line-by-Line Reading (Zero-Loss Mandate)'
+- 'Phase 3: Domain Categorization & Sub-Vault Mapping'
 read_triggers:
 - When ingesting new Awwwards case studies or Codrops articles
 - When reading context for ZORIXEL AIOS Awwwards Case Study & Research Ingestion Engine
@@ -17,9 +25,11 @@ tags:
 - research-ingestion
 - webgl
 - gsap
-updated: '2026-08-10'
+updated: '2026-08-08'
 name: ingest-awwwards-case-study
-description: Line-by-line zero-loss reading and sub-vault enrichment engine for Awwwards, Codrops, Medium, and agency winner case studies. Extracts unsummarized GSAP code, WebGL GLSL shaders, typography math, and UX psychology into references/awwwards-research-vault and updates website-design-engine references in tandem.
+description: Line-by-line zero-loss reading and sub-vault enrichment engine for Awwwards, Codrops, Medium, and agency winner
+  case studies. Extracts unsummarized GSAP code, WebGL GLSL shaders, typography math, and UX psychology into references/awwwards-research-vault
+  and updates website-design-engine references in tandem.
 argument-hint: '[file_path_or_url] [--sub-vault 01-07]'
 ---
 

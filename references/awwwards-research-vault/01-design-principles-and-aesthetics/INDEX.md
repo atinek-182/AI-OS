@@ -1,25 +1,32 @@
 ---
-title: Sub-Vault 01 — Design Principles & Aesthetics Index
-domain: index
-summary: Directory index for sub-vault 01 covering Awwwards design principles, Nick Ungerer 8 ingredients, Alex Streza SOTY checklist, Obys Agency design system, and Exo Ape Digital Hospitality.
+title: 01 Design Principles And Aesthetics Index
+domain: reference
+summary: Master index for 01-design-principles-and-aesthetics organizing 29 reference files into 4 sub-category directories.
 critical_directives:
-- Maintain explicit read_triggers for all child files in this directory.
+- Enforce zero-emoji mandate across all vault reference files.
+section_outline:
+- 01 Design Principles And Aesthetics Index
+- Sub-Category Catalog
 read_triggers:
-- When working on architecture in references/awwwards-research-vault/01-design-principles-and-aesthetics
-- When reading context for Sub-Vault 01 — Design Principles & Aesthetics Index
+- When working on reference in 01-design-principles-and-aesthetics
 tags:
-- index
-- design-principles
-- aesthetics
+- reference
 - awwwards
+- index
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 01 — Design Principles & Aesthetics Index
+# 01 Design Principles And Aesthetics Index
 
-## Cataloged Files
+This sub-vault organizes atomic reference files into crisp, isolated sub-category directories with fresh sequential file numbering for pinpoint skill retrieval.
 
-- [01-nick-ungerer-art-direction-pillars.md](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/01-nick-ungerer-art-direction-pillars.md): 8 ingredients of award-winning art direction, soundscapes, 3% SVG noise, and 7 site case studies.
-- [02-alex-streza-soty-checklist-and-tech-stack.md](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/02-alex-streza-soty-checklist-and-tech-stack.md): SOTY key design traits, Astro + React + Three.js + GSAP tech stack, and judging scoring scale.
-- [03-obys-agency-design-system-and-bun-server.md](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/03-obys-agency-design-system-and-bun-server.md): Typeface-first design methodology, Active Logo experience anchor, Bun HTTP server, 0kb client React bundle.
-- [04-exo-ape-fluid-glass-digital-hospitality.md](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/04-exo-ape-fluid-glass-digital-hospitality.md): Exo Ape Digital Hospitality, continuous project flow scrollytelling, Nuxt + Storyblok stack, adaptive navigation island.
+---
+
+## Sub-Category Catalog
+
+| Sub-Category Directory | Title & Focus | Specifications & File Count |
+| :--- | :--- | :--- |
+| **[01-color-math-and-palettes/](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/01-color-math-and-palettes/INDEX.md)** | 01 Color Math And Palettes | 23 reference files |
+| **[02-surface-physics-and-textures/](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/02-surface-physics-and-textures/INDEX.md)** | 02 Surface Physics And Textures | 1 reference files |
+| **[03-brand-identity-and-experience-anchors/](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/03-brand-identity-and-experience-anchors/INDEX.md)** | 03 Brand Identity And Experience Anchors | 3 reference files |
+| **[04-art-direction-and-soty-checklists/](file:///d:/AI-OS/references/awwwards-research-vault/01-design-principles-and-aesthetics/04-art-direction-and-soty-checklists/INDEX.md)** | 04 Art Direction And Soty Checklists | 2 reference files |

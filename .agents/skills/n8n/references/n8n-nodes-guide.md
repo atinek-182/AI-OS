@@ -1,3 +1,25 @@
+---
+title: n8n Node Reference & Production Workflow Engine
+domain: skill
+summary: n8n is a 100% open-source, self-hosted workflow automation platform. Workflows in n8n are represented as JSON structures
+  containing `nodes`, `connections`, and `settings`. | Category | Node Type String | Usage / Purpose |
+critical_directives:
+- Follow document guidance without bypassing established safeguards.
+section_outline:
+- n8n Node Reference & Production Workflow Engine
+- Overview
+- Standard Node Types (`n8n-nodes-base.*`)
+- n8n Expression Standard
+- 1-Click Launch Script (`start_n8n.bat`)
+read_triggers:
+- When working on skill in .agents/skills/n8n/references/n8n-nodes-guide.md
+- When reading context for n8n Node Reference & Production Workflow Engine
+tags:
+- skill
+- n8n-nodes-guide
+updated: '2026-08-08'
+---
+
 # n8n Node Reference & Production Workflow Engine
 
 ## Overview

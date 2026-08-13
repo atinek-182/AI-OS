@@ -138,5 +138,6 @@ At the completion of every execution of this skill:
 ---
 
 ## ⚡ Post-Mortem Auto-Evolution History
-- **2026-08-10 Upgrade**: Enforced Rules 1.37 (7-Sub-Vault Ingestion Standard), 1.38 (Socratic Concept Pre-Explanation Requirement), and 1.39 (Immediate Disk Checkpointing Mandate). Generated `scripts/aios_awwwards_vault_health_check.py` to audit 168 atomic reference files across 24 Awwwards sites.
+- **2026-08-10 Upgrade**: Enforced Rules 1.40 (Dynamic Sub-Vault File Discovery Rule), 1.41 (Raw File Ingestion Frontmatter Enforcement Rule), and 1.42 (Sub-Category Sequential Renumbering Rule). Generated `scripts/aios_awwwards_precision_vault_health_check.py` auditing 185 atomic reference files across 25 sub-category directories with 100% frontmatter compliance and 0 sequence prefix errors.
+- **2026-08-10 Upgrade (Prior)**: Enforced Rules 1.37 (7-Sub-Vault Ingestion Standard), 1.38 (Socratic Concept Pre-Explanation Requirement), and 1.39 (Immediate Disk Checkpointing Mandate). Generated `scripts/aios_awwwards_vault_health_check.py` to audit 168 atomic reference files across 24 Awwwards sites.
 

@@ -1,16 +1,30 @@
 ---
-name: MW01-zero-subscription-client-os
+title: 'Master Workflow 1: Zero-Subscription Client Operations & Automation OS (MW01)'
 domain: agency-automations
-summary: Master Workflow 1 — Zero-Subscription Client Operations & Automation OS. Combines self-hosted n8n, Google Workspace Sheets, Notion native engine, Apps Script live 2-way sync, automated PDF/XLSX/DOCX generation, and interactive handoff dashboards with mandatory /grill-me (5-10 questions) and 7-persona /roast gates on every step.
+summary: Master Workflow 1 — Zero-Subscription Client Operations & Automation OS. Combines self-hosted n8n, Google Workspace
+  Sheets, Notion native engine, Apps Script live 2-way sync, automated PDF/XLSX/DOCX generation, and interactive handoff dashboards
+  with mandatory /grill-me (5-10 questions) and 7-persona /roast gates on every step.
 critical_directives:
 - Default to 100% zero monthly software subscriptions for clients (Google Sheets + Apps Script + Self-Hosted n8n).
-- MANDATORY BOOTUP CONTEXT READ: Always inspect MEMORY.md, decisions/log.md, AGENTS.md, GEMINI.md, and WORKSPACE_MAP.md before executing workflow steps.
-- MANDATORY GRILL-ME GATE: Every single phase MUST execute /grill-me asking AT LEAST 5 to 10 structured questions before code/asset generation.
+- MANDATORY BOOTUP CONTEXT READ: Always inspect MEMORY.md, decisions/log.md, AGENTS.md, GEMINI.md, and WORKSPACE_MAP.md before
+    executing workflow steps.
+- MANDATORY GRILL-ME GATE: Every single phase MUST execute /grill-me asking AT LEAST 5 to 10 structured questions before code/asset
+    generation.
 - MANDATORY ROAST GATE: Every single phase MUST execute /roast (7-persona council) to stress-test ideas, code edits, and strategy.
-- PROACTIVE TOOL UPGRADE PROMPT: Proactively ask Atinek Maurya in chat whenever a new skill/tool/MCP is added that can enhance this workflow.
+- PROACTIVE TOOL UPGRADE PROMPT: Proactively ask Atinek Maurya in chat whenever a new skill/tool/MCP is added that can enhance
+    this workflow.
 - Export complete executable n8n workflow JSON files and 1-click launch scripts (start_n8n.bat / start_n8n.sh).
 - Apps Script MUST use runtime column header resolution (getHeaderMap(sheet)).
 - Deliver both Interactive HTML Setup Dashboard and PDF SOP export with copyable code blocks (user-select: all).
+section_outline:
+- 'Master Workflow 1: Zero-Subscription Client Operations & Automation OS (MW01)'
+- Executive Overview
+- Combined Skills Matrix
+- 6-Phase Execution Pipeline (with Integrated `/grill-me` + `/roast` Gates)
+- 'Phase 1: Intake & Discovery (`grill-me` + `roast` + `to-questionnaire`)'
+read_triggers:
+- When working on agency-automations in .agents/skills/domain-skills/workflows/MW01_zero_subscription_client_os.md
+- 'When reading context for Master Workflow 1: Zero-Subscription Client Operations & Automation OS (MW01)'
 tags:
 - master-workflow
 - zero-subscription
@@ -18,7 +32,8 @@ tags:
 - agency
 - grill-me
 - roast
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: MW01-zero-subscription-client-os
 ---
 
 # Master Workflow 1: Zero-Subscription Client Operations & Automation OS (MW01)

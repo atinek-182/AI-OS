@@ -1,17 +1,29 @@
 ---
-name: n8n
-description: Self-hosted n8n visual workflow automation engine based on official n8n architecture (https://github.com/n8n-io/n8n). Create, export, import, and execute 100% free open-source n8n full production workflows (.json files) and batch launch scripts for client automations, webhooks, database syncs, and multi-channel messaging without subscription fees.
+title: Self-Hosted n8n Production Workflow Engine
 domain: workflow-automation
 summary: Complete self-hosted n8n workflow generation and launch engine.
 critical_directives:
 - Always export complete, executable n8n workflow JSON files with valid nodes and connections array.
 - Include 1-click startup scripts (start_n8n.bat / start_n8n.sh) for client execution.
+section_outline:
+- Self-Hosted n8n Production Workflow Engine
+- Overview
+- Operating Instructions
+- 1. Build Full n8n Workflow JSON
+- 2. Generate Client Launch Script
+read_triggers:
+- When working on workflow-automation in .agents/skills/n8n/SKILL.md
+- When reading context for Self-Hosted n8n Production Workflow Engine
 tags:
 - n8n
 - automations
 - webhooks
 - workflows
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: n8n
+description: Self-hosted n8n visual workflow automation engine based on official n8n architecture (https://github.com/n8n-io/n8n).
+  Create, export, import, and execute 100% free open-source n8n full production workflows (.json files) and batch launch scripts
+  for client automations, webhooks, database syncs, and multi-channel messaging without subscription fees.
 ---
 
 # Self-Hosted n8n Production Workflow Engine

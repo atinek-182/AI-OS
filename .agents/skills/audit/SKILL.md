@@ -12,7 +12,7 @@ section_outline:
 - Today's context
 - The Four Cs (scored 25 each = 100 total)
 - Execution
-- 'Step 1: Discover the project shape' 
+- 'Step 1: Discover the project shape'
 read_triggers:
 - When working on skill in .agents/skills/audit/SKILL.md
 - When reading context for AIOS Audit — {date}

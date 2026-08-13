@@ -1,6 +1,4 @@
 ---
-name: humanizer
-description: Remove signs of AI-generated writing from text. Use when editing, reviewing, writing responses, copy, headings, emails, or docs to sound natural and human.
 title: 'Humanizer: Remove AI Writing Patterns'
 domain: skill
 summary: Remove signs of AI-generated writing from text to sound natural and human.
@@ -21,7 +19,10 @@ read_triggers:
 tags:
 - skill
 - SKILL
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: humanizer
+description: Remove signs of AI-generated writing from text. Use when editing, reviewing, writing responses, copy, headings,
+  emails, or docs to sound natural and human.
 ---
 
 ---

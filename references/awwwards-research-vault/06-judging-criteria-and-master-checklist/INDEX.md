@@ -1,23 +1,31 @@
 ---
-title: Awwwards Sub-Vault 06 - Judging Criteria & Master Checklist
+title: 06 Judging Criteria And Master Checklist Index
 domain: reference
-summary: Official Awwwards scoring rubric (Design 40%, Usability 30%, Creativity 20%, Content 10%), Mobile Excellence criteria (70/100), and 5-pass verification checklists.
+summary: Master index for 06-judging-criteria-and-master-checklist organizing 24 reference files into 3 sub-category directories.
 critical_directives:
-- Site MUST pass 5-pass Playwright visual audit + Human Visual Rating Gate before claiming completion.
+- Enforce zero-emoji mandate across all vault reference files.
+section_outline:
+- 06 Judging Criteria And Master Checklist Index
+- Sub-Category Catalog
 read_triggers:
-- When working on reference in references/awwwards-research-vault/06-judging-criteria-and-master-checklist/
-- When reading context for Awwwards Judging Criteria & Master Checklist
+- When working on reference in 06-judging-criteria-and-master-checklist
 tags:
 - reference
 - awwwards
-- judging
-- checklist
+- index
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 06: Judging Criteria & Master Checklist
+# 06 Judging Criteria And Master Checklist Index
 
-## Master Directives & Files
-- [01-awwwards-4-category-scoring-rubric.md](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/01-awwwards-4-category-scoring-rubric.md)
-- [02-mobile-excellence-checklist.md](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/02-mobile-excellence-checklist.md)
-- [03-5-pass-webdesign-loop-verification.md](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/03-5-pass-webdesign-loop-verification.md)
+This sub-vault organizes atomic reference files into crisp, isolated sub-category directories with fresh sequential file numbering for pinpoint skill retrieval.
+
+---
+
+## Sub-Category Catalog
+
+| Sub-Category Directory | Title & Focus | Specifications & File Count |
+| :--- | :--- | :--- |
+| **[01-awwwards-4-category-rubrics/](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/01-awwwards-4-category-rubrics/INDEX.md)** | 01 Awwwards 4 Category Rubrics | 13 reference files |
+| **[02-soty-and-aoy-rubrics/](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/02-soty-and-aoy-rubrics/INDEX.md)** | 02 Soty And Aoy Rubrics | 7 reference files |
+| **[03-developer-award-rubrics/](file:///d:/AI-OS/references/awwwards-research-vault/06-judging-criteria-and-master-checklist/03-developer-award-rubrics/INDEX.md)** | 03 Developer Award Rubrics | 4 reference files |

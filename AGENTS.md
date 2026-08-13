@@ -108,6 +108,9 @@ updated: '2026-08-08'
 | **Rule 1.50** | **Network Navigation Timeout** | High | **External Adpack Script Removal Rule**: Remove external tracking and adpack script tags (`tympanus.net`, `typekit.net`) from component `index.html` files to eliminate network timeouts. |
 | **Rule 1.51** | **CORS & Premium GSAP Module** | High | **Native GSAP Plugin Polyfill Rule**: Polyfill premium/CORS-blocked GSAP plugins (like `SplitText`) with lightweight native DOM text splitters to ensure zero external dependency failures. |
 | **Rule 1.52** | **CDN URL Verification** | Low | **Verified cdnjs CDN Standard**: Always audit and replace typo or unverified CDN script sources (`unpkg.co`) with reliable cdnjs URLs. |
+| **Rule 1.53** | **Async Task Management** | Low | **Async Task Notification Safety Rule**: Never poll `manage_task status` in a loop when a command returns an async task ID; await system notification messages or proceed with non-dependent context preparation. |
+| **Rule 1.54** | **Character Encoding** | Low | **Strict Zero-Emoji Verification Rule**: Guarantee zero emojis across all codebase, context, documentation, and chat outputs to eliminate ANSI cp1252 encoding panics and maintain elite professional tone. |
+| **Rule 1.55** | **Domain Term Scrubbing** | Medium | **Immediate Domain Term Scrubbing Rule**: Whenever domain term substitutions are requested (e.g. JEE -> B.Sc Nursing), execute global `grep_search` BEFORE and AFTER edits to verify 100% zero leftover references. |
 
 ---
 

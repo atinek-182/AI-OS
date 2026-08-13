@@ -1,16 +1,16 @@
 # Graph Report - AI-OS  (2026-08-10)
 
 ## Corpus Check
-- 713 files · ~2,244,493 words
+- 1028 files · ~2,423,433 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 7141 nodes · 6845 edges · 619 communities (579 shown, 40 thin omitted)
+- 8898 nodes · 8294 edges · 928 communities (851 shown, 77 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 6 edges (avg confidence: 0.65)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `026112ea`
+- Built from commit: `efbc3df7`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -31,11 +31,11 @@
 - component-cookbook.md
 - Vashishthya Research, IJORAR & MJAP: Master AI Strategy & Pitch Discovery
 - Vashishthya Notion OS & Google Sheets Automated Infrastructure: Discovery & Setup Blueprint
-- Decisions Log
+- log.md
 - new_client_runner.py
 - 📌 Generic 1-Line Execution Pipeline
 - ZORIXEL AIOS Session Post-Mortem & System Evolution Report
-- SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT
+- ZORIXEL AIOS Post-Mortem Audit & Wave 2 Ingestion System Evolution Report
 - 👥 5-PERSONA ADVERSARIAL ROAST AUDIT (`/roast`)
 - ZORIXEL AIOS Global Rules & Error Prevention Engine (`/global-rules`)
 - 👥 5-PERSONA ADVERSARIAL ROAST AUDIT (`/roast`)
@@ -254,22 +254,22 @@
 - ZORIXEL AIOS Native Loop Engineering Engine (`/loop-engine`)
 - Critical (ships as slop)
 - Typography
-- Awwwards Research Vault 05 - Case Studies, Tutorials & Component Ingestion
+- Q&A Log
 - Q&A log
 - 3. Page Structure & Macrostructure Layout
 - aios_browser_engine.py
 - Socratic Discovery Q&A Log
 - Active Workspace Playbooks
-- Awwwards Research Vault 02 - Typography, Spacing & Grid Math
+- 🎯 SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT
 - Core Execution Guidelines
-- Awwwards Research Vault 03 - GSAP & Lenis Motion Architecture
+- Awwwards Research Vault & Web Design Skill Organization Plan
 - audit/SKILL.md
 - OS Audit — is your AIOS still true?
-- Awwwards Research Vault 01 - Design Principles & Aesthetic Foundations
+- 🎯 SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT
 - Figma Micrographics Assets: Brainstorm / Discovery Notes
 - 23-Site Design Learning & Synthesis Engine: Discovery & Brainstorm Notes
-- Awwwards Research Vault 04 - WebGL & Three.js Shader Protocol
-- Awwwards Research Vault 06 - Judging Criteria & Master Checklist
+- Q&A Log & Decision Progress
+- 6-Phase Non-Lossy Ingestion Protocol
 - AI-OS Domain Skills Registry
 - Council Detailed Red-Team Analysis
 - Awwwards Research Vault Master Index
@@ -291,7 +291,7 @@
 - SECTION 1: COMPREHENSIVE TERMINAL, SYNTAX, API & ENVIRONMENT ERROR CATALOG
 - WorkMon Workflows 1 & 2 Unified Engine Master Specification
 - Macrostructures
-- Cross-Site Request Forgery (CSRF)
+- The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio
 - Frontend Slides Generator
 - Microinteraction tells
 - Archetype index — load ONLY the picks you need
@@ -300,7 +300,16 @@
 - level-up/SKILL.md
 - Commands & Workflow Guide
 - test_workmon_health.py
+- The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio
 - UI Context
+- FAQ on Extended Fonts
+- 1. Sub-Domain Taxonomy Breakdown Across All 7 Sub-Vaults
+- Between Print and Digital: The Making of MERSI’s Website
+- Between Print and Digital: The Making of MERSI’s Website
+- ZERO: The Engineering Behind a Defiant Interactive Narrative
+- ZERO: The Engineering Behind a Defiant Interactive Narrative
+- FLUID GLASS - CASE STUDY
+- GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB
 - graphify_runner.py
 - Frontend Slides
 - Responsive
@@ -310,8 +319,20 @@
 - Storm Research Project (`/storm-research-project`)
 - 🛠️ Execution Pipeline
 - Server-Side Bugs
+- FLUID GLASS - CASE STUDY
 - Initial Analysis Details
 - Q&A log
+- GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB
+- IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER
+- IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER
+- 3D and WebGL Pipeline
+- NOT A PORTFOLIO. A PRESENCE.
+- 3D and WebGL Pipeline
+- NOT A PORTFOLIO. A PRESENCE.
+- LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION
+- LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION
+- Production Pipeline
+- Production Pipeline
 - ZORIXEL Viral Carousel Copywriter (`/carousel-copy`)
 - 🔍 The 6 Audit Gates
 - onboard/SKILL.md
@@ -320,7 +341,19 @@
 - Q&A log
 - Q&A log
 - Q&A Log
+- The Department Is Open: Building the PX PUSH Website
 - [Project Name]
+- The Department Is Open: Building the PX PUSH Website
+- The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques
+- The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques
+- MAPPING THE UNCHARTED: THE SAN RITA PROJECT
+- 7 Signature Site Case Studies Analyzed
+- MAPPING THE UNCHARTED: THE SAN RITA PROJECT
+- 5-Persona Adversarial Roast Council Evaluation
+- 7 Signature Site Case Studies Analyzed
+- 7 Signature Site Case Studies & Art Direction Insights
+- THE NEW OBYS
+- Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice
 - runner.py
 - 🛠 Command Usage
 - `gstack` — Garry Tan's AI Engineering Team Workflow
@@ -336,6 +369,24 @@
 - Global Constraints
 - Architecture Context
 - Project Dialogs & Editor Home
+- FARM MINERALS - CASE STUDY
+- FARM MINERALS - CASE STUDY
+- RESHAPING TELHA CLARKE’S DIGITAL HOME
+- THE NEW OBYS
+- Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice
+- Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary
+- Awwwards Research Vault Ingestion & Expansion: Discovery & Brainstorm Notes
+- RESHAPING TELHA CLARKE’S DIGITAL HOME
+- Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary
+- DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”
+- Magnetic Commerce: Building the Dash Creative Website
+- DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”
+- Executive Typographic Breakdown
+- Magnetic Commerce: Building the Dash Creative Website
+- Executive Breakdown & Key Traits of SOTY Winners
+- Sorry, you have been blocked
+- How to win an Awwward — The elements of beautiful webdesign
+- Extended Font Typographic Rulebook, OpenType `wdth` Axis & CSS Specs
 - 1. Directory Structure Map
 - Steps
 - Step-by-Step Execution Workflow
@@ -351,10 +402,20 @@
 - Phase 3 Reference: 300+ Component Catalog & Sourcing Guide (v4.0)
 - 🔒 Locked Business Blueprint for ZORIXEL
 - Q&A Log
+- The 4 Core Grid Archetypes
 - 23-Sites Design Psychology, Sensory Feel, & Spatial Choreography Guide
 - Progress Tracker
 - Progress Tracker
 - Issues
+- 01 Design Principles And Aesthetics Index
+- 02 Typography Spacing Grid Math Index
+- 03 Gsap Lenis Motion Scrollytelling Index
+- 04 Webgl Threejs Fragment Shaders Index
+- 05 Case Studies And Tutorials Index
+- 06 Judging Criteria And Master Checklist Index
+- ZERO 3D Spline Camera Narrative Engine & Virtual Scroll Architecture
+- Executive Typographic Breakdown
+- Trionn Master Motion Architecture — Coordinating GSAP, Three.js, Lenis & Web Audio API
 - run_scrape
 - Autoresearch Loop Targets Manager
 - Layout and space
@@ -377,6 +438,45 @@
 - Development Workflow
 - Code Standards
 - Utility Scripts Reference Guide
+- PX PUSH CRT Monitor Simulation, Extruded Chrome Logo & Nuxt WebGL Task Lifecycle
+- MERSI Editorial WebGL — GSAP Flip.fit() Page Transition, Clip-Path Slider & Silent Teleport
+- IYO Audio Computer — 1.6M GPGPU Particle Simulation & WebGL Performance Protocol
+- The Sleepers Atmospheric WebGL Shaders, Fake Volumetric Fog & Inverted Hull Outlines
+- Executive Breakdown & Key Traits of SOTY Winners
+- Core Principles of Digital Hospitality
+- Cross-Site Request Forgery (CSRF)
+- Ashley Brooke — Editorial Aesthetics, Drafting Grids & Matte Color Palette
+- Exo Ape Digital Hospitality, Continuous Project Flow & Navigation Island Architecture
+- Obys Agency Design System, Typeface-First Foundation & Bun Zero-CSR Tech Stack
+- Alex Streza SOTY Checklist, Tech Stack Architecture & Judging Scoring Scale
+- Champions 4 Good — System Sans Heavy Hierarchy & Viewport Token Math
+- Active Theory — Fluid Typography Clamp & HUD Grid Math
+- Active Theory — Web Audio Synthesizer, Radial Cursor & Camera Motion
+- Active Theory — Hydra WebGL Framework, Particle Vector Physics & GLSL Shaders
+- Cerebrium WebGL Pulse Shader, Fresnel Energy Shield & TSL/WebGPU Production Analysis
+- ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)
+- ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)
+- ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)
+- Active Theory — Agency of the Year Case Study & Portfolio Architecture
+- Active Theory — Visual Principles, Cosmic Dark Mode & OKLCH Fills
+- Champions 4 Good — Vibrant Network Aesthetics & High-Energy Palette
+- Detroit Paris — Haute Couture AI Aesthetics & Monochromatic Luxe Palette
+- Follow Art — Electric Cobalt Blue Aesthetics & Rebellious Art Branding
+- Gehry Getty — Parchment Archive Aesthetics & Museum Color Palette
+- Good Fella — Geist Mono Monospaced Aesthetics & Electric Red Tokens
+- Obys Agency — Favorite #1 Master Design Canons & Visual Principles
+- Obys Agency — OKLCH Palette & Master Architectural Aesthetics
+- Jasmine Gunarto — High-Fashion Editorial Aesthetics & Color Tokens
+- Locomotive Agency — Montréal Monochromatic Editorial Aesthetics
+- Made In Evolve — Italian Boutique Editorial Aesthetics & Neon Lime Tokens
+- Merci Michel — French Gamified Surrealism & Neon Crimson Palette
+- Off Menu Design — Agentic AI Pure Dark Aesthetics & Electric Blue Tokens
+- Oryzo AI — Lusion 3D Gaussian Splatting & Satirical Orange Tokens
+- Outfit Hello Hello — Editorial Streetwear Aesthetics & Electric Red Tokens
+- Resn — Biological 3D Particle Aesthetics & Chlorophyll Green Palette
+- Sondaven — Ukrainian Luxury Resort Aesthetics & Gold Accent Palette
+- The Line Studio — London BAFTA Animation Aesthetics & Electric Red Tokens
+- The Shift Tokyo — Japanese Neo-Brutalist Aesthetics & Electric Coral Tokens
 - design_synthesis_engine.py
 - Agent Reach Skill (`/agent-reach`)
 - 8-Bit Orbit Preview Card
@@ -416,25 +516,67 @@
 - design.md — opt-in portable design system
 - Export formats
 - Scrape Component Skill
-- Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)
+- Master Awwwards Motion & WebGL Protocols
 - Jordan Watkins Brand Reference & Playwright Tools: Brainstorm / Discovery Notes
 - Branding Fonts: Brainstorm / Discovery Notes
 - UI Component Libraries & Raw Components Strategy: Brainstorm / Discovery Notes
+- Tresmares Capital — High-Trust Financial Aesthetics & Terracotta Peak Red
 - 23-Sites Master Design System & Blueprint Matrix
 - Upstash Context7 API Guide
 - Prisma Schema And Data Layer
 - 10-liveblocks-setup.md
+- TRIONN Agency — AI-Powered Studio Aesthetics & Indigo Glow Tokens
+- Truck 'n Roll — Heavy Industrial Tour Aesthetics & High-Visibility Red
+- Unleashing Best — Victor Work Executive Aesthetics & 6 Theme Runtimes
+- Obys Agency — Georgia Serif, Nobel Sans & Courier Mono Type Stack
+- Jasmine Gunarto — Classical Editorial Serif & Manrope Typography Math
+- Locomotive Agency — Neue Haas Grotesk & Fluid Clamp Typography Math
+- Made In Evolve — Typekit Neue Haas Grotesk & 48-Column Grid Math
+- Merci Michel — Extended Geometric Sans & Centered HUD Grid
+- Off Menu Design — Inter Sans & CSS Container Query Math
+- Oryzo AI — Three.js 3D Space Mono & 60k Scroll Height Geometry
+- Outfit Hello Hello — Neue Haas Grotesk 45vw Headline & Tailwind Grid
+- Resn — JetBrains Mono HUD & Floating World Coordinates Math
+- Sondaven — KTF Metro Roman Serif & Scrollbar-Lock Math
+- The Line Studio — DenimVF Variable Font & Per-Letter Kerning Math
+- The Shift Tokyo — Everett, Lausanne & YakuHanJP Font Hierarchy
+- Tresmares Capital — PP Fragment Serif 8rem & PP Neue Montreal
+- TRIONN Agency — Fluid Clamp Typography & SplitText Staggering Math
+- Truck 'n Roll — Druk Condensed Heavy 8rem, GT America & Space Mono
 - design_asset_engine.py
 - Design Direction Generator
 - Animation Patterns Reference
 - Colour
+- Unleashing Best — GrifinitoLMedium Display Serif & 0.52083vw Math
 - using-superpowers/SKILL.md
 - Server-Side Request Forgery (SSRF)
 - temp_carousel/copy.md
 - EXPANSIONS — what to add as you grow
+- Ashley Brooke — Serif Display Typography & 24-Column Grid Math
 - Google Workspace CLI (GWS) Integration Guide
 - Architecture Context
 - Architecture Context
+- Detroit Paris — Barlow Typography Scaling & Masonry Grid Math
+- Good Fella — Vercel Geist Mono Variable Typography & 12-Column Grid
+- Follow Art — HeadingNow & Hardbop Font Pairing & Scale Rem Tokens
+- Gehry Getty — Playfair Display Serif & Space Mono Metadata Hierarchy
+- Ashley Brooke — Lenis Smooth Scroll, Barba.js SPA & GSAP SVG Animations
+- Champions 4 Good — Draggable Cards Engine & Lenis Smooth Scroll
+- Good Fella — Page Transition Rectangles & Power3 Ease Motion
+- Jasmine Gunarto — Taxi.js SPA Transitions & Magnetic Button Physics
+- Locomotive Agency — Locomotive Scroll v5 & Parallax Speed Math
+- Made In Evolve — Barba SPA Transitions & CircleType Motion
+- Outfit Hello Hello — Lenis Scroll Inertia & Lookbook Image Transforms
+- The Line Studio — Rotated Card Page Transitions & Lenis Scroll
+- Tresmares Capital — Taxi.js SPA Router & Button Underline Offset
+- Truck 'n Roll — Swup.js SPA Router & Lenis Parallax Engine
+- Detroit Paris — HLS.js 4K Video Streaming & Card Hover Parallax
+- Gehry Getty — Timecoded Audio Synchronization & Camera Spring Orbit Motion
+- Oryzo AI — 60k-Height Camera Scrollytelling & Rive WASM Runtime
+- Resn — Velocity-Modulated Audio & 3D Camera Chapter Scrubbing
+- TRIONN Agency — Bento Cards Architecture & Web Audio Feedback
+- Unleashing Best — GSAP 400% Pin Scrollytelling & Clip-Path Wipe
+- Sondaven — Barba.js 20x12 Grid Dither & SVG Path Slider
 - compile_carousel.py
 - component_registry_cli.py
 - extract_components_batch.py
@@ -454,9 +596,56 @@
 - Ingestion Capture: `os-audit` Skill
 - 📅 Master Sprint Plan — Thursday, 30 July 2026
 - ZORIXEL AIOS Persistent Memory
+- Follow Art — Sticky Layer Scrollytelling & Button Hover Accent Animations
 - 08-editor-workspace-shell.md
 - 26-ai-chat-functional.md
 - 29-spec-ui-integration.md
+- Obys Agency — Power Line Kinetic Typography & ScrollTrigger Scrollytelling
+- Obys Agency — Grid Scroll Physics & Difference Blend Circle Cursor
+- Merci Michel — Howler.js Spatial Soundscape & 3D Camera Scrubbing
+- Off Menu Design — Orbital 3D Sphere Rotational Math & Difference Cursor
+- The Shift Tokyo — Real-Time Tokyo Clock & GSAP Kinetic Scroll
+- Obys Agency — Van De Graaff Diagonal Power Line Math & Noise Shaders
+- Obys Agency — Grid Distortion GLSL Fragment Shader & Proximity Physics
+- Locomotive Agency — 20 GLSL Shaders & Image Wave Distortion Pipeline
+- The Shift Tokyo — Liquid Wave GLSL Shader & Electric Coral Cursor
+- Merci Michel — Particle Bloom Fragment Shader & Vector Displacement Math
+- Resn — 6 GLSL Fragment Shaders & Particle Repulsion Vector Math
+- Unleashing Best — WebGL Grain Particles & Circular Progress Ring Cursor
+- Ashley Brooke — CSS Lab Color-Mix, Swiper 12 & Dynamic Card Scale Shaders
+- Champions 4 Good — Card Swipe Rotational Torque & Font Hydration Gates
+- Detroit Paris — HLS Stream Buffer Hydration & Cubic-Bezier Transition Math
+- Good Fella — LazyCustomCursor Physics & PreloaderScrollLock Math
+- Jasmine Gunarto — Clip-Path Inset Transitions & Numeric Preloader Math
+- Made In Evolve — Unicorn Studio WebGL Shaders & Cellular Grid Math
+- Off Menu Design — Remi AI Video Preloader & High-Priority AVIF Pipeline
+- Outfit Hello Hello — Turbopack SSR & Lookbook Image Preloader Pipeline
+- The Line Studio — Electric Red FPS Preloader & Multiply Acetate Effect
+- TRIONN Agency — 16 GLSL Shaders & Dual-Ring Magnetic Cursor
+- Truck 'n Roll — Hover Caption Metadata Layer & GPU Layer Compositing
+- Follow Art — WebGL Intro Canvas & Rotational 3D Physics Math
+- Gehry Getty — 3D Hotspot Vector Projection & Basis WASM Texture Transcoding
+- Oryzo AI — Gaussian Splatting WASM Sorter & 3D Buffer Inventory
+- Sondaven — Terrain Cloud GLSL Shader & 180° Y-Axis Form Card Flip
+- Tresmares Capital — Atmospheric Mountain WebGL Shader & WP Rocket
+- Obys Agency — Grids Educational Flagship Case Study & Component Blueprints
+- Obys Agency — Granularity Master Code Extracts & React Blueprints
+- Locomotive Agency — Agency of the Year Case Study & 109 Component Blueprints
+- Resn — 14-Time Agency of the Year Case Study & Blueprints
+- Ashley Brooke — Creative Consultancy Case Study & Component Architecture
+- Champions 4 Good — Double Play Studio Case Study & Component Blueprints
+- Detroit Paris — Luxury AI Production Case Study & Component Architecture
+- Follow Art — Vide Infra Studio Case Study & Component Blueprints
+- Gehry Getty — Resn Archival Exhibition Case Study & Component Blueprints
+- Good Fella — Annnimate Library & Sanity CMS Case Study & Components
+- Jasmine Gunarto — Editorial Portfolio Case Study & Component Blueprints
+- Made In Evolve — Italian Boutique Agency Case Study & Blueprints
+- Merci Michel — Hall of Fame Gamified Studio Case Study & Blueprints
+- Off Menu Design — Agentic Product Studio Case Study & Blueprints
+- Oryzo AI — Lusion 3D Gaussian Splatting Case Study & Blueprints
+- Outfit Hello Hello — Streetwear Fashion Case Study & Blueprints
+- Sondaven — Ukrainian Luxury Resort Case Study & Blueprints
+- The Line Studio — London Animation Studio Case Study & Blueprints
 - generate-brand-candidates.js
 - manage_autoresearch.py
 - serve.js
@@ -479,8 +668,10 @@
 - OWASP Top 10 for LLM & AI Applications
 - Access Control Issues
 - Insecure File Upload
+- The Shift Tokyo — Japanese Creative Collective Case Study & Blueprints
 - Unified AI OS Design System Engine: Brainstorm & Planning
 - ZORIXEL Brand Strategy & High-Ticket Service Offer: Discovery & Brainstorm Notes
+- Tresmares Capital — Private Equity Financial Platform Case Study
 - 🚀 Next Chat Kickoff Brief: Component Extractor Refinement & Phase 2 Sweep
 - 02-editor-chrome.md
 - 03-auth.md
@@ -490,6 +681,19 @@
 - 23-design-agent-logic.md
 - 27-spec-generation-flow.md
 - 28-spec-persistence-download.md
+- TRIONN Agency — AI Digital Studio Case Study & Blueprints
+- Truck 'n Roll — Industrial Logistics Carrier Platform Case Study
+- Unleashing Best — Victor Work Executive Masterclass Case Study
+- Ashley Brooke — Editorial Usability & Technical Evaluation Rubric
+- Detroit Paris — Awwwards Site of the Day (SOTD) Scoring Rubric
+- Follow Art — Triple Award Scoring Rubric (Awwwards SOTD, FWA, CSSDA)
+- Gehry Getty — Webby, FWA & Awwwards SOTD Evaluation Rubric
+- Good Fella — Awwwards SOTD & Developer Award Scoring Rubric
+- Made In Evolve — Digital Boutique Agency Evaluation Rubric
+- Off Menu Design — Framer Showcase & Awwwards Nominee Rubric
+- Outfit Hello Hello — Awwwards SOTD Fashion Showcase Evaluation Rubric
+- Sondaven — Awwwards Luxury Hospitality Web Evaluation Rubric
+- The Line Studio — BAFTA Animation Studio Evaluation Rubric
 - security_check.py
 - Template: Autoresearch Configuration
 - Installation
@@ -501,6 +705,7 @@
 - Phase 0 Reference: Sitemap & Shared Architecture Scaffolding (v4.0)
 - Discovery Capture: Ingestion of `jsmastery-pro/skills` & `mattpocock/skills`
 - ZORIXEL Brand: Personal Brand Positioning Session
+- The Shift Tokyo — Awwwards Japanese Experimental Agency Rubric
 - Codegraph API Reference
 - Figma MCP API Reference
 - GitHub MCP API Reference
@@ -521,6 +726,76 @@
 - 24-ai-presence-state.md
 - 25-sidebar-chat-feed.md
 - Voice
+- Tresmares Capital — Awwwards SOTD Institutional Financial Rubric
+- Truck 'n Roll — Awwwards SOTD Industrial Logistics Rubric
+- Active Theory — Awwwards Judging Standards & Performance Criteria
+- Obys Agency — Awwwards SOTY & SOTM Master Rubric Benchmark
+- Locomotive Agency — Awwwards Agency & Site of the Year Rubric
+- Merci Michel — Awwwards SOTY Hall of Fame Evaluation Rubric
+- Oryzo AI — Awwwards WebGL Masterclass & Developer Rubric
+- Resn — Awwwards Agency of the Year & SOTY Rubric
+- Unleashing Best — Orpetron Site of the Month Evaluation Rubric
+- Champions 4 Good — Awwwards Developer Award Scoring Rubric
+- Obys Agency — SOTM Technical Execution & Performance Evaluation Rubric
+- Jasmine Gunarto — Awwwards SOTD & Developer Award Scoring Rubric
+- TRIONN Agency — Awwwards AI Digital Studio Rubric
+- Active Theory — Digital Hospitality, UX Psychology & Spatial Choreography
+- Ashley Brooke — Tactile Drafting Psychology & High-Trust Conversion Choreography
+- Detroit Paris — Haute Couture Exclusivity Psychology & Video Choreography
+- Follow Art — Contemporary Curator Psychology & Digital Card Identity
+- Gehry Getty — Archival Authority & Guided Audio Exhibition Psychology
+- Made In Evolve — Developer-Born Craft & Frictionless Conversion UX
+- Outfit Hello Hello — Editorial Streetwear Authority & Micro-Pill Button UX
+- Sondaven — Investment Resort Hospitality & Seasonal SVG Path UX
+- Tresmares Capital — Pico Tres Mountain Metaphor & Investor Portal UX
+- Unleashing Best — Victor Work Executive Authority & Sound UX
+- Good Fella — Content Architecture Psychology & Tab Focus UX
+- Obys Agency — Educational Authority Psychology & Grid Freedom UX
+- Obys Agency — Interactive Grid Slider & Chapter Counter UX Psychology
+- Jasmine Gunarto — Live Location Header & High-Fashion Exclusivity UX
+- Locomotive Agency — Open-Source Tool Authority & HUD Language UX
+- Champions 4 Good — Membership Tier Psychology & Gamified Network UX
+- Merci Michel — Creativity Drives Technology & Gamified Audio UX
+- Off Menu Design — Remi AI Video Avatar & Orbital Carousel UX Psychology
+- Oryzo AI — Satirical Product Storytelling & Warning Modal UX
+- Resn — Interactive Biological Storytelling & Velocity Audio UX
+- The Line Studio — Animation Craft Authority & FPS Preloader UX
+- The Shift Tokyo — Tokyo Time Clock Anchor & Electric Coral UX
+- TRIONN Agency — AI Studio Authority & Web Audio UX
+- Awwwards Research Vault Precision Sub-Category Skill Routing Map
+- Awwwards Raw Research Ingestion Status Tracker (Wave 1 Complete)
+- Truck 'n Roll — Concert Tour Logistics Authority & Modal Video UX
+- 07 Ux Psychology And Brand Choreography Index
+- Wave 2 Granularity Masters Line-by-Line Ingestion Status Tracker
+- aios_awwwards_vault_health_check.py
+- test_awwwards_ingestion_health.py
+- domain-skills/SKILL.md
+- 01 Color Math And Palettes
+- 02 Surface Physics And Textures
+- 23-Site Awwwards Master Design Matrix & Local Component Mapping
+- 03 Brand Identity And Experience Anchors
+- 04 Art Direction And Soty Checklists
+- 01 Obys Padding And Spatial Rules
+- 02 Bento And Multicolumn Grids
+- 03 Fluid Type Math And Clamp
+- 04 Font Stacks And Pairings
+- 01 Smooth Scroll And Momentum Engines
+- 02 Scrollytelling And Pinning
+- 03 Page Transitions And Morphing
+- 04 Hover Physics And Kinetic Text
+- 01 Wave And Distortion Shaders
+- 02 Particles And Gpgpu
+- 03 Crt And Screen Effects
+- 04 3D Mesh And Volumetrics
+- 01 Agency Flagships
+- 02 Product Saas And Boutique
+- 03 Executive Masterclasses And Guides
+- 01 Awwwards 4 Category Rubrics
+- 02 Soty And Aoy Rubrics
+- 03 Developer Award Rubrics
+- 01 Digital Hospitality And Trust
+- 02 Anticipatory Navigation And Loaders
+- 03 Gamified Ux And Brand Storytelling
 - hallmark_runner.py
 - standardize_tri_mode_skills.py
 - Autoresearch: Vision-in-the-Loop Design Optimization
@@ -556,13 +831,13 @@
 1. `Bold Template Gallery` - 35 edges
 2. `DeckStage` - 29 edges
 3. `Workspace Rules` - 28 edges
-4. `🛠️ Part 1: Custom Workspace Skills` - 25 edges
-5. `Antigravity Skills & Plugins Guide` - 21 edges
-6. `Major (looks AI-generated)` - 20 edges
-7. `Code Review and Quality` - 19 edges
-8. `Slop test — 58 gates + pre-emit self-critique` - 19 edges
-9. `Full Video Transcript: How Senior Engineers Actually Build With AI in 2026` - 19 edges
-10. `Theme — Hum` - 18 edges
+4. `Q&A Log` - 27 edges
+5. `🛠️ Part 1: Custom Workspace Skills` - 25 edges
+6. `Antigravity Skills & Plugins Guide` - 21 edges
+7. `Major (looks AI-generated)` - 20 edges
+8. `Code Review and Quality` - 19 edges
+9. `Slop test — 58 gates + pre-emit self-critique` - 19 edges
+10. `Full Video Transcript: How Senior Engineers Actually Build With AI in 2026` - 19 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `mirror_site()` --calls--> `html_to_jsx()`  [INFERRED]
@@ -571,7 +846,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (619 total, 40 thin omitted)
+## Communities (928 total, 77 thin omitted)
 
 ### Community 0 - "hallmark/SKILL.md"
 Cohesion: 0.19
@@ -637,9 +912,9 @@ Nodes (5): Comprehensive Research Prompt & Deep Teardown Matrix, Executive Summa
 Cohesion: 0.11
 Nodes (18): 🚀 100% CLIENT-OWNED GOOGLE WORKSPACE & NOTION NATIVE ARCHITECTURE (NO N8N / NO SERVERS), 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4. The Researcher (Evidence & Market Data), 👥 5-PERSONA ADVERSARIAL ROAST AUDIT (`/roast`), 5. The Buyer (Dr. Prashant Singh & Dr. Pooja Singh), Domain Vocabulary & Glossary (CONTEXT.md) (+10 more)
 
-### Community 16 - "Decisions Log"
-Cohesion: 0.15
-Nodes (12): 2026-08-08 — Rich YAML Frontmatter Workspace Standardization & Agent Routing Directive, 2026-08-09 — Awwwards Master Creation Guide & 10-Site Pattern Extraction Suite, 2026-08-09 — Dedicated Awwwards Research Vault (`references/awwwards-research-vault/`), 2026-08-09 — Dynamic Loop Engine (`--dynamic`) & Autoresearch Synergy Integration, 2026-08-09 — Native Loop Engineering Engine & Workspace `LOOPS.md` Registry, 2026-08-09 — Playwright Engine Enhancement & Domain Skill Resolution (`aios_browser_engine.py`), 2026-08-09 — Session Post-Mortem Audit & Pre-Flight Script Automation, 2026-08-09 — Website Design Engine v5.0 (Awwwards 1-to-5 Pass Loop Edition) (+4 more)
+### Community 16 - "log.md"
+Cohesion: 0.12
+Nodes (16): 2026-08-08 — Rich YAML Frontmatter Workspace Standardization & Agent Routing Directive, 2026-08-09 — Awwwards Master Creation Guide & 10-Site Pattern Extraction Suite, 2026-08-09 — Dedicated Awwwards Research Vault (`references/awwwards-research-vault/`), 2026-08-09 — Dynamic Loop Engine (`--dynamic`) & Autoresearch Synergy Integration, 2026-08-09 — Native Loop Engineering Engine & Workspace `LOOPS.md` Registry, 2026-08-09 — Playwright Engine Enhancement & Domain Skill Resolution (`aios_browser_engine.py`), 2026-08-09 — Session Post-Mortem Audit & Pre-Flight Script Automation, 2026-08-09 — Website Design Engine v5.0 (Awwwards 1-to-5 Pass Loop Edition) (+8 more)
 
 ### Community 17 - "new_client_runner.py"
 Cohesion: 0.60
@@ -653,9 +928,9 @@ Nodes (13): Generic 1-Line Execution Pipeline, Inter-Skill Connections, Overview
 Cohesion: 0.11
 Nodes (17): 5-Persona Roast Council Verdict, Deployed Production Pre-Flight Scripts, Error 1: System Prompt Truncation via `GEMINI.md` Bloat, Error 2: Windows Console Standard Output UTF-8 Encoding (`UnicodeEncodeError`), Error 3: Node Module Dependency Resolution Failure (`MODULE_NOT_FOUND`), Error 4: Circular Directory Junction Path Recursion, Executive Summary, Reusable Skill Pattern: Universal Multi-Viewport Visual QA Engine (+9 more)
 
-### Community 21 - "SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT"
-Cohesion: 0.08
-Nodes (25): Automated Health Verification Script (`scripts/test_script_health.py`), Error 1.1 — Windows Console Codepage UnicodeEncodeError in CLI Scripts, Error 1.2 — Graphify Runner Invalid Command Argument (`update`), Error 1.3 — Graphify Runner Hub Path Argument Mismatch (`.`), Pattern 3.1 — Universal Stdio Reconfiguration in Python Utility Scripts, Pattern 3.2 — Batch Emoji Purging and Skill Standardization Engine, Pattern 3.3 — Universal 4-Axis Risk Matrix Verdict Engine (`/roast`), Prompt 10 — Upgrade Website Design Engine References Folder (+17 more)
+### Community 21 - "ZORIXEL AIOS Post-Mortem Audit & Wave 2 Ingestion System Evolution Report"
+Cohesion: 0.10
+Nodes (19): 1.1 Encoding & Windows Console Codepage Isolation, 1.2 Path Resolution & Junction Handling, 1.3 Sub-Vault Index Omission Risk, 1.4 Unsummarized Code Block Preservation, 2.1 User Instruction Trace & First-Try Success Audit, 2.2 Key Execution Factors Enabling First-Try Success, 4.1 Council Scorecard & Final Verdict, 4.2 System Prompt Rules to Append to `references/GLOBAL_ERROR_PREVENTION_RULES.md` (+11 more)
 
 ### Community 22 - "👥 5-PERSONA ADVERSARIAL ROAST AUDIT (`/roast`)"
 Cohesion: 0.12
@@ -678,8 +953,8 @@ Cohesion: 0.25
 Nodes (7): 🕒 0:00 - 0:45 | STAGE 1: THE RESPECTFUL HOOK, 🕒 0:45 - 2:00 | STAGE 2: THE REAL PAIN POINT (MENTAL PEACE & TIME), 🕒 2:00 - 3:30 | STAGE 3: LIVE NOTION CALL INTAKE TOOL DEMO, 🕒 3:30 - 4:15 | STAGE 4: WEBSITE & GOOGLE SCHOLAR INDEXING GAPS, 🕒 4:15 - 5:00 | STAGE 5: CURIOSITY HOOK & 30-MIN ZOOM CTA, 📱 LOOM VIDEO CHEAT SHEET (MOBILE VIEW), 💡 PRO-TIPS FOR LOOM RECORDING:
 
 ### Community 27 - "ZORIXEL AIOS Session Post-Mortem & System Evolution Engine (`/session-postmortem-audit`)"
-Cohesion: 0.14
-Nodes (13): 3-Phase Execution Architecture, 📏 MANDATORY DEPTH & LENGTH CONSTRAINT (400 TO 1000+ LINES), Overview & Tri-Mode Execution, 📑 PHASE 1: TRANSCRIPT ANALYSIS & REPORT GENERATION, PHASE 2: ADVERSARIAL `/roast` COUNCIL AUDIT & BLUEPRINT EXPANSION, PHASE 3: AUTONOMOUS SKILL & AIOS AUTO-UPGRADE LOOP, Post-Execution Auto-Evolution & Adversarial `/roast` Gate, Section 1: Comprehensive Terminal, Syntax, API & Environment Error Catalog (+5 more)
+Cohesion: 0.13
+Nodes (14): 3-Phase Execution Architecture, 📏 MANDATORY DEPTH & LENGTH CONSTRAINT (400 TO 1000+ LINES), Overview & Tri-Mode Execution, 📑 PHASE 1: TRANSCRIPT ANALYSIS & REPORT GENERATION, PHASE 2: ADVERSARIAL `/roast` COUNCIL AUDIT & BLUEPRINT EXPANSION, PHASE 3: AUTONOMOUS SKILL & AIOS AUTO-UPGRADE LOOP, Post-Execution Auto-Evolution & Adversarial `/roast` Gate, ⚡ Post-Mortem Auto-Evolution History (+6 more)
 
 ### Community 28 - "Phase 01: Pre-Outreach Vulnerability Audit & Deep Entity Teardown"
 Cohesion: 0.14
@@ -1426,8 +1701,8 @@ Cohesion: 0.11
 Nodes (19): Contrast & readability, Diversification gates, Hero enrichment gates, Honest copy · no fabricated content, Implementation gates, Input-state gate, Layout-safety gates, Microinteractions (+11 more)
 
 ### Community 262 - "Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)"
-Cohesion: 0.22
-Nodes (8): 10-Phase Execution Architecture (v5.1), 1-to-5 Pass Awwwards Loop Evaluation & Human-in-the-Loop Protocol, Local Awwwards Component Vault (`C:\Users\HP\Downloads\Components`), Multi-Skill Vault & Web Research Pipeline, Non-Negotiable Core Mandates, Overview & Tri-Mode Execution, Terminal Stopping Conditions, Website Design Engine (Master Web Creation Skill v5.1 - Awwwards Vault Edition)
+Cohesion: 0.20
+Nodes (9): 10-Phase Execution Architecture (v5.1), 1-to-5 Pass Awwwards Loop Evaluation & Human-in-the-Loop Protocol, Awwwards Research Vault Precision Sub-Category Phase Routing, Local Awwwards Component Vault (`C:\Users\HP\Downloads\Components`), Multi-Skill Vault & Web Research Pipeline, Non-Negotiable Core Mandates, Overview & Tri-Mode Execution, Terminal Stopping Conditions (+1 more)
 
 ### Community 263 - "validate_yaml_frontmatter.py"
 Cohesion: 0.83
@@ -1473,9 +1748,9 @@ Nodes (17): Aurora-blob background, Card-in-card, Critical (ships as slop), Defa
 Cohesion: 0.12
 Nodes (17): Banned defaults, Bans, Body text rules, Free body faces, Free display faces, Free mono / outlier faces, Headings rules, Hero headline sizing — match size to copy length (+9 more)
 
-### Community 279 - "Awwwards Research Vault 05 - Case Studies, Tutorials & Component Ingestion"
-Cohesion: 0.15
-Nodes (12): Awwwards Research Vault 05 - Case Studies, Tutorials & Component Ingestion, Case Studies of Site of the Day Winners, Case Study 1: Obys Agency (`Obys-clone`), Case Study 2: Spylt Awwwards Showcase (`Spylt-awward-clone`), Case Study 3: Mojito Agency (`mojito-awwwards-website`), Local Component Ingestion Registry (`C:\Users\HP\Downloads\Components`), Overview, Tutorial 1: Lenis & GSAP ScrollTrigger Sync (+4 more)
+### Community 279 - "Q&A Log"
+Cohesion: 0.06
+Nodes (31): Awwwards Research Vault Ingestion Wave 2: Discovery & Brainstorm Notes, Domain Vocabulary & Glossary, Executive Summary & Key Decisions, Open Flags & Deferred Decisions, Q10 — Site 8 Review: Grids by Obys Agency Deep Research, Q11 — Site 9 Review: Grids by Obys Agency Granularity Master, Q12 — Site 10 Review: Jasmine Gunarto Granularity Master, Q13 — Site 11 Review: Locomotive Agency Granularity Master (+23 more)
 
 ### Community 280 - "Q&A log"
 Cohesion: 0.12
@@ -1497,17 +1772,17 @@ Nodes (8): Executive Summary & Concept Overview, How Scenario 1 Works Under the 
 Cohesion: 0.18
 Nodes (10): Active Workspace Playbooks, Execution Receipts Log, Master Workflow 01: Zero-Subscription Client Operations & Automation OS (`MW01-zero-subscription-client-os`), Master Workflows Registry, Playbook 01: TDD Error Sweep (`tdd-sweep`), Playbook 02: Documentation & Master Index Sync (`doc-sync`), Playbook 03: Playwright Visual QA Sweep (`visual-qa`), Playbook 04: SecurityOS Anti-Vulnerability Sweep (`security-sweep`) (+2 more)
 
-### Community 285 - "Awwwards Research Vault 02 - Typography, Spacing & Grid Math"
-Cohesion: 0.22
-Nodes (8): Awwwards Research Vault 02 - Typography, Spacing & Grid Math, Line-Height & Margin Rules, Obys Spatial Padding & Vertical Rhythm Ratios, Overview, The 12-Column Asymmetric Bento Grid Math, The 8px Modular Spacing System, Typography Scale (Golden Ratio 1.618), Typography Scale & Line-Height Math Rules
+### Community 285 - "🎯 SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT"
+Cohesion: 0.11
+Nodes (18): Automated Pre-Flight Health Script (`scripts/test_awwwards_ingestion_health.py`), Error 1.1: `replace_file_content` Missing `TargetFile` Argument, Error 1.2: Research Vault Sub-Vault 07 Top-Level Index Discrepancy, Instruction 1: Socratic Grilling on Awwwards Ingestion, Instruction 2: Socratic Answers for Concepts 1 to 4, Instruction 3: Socratic Answers for Concepts 5 to 7 & `/roast` Request, Instruction 4: Wave 1 Scope Limitation, Instruction 5: Implementation Approval (+10 more)
 
 ### Community 286 - "Core Execution Guidelines"
 Cohesion: 0.25
 Nodes (7): 1. Framework-Aware Input Filling, 2. Domain Skill Resolution, 3. Visual Click Debug Overlays, 4. Non-Blocking Dialog Handling, 5. Automatic Site-Specific Domain Skill Integration, AI-OS Browser Automation & Testing Standard, Core Execution Guidelines
 
-### Community 287 - "Awwwards Research Vault 03 - GSAP & Lenis Motion Architecture"
-Cohesion: 0.25
-Nodes (7): 60fps GPU Performance Rules, Awwwards Research Vault 03 - GSAP & Lenis Motion Architecture, GSAP ScrollTrigger Pinned Scrollytelling, Lenis Smooth Momentum Scroll Initialization, Magnetic Cursor & Interactive Micro-Physics, Overview, Split-Text Character & Masked Line Reveals
+### Community 287 - "Awwwards Research Vault & Web Design Skill Organization Plan"
+Cohesion: 0.12
+Nodes (16): 4-Axis Risk Matrix, ASK (Operator Preference Inquiry), Awwwards Research Vault & Web Design Skill Organization Plan, Categorized Architectural Options (INFER / ASK / RECOMMEND), Concept Explanation (Pre-Question Discovery Baseline), Council Scores, Executive Summary & Strategic Intent, INFER (Derived from Codebase State) (+8 more)
 
 ### Community 288 - "audit/SKILL.md"
 Cohesion: 0.12
@@ -1517,9 +1792,9 @@ Nodes (16): Cadence (25 pts), Capabilities (25 pts), Connections (25 pts) — do
 Cohesion: 0.12
 Nodes (16): Check 1 — Routing integrity ("does everything it points to exist?"), Check 2 — Index truth ("do the indexes match the disk?"), Check 3 — Freshness ("are the data feeds current?"), Check 4 — Bloat, duplication, and organization ("does anything live twice, or in the wrong place, or for no reason?"), Check 5 — Hygiene and silent failures ("what's broken or exposed without anyone noticing?"), Check 6 — Context placement ("is everything on the right side of the expertise/situational line?"), Execution, Inter-Skill Connections & Handoff Pipeline (+8 more)
 
-### Community 290 - "Awwwards Research Vault 01 - Design Principles & Aesthetic Foundations"
-Cohesion: 0.29
-Nodes (6): Anti-Slop Safeguards & Quality Gates, Awwwards Research Vault 01 - Design Principles & Aesthetic Foundations, Executive Summary, OKLCH Dopamine-Monochromatic Color Math, Poster Typography & Editorial Visuals, The 4 Pillar Awwwards Aesthetic Principles
+### Community 290 - "🎯 SECTION 2: USER INSTRUCTION-TO-DELIVERY & TWEAK ITERATION AUDIT"
+Cohesion: 0.12
+Nodes (16): 1. ZORIXEL Adversarial `/roast` Council Review, 2. Automated Pre-Flight Health Script: `scripts/aios_awwwards_vault_health_check.py`, 3. System Prompt Rules to Append to `references/GLOBAL_ERROR_PREVENTION_RULES.md`, Executive Summary & System Evolution Overview, Key Metrics & Accomplishments, Prompt 1: Initial Research Vault Request & Socratic Grilling, Prompt 2: Strategy Option Selection, Prompt 3: Source Materials & Quality Pacing Rule (+8 more)
 
 ### Community 291 - "Figma Micrographics Assets: Brainstorm / Discovery Notes"
 Cohesion: 0.12
@@ -1529,13 +1804,13 @@ Nodes (15): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Log
 Cohesion: 0.12
 Nodes (15): 1. The Contrarian (Red Team), 23-Site Design Learning & Synthesis Engine: Discovery & Brainstorm Notes, 2. The Expansionist (Bull), 3. The Logician (First Principles), 4. The Researcher (Evidence), 5. The Buyer (Voice of Customer — Atinek Maurya), 🥊 ADVERSARIAL 5-PERSONA COUNCIL ROAST (`/roast`), Domain Vocabulary & Glossary (CONTEXT.md candidates) (+7 more)
 
-### Community 293 - "Awwwards Research Vault 04 - WebGL & Three.js Shader Protocol"
-Cohesion: 0.29
-Nodes (6): ASCII Hero & Video-to-ASCII Canvas Engine, Awwwards Research Vault 04 - WebGL & Three.js Shader Protocol, Custom WebGL Image Distortion Slider Protocol, Overview, Radiant WebGL Shaders Integration, Three.js ShaderMaterial Setup
+### Community 293 - "Q&A Log & Decision Progress"
+Cohesion: 0.17
+Nodes (11): Awwwards Research Vault & 23-Site Web Design Loop Integration: Discovery & Brainstorm Notes, Executive Summary & Key Decisions, Q&A Log & Decision Progress, Question 1: Master Indexing Architecture, Question 2: Archetype-Based 23-Site Selection, Question 3: Non-Lossy File Reading & Vault Enrichment, Question 4: Loop Engine Workflow Registration, Question 5: Sub-Vault File Layout (+3 more)
 
-### Community 294 - "Awwwards Research Vault 06 - Judging Criteria & Master Checklist"
-Cohesion: 0.29
-Nodes (6): Awwwards Research Vault 06 - Judging Criteria & Master Checklist, Human-in-the-Loop Visual Rating Gate Protocol, Master Pre-Flight Quality Checklist, Official Awwwards 4-Category Weighted Scoring System, Overview, The 5-Pass `prepare.py` Evaluator Rubric
+### Community 294 - "6-Phase Non-Lossy Ingestion Protocol"
+Cohesion: 0.18
+Nodes (10): 6-Phase Non-Lossy Ingestion Protocol, Overview & Invocation, Phase 1: Source Intake & Defuddle Parsing, Phase 2: Line-by-Line Reading (Zero-Loss Mandate), Phase 3: Domain Categorization & Sub-Vault Mapping, Phase 4: Atomic Sub-Vault File Creation, Phase 5: Dual Indexing & Tandem Skill Reference Upgrade, Phase 6: Status Tracking & Archiving (+2 more)
 
 ### Community 295 - "AI-OS Domain Skills Registry"
 Cohesion: 0.40
@@ -1547,7 +1822,7 @@ Nodes (13): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Log
 
 ### Community 297 - "Awwwards Research Vault Master Index"
 Cohesion: 0.50
-Nodes (3): Awwwards Research Vault Master Index, Core System Integrations, Vault Document Catalog
+Nodes (3): Awwwards Research Vault Master Index, Core System Integrations, Vault Sub-Directory Catalog
 
 ### Community 299 - "🏛️ Discovered 6 High-Moat Master Workflow Systems"
 Cohesion: 0.12
@@ -1617,9 +1892,9 @@ Nodes (10): 1. Manual Health Check, 2. Manual Auto-Evolution Test, 3. n8n Import
 Cohesion: 0.29
 Nodes (7): Diversification rule (mandatory), Hero polish patterns, How to pick, Macrostructures, Nav and footer voice, SaaS page sequence, The 21 macrostructures — index
 
-### Community 319 - "Cross-Site Request Forgery (CSRF)"
-Cohesion: 0.40
-Nodes (5): Cross-Site Request Forgery (CSRF), Edge Cases and Common Mistakes, Endpoints Requiring CSRF Protection, Protection Mechanisms, Verification Checklist
+### Community 319 - "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio"
+Cohesion: 0.04
+Nodes (47): A Shared Scroll Driver, Audio-Reactive Fog, Bending Cards onto the Helix, Building the Helix, Charge-Up and Blast, clickBurst Drives the Explosion, Client-side image mounting and color sampling, Closing Notes (+39 more)
 
 ### Community 320 - "Frontend Slides Generator"
 Cohesion: 0.13
@@ -1649,9 +1924,45 @@ Nodes (14): Critical implementation rules, Execution — three phases, Inputs th
 Cohesion: 0.12
 Nodes (15): 1. `/six-file-context-methodology init`, 2. `/six-file-context-methodology spec <feature-name>`, 3. `/six-file-context-methodology spec-all`, 4. `/six-file-context-methodology execute [ticket|wave|all]`, 5. `/six-file-context-methodology verify`, 6. `/six-file-context-methodology check`, 7. `/six-file-context-methodology resume`, Addressed Vulnerabilities & v3.2 System Upgrades (+7 more)
 
+### Community 328 - "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio"
+Cohesion: 0.04
+Nodes (47): A Shared Scroll Driver, Audio-Reactive Fog, Bending Cards onto the Helix, Building the Helix, Charge-Up and Blast, clickBurst Drives the Explosion, Client-side image mounting and color sampling, Closing Notes (+39 more)
+
 ### Community 329 - "UI Context"
 Cohesion: 0.14
 Nodes (13): Border Radius, Canvas, Canvas Background, Component Library, Connection Handles, Edge Style, Icons, Layout Patterns (+5 more)
+
+### Community 330 - "FAQ on Extended Fonts"
+Cohesion: 0.07
+Nodes (28): Artificially Stretched Text, Artificially Stretched vs. True Extended, Body Text and Long-Form Reading, Can I use an extended font for body text?, Conclusion, Do extended fonts affect page load performance?, Does CSS font-stretch actually stretch a font?, Extended Font Families Worth Knowing (+20 more)
+
+### Community 331 - "1. Sub-Domain Taxonomy Breakdown Across All 7 Sub-Vaults"
+Cohesion: 0.09
+Nodes (22): 1. Sub-Domain Taxonomy Breakdown Across All 7 Sub-Vaults, 2. Categorized Sub-Categorization Options (INFER / ASK / RECOMMEND), 3. UNIVERSAL ADVERSARIAL ROAST COUNCIL REPORT (`/roast`), 4-Axis Quantitative Risk Matrix, ASK (Alternative Sub-Categorization Options), Awwwards Research Vault Precision Sub-Categorization Architecture Plan, Council Scores, Executive Summary & Strategic Intent (+14 more)
+
+### Community 332 - "Between Print and Digital: The Making of MERSI’s Website"
+Cohesion: 0.09
+Nodes (22): A Signature Split-Screen Slider, Between Print and Digital, Between Print and Digital: The Making of MERSI’s Website, Between Print and Digital: The Making of MERSI’s Website, Building a Tailored Webflow Experience, Creating a Website the Client Could Finally Own, Credits, Designing to Sublimate the Projects (+14 more)
+
+### Community 333 - "Between Print and Digital: The Making of MERSI’s Website"
+Cohesion: 0.09
+Nodes (22): A Signature Split-Screen Slider, Between Print and Digital, Between Print and Digital: The Making of MERSI’s Website, Between Print and Digital: The Making of MERSI’s Website, Building a Tailored Webflow Experience, Creating a Website the Client Could Finally Own, Credits, Designing to Sublimate the Projects (+14 more)
+
+### Community 334 - "ZERO: The Engineering Behind a Defiant Interactive Narrative"
+Cohesion: 0.09
+Nodes (21): Burning money, Credits, Final thoughts, How the project started, Interaction design, Lighting the hands without lights, Preparing the 3D for the web, Shredding certificates (+13 more)
+
+### Community 335 - "ZERO: The Engineering Behind a Defiant Interactive Narrative"
+Cohesion: 0.09
+Nodes (21): Burning money, Credits, Final thoughts, How the project started, Interaction design, Lighting the hands without lights, Preparing the 3D for the web, Shredding certificates (+13 more)
+
+### Community 336 - "FLUID GLASS - CASE STUDY"
+Cohesion: 0.12
+Nodes (15): About Exo Ape, Credits, Digital Hospitality, Early motion studies, Fluid Glass - Case Study, FLUID GLASS - CASE STUDY, From digital to physical, Introduction (+7 more)
+
+### Community 337 - "GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB"
+Cohesion: 0.12
+Nodes (15): AI-Assisted Production Experiments, Building a Continuous Cinematic Timeline, Collaboration Between Creative and Technical Teams, Company Info, Creating a Real-Time Cinematic Experience Around Audemars Piguet’s RD#5, Creating an Audemars Piguet Universe, Designing Luxury Rendering in Real Time, GQ & Audemars Piguet: The Extraordinary Lab (+7 more)
 
 ### Community 338 - "graphify_runner.py"
 Cohesion: 0.24
@@ -1689,6 +2000,10 @@ Nodes (13): 🎭 Domain Persona Presets, Execution Pipeline, Inter-Skill Connect
 Cohesion: 0.15
 Nodes (13): Additional Defenses, Injection Points to Watch, Path Traversal, Path Traversal Checklist, Prevention by Language/Parser, Prevention Methods, Prevention Strategies, Server-Side Bugs (+5 more)
 
+### Community 347 - "FLUID GLASS - CASE STUDY"
+Cohesion: 0.12
+Nodes (15): About Exo Ape, Credits, Digital Hospitality, Early motion studies, Fluid Glass - Case Study, FLUID GLASS - CASE STUDY, From digital to physical, Introduction (+7 more)
+
 ### Community 348 - "Initial Analysis Details"
 Cohesion: 0.15
 Nodes (12): 1. How It Benefits Us, 2. Can It Be Improved?, 3. Can It Improve Our AIOS?, 4. Does It Reduce Quality?, 5. Deleted Skills Check, 6. Vulnerabilities & Risks, Initial Analysis Details, Open flags (pending input) (+4 more)
@@ -1696,6 +2011,50 @@ Nodes (12): 1. How It Benefits Us, 2. Can It Be Improved?, 3. Can It Improve Our
 ### Community 349 - "Q&A log"
 Cohesion: 0.15
 Nodes (12): Open flags (pending input), Q1 — Primary Upgrade Roadmap Focus, Q2 — Component Registry & Taxonomy Architecture, Q3 — Candidate Source Selection (Phase 1), Q4 — Phase 2 Granularity Targets & Deconstruct Upgrade Sequence, Q5 — Deconstruction Engine Upgrade & Unbounded Component Extraction Rule, Q6 — Dedicated Shader & Canvas Physics Vault Architecture (Phase 3), Q7 — Structured Component Vault Creation (+4 more)
+
+### Community 350 - "GQ & AUDEMARS PIGUET: THE EXTRAORDINARY LAB"
+Cohesion: 0.12
+Nodes (15): AI-Assisted Production Experiments, Building a Continuous Cinematic Timeline, Collaboration Between Creative and Technical Teams, Company Info, Creating a Real-Time Cinematic Experience Around Audemars Piguet’s RD#5, Creating an Audemars Piguet Universe, Designing Luxury Rendering in Real Time, GQ & Audemars Piguet: The Extraordinary Lab (+7 more)
+
+### Community 351 - "IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER"
+Cohesion: 0.12
+Nodes (15): A digital showroom, A journey in three acts, Awards, Credits, From engineering to e-commerce ready, Futuristic, but familiar, Inside the device, iyO - Case Study: selling the world's first audio... (+7 more)
+
+### Community 352 - "IYO - CASE STUDY: SELLING THE WORLD'S FIRST AUDIO COMPUTER"
+Cohesion: 0.12
+Nodes (15): A digital showroom, A journey in three acts, Awards, Credits, From engineering to e-commerce ready, Futuristic, but familiar, Inside the device, iyO - Case Study: selling the world's first audio... (+7 more)
+
+### Community 353 - "3D and WebGL Pipeline"
+Cohesion: 0.13
+Nodes (14): 3D and WebGL Pipeline, A Shared Environment, Animating the Network, Bad topology, Baking the Camera Animation, Building Cerebrium: Making Serverless Infrastructure Tangible, Building Cerebrium: Making Serverless Infrastructure Tangible, Could We Build It with WebGPU? (+6 more)
+
+### Community 354 - "NOT A PORTFOLIO. A PRESENCE."
+Cohesion: 0.13
+Nodes (14): A Director, Not a Website Owner, Apr 22, 2026, Building the Experience, Company Info, Killing the Interface, Less Control, More Trust, Motion as Narrative, Not a Portfolio. A Presence. (+6 more)
+
+### Community 355 - "3D and WebGL Pipeline"
+Cohesion: 0.13
+Nodes (14): 3D and WebGL Pipeline, A Shared Environment, Animating the Network, Bad topology, Baking the Camera Animation, Building Cerebrium: Making Serverless Infrastructure Tangible, Building Cerebrium: Making Serverless Infrastructure Tangible, Could We Build It with WebGPU? (+6 more)
+
+### Community 356 - "NOT A PORTFOLIO. A PRESENCE."
+Cohesion: 0.13
+Nodes (14): A Director, Not a Website Owner, Apr 22, 2026, Building the Experience, Company Info, Killing the Interface, Less Control, More Trust, Motion as Narrative, Not a Portfolio. A Presence. (+6 more)
+
+### Community 357 - "LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION"
+Cohesion: 0.14
+Nodes (13): Behind the curtain: the stack, Company Info, Credits, Introduction, Jul 15, 2026, La Revoltosa: Rebooting a 70-Year-Old Spanish Soda..., LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION, Technologies used (+5 more)
+
+### Community 358 - "LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION"
+Cohesion: 0.14
+Nodes (13): Behind the curtain: the stack, Company Info, Credits, Introduction, Jul 15, 2026, La Revoltosa: Rebooting a 70-Year-Old Spanish Soda..., LA REVOLTOSA: REBOOTING A 70-YEAR-OLD SPANISH SODA BRAND FOR THE SCROLL GENERATION, Technologies used (+5 more)
+
+### Community 359 - "Production Pipeline"
+Cohesion: 0.14
+Nodes (13): Character Animation, Character Posing, Clothing Simulation, Hair Sculpting, Photogrammetry, Production Pipeline, Project Backstory, Prop Optimization (+5 more)
+
+### Community 360 - "Production Pipeline"
+Cohesion: 0.14
+Nodes (13): Character Animation, Character Posing, Clothing Simulation, Hair Sculpting, Photogrammetry, Production Pipeline, Project Backstory, Prop Optimization (+5 more)
 
 ### Community 361 - "ZORIXEL Viral Carousel Copywriter (`/carousel-copy`)"
 Cohesion: 0.15
@@ -1729,9 +2088,57 @@ Nodes (11): Open flags (pending input), Q1 — Scaffolding / Initialization Mode
 Cohesion: 0.17
 Nodes (11): Open Flags (Pending Input), Q1 — Scope & Upgrade Vision, Q2 — Area A: Multi-Page & Token System Integration, Q3 — Area B: Motion Dialing, WebGL & Skills-Library Integration, Q4 — Area C: Technical QA, Multi-Viewport Verification & SEO/GEO Suite, Q5 — Ecosystem Integrations & Asset Generation, Q6 — Structural Fixes for User Pain Points (Context Bloat, Rushing, AI Slop), Q7 — Automatic Vault Reading & Zero-Cost Media Guard (+3 more)
 
+### Community 369 - "The Department Is Open: Building the PX PUSH Website"
+Cohesion: 0.15
+Nodes (12): A Drawer Made of Paper, Bringing the ’80s Office into the Browser, Credits, Stack, The Department Is Open: Building the PX PUSH Website, The Department Is Open: Building the PX PUSH Website, The Error Page, The Founders Rotate Like a Character-Select Screen (+4 more)
+
 ### Community 370 - "[Project Name]"
 Cohesion: 0.17
 Nodes (11): Core User Flow, [Feature Category One], [Feature Category Two], Features, Goals, In Scope, Out of Scope, Overview (+3 more)
+
+### Community 371 - "The Department Is Open: Building the PX PUSH Website"
+Cohesion: 0.15
+Nodes (12): A Drawer Made of Paper, Bringing the ’80s Office into the Browser, Credits, Stack, The Department Is Open: Building the PX PUSH Website, The Department Is Open: Building the PX PUSH Website, The Error Page, The Founders Rotate Like a Character-Select Screen (+4 more)
+
+### Community 372 - "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques"
+Cohesion: 0.15
+Nodes (12): 2. Solidify modifier, Fog, Infinite Scrolling City, Lighting, Mesh Outlines, Step 1: Create a material dedicated to the outline., Step 1: Linear Vertical Fog, Step 2: Noise-Driven Fog Animation (+4 more)
+
+### Community 373 - "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques"
+Cohesion: 0.15
+Nodes (12): 2. Solidify modifier, Fog, Infinite Scrolling City, Lighting, Mesh Outlines, Step 1: Create a material dedicated to the outline., Step 1: Linear Vertical Fog, Step 2: Noise-Driven Fog Animation (+4 more)
+
+### Community 374 - "MAPPING THE UNCHARTED: THE SAN RITA PROJECT"
+Cohesion: 0.17
+Nodes (11): A Living Portfolio, A Place to Call Home, About the Studio, Apr 29, 2026, Building the Territory: From GPS to Shaders, Lessons from the Trail, Mapping the Uncharted: The San Rita Project, MAPPING THE UNCHARTED: THE SAN RITA PROJECT (+3 more)
+
+### Community 375 - "7 Signature Site Case Studies Analyzed"
+Cohesion: 0.17
+Nodes (11): 1. Pioneer: Corn Revolutionized (Resn — SOTY 2020 Winner), 2. Das Falter Inferno (Wild.as — SOTD Winner), 3. ChungiYoo Portfolio (Art Direction by Zhenya Rynzhuk), 4. Carine Roitfeld (Numbered Studio & AskPhill), 5. WelcomeToSeason16 (LeBron James Lakers Campaign), 6. PulpFingers (Classic SOTD Winner), 7. B-Boy Lilou (90s Street Culture Showcase), 7 Signature Site Case Studies Analyzed (+3 more)
+
+### Community 376 - "MAPPING THE UNCHARTED: THE SAN RITA PROJECT"
+Cohesion: 0.17
+Nodes (11): A Living Portfolio, A Place to Call Home, About the Studio, Apr 29, 2026, Building the Territory: From GPS to Shaders, Lessons from the Trail, Mapping the Uncharted: The San Rita Project, MAPPING THE UNCHARTED: THE SAN RITA PROJECT (+3 more)
+
+### Community 377 - "5-Persona Adversarial Roast Council Evaluation"
+Cohesion: 0.18
+Nodes (10): 1. The Contrarian (Red Team), 2. The Expansionist (Bull), 3. The Logician (First Principles), 4-Axis Quantitative Risk Matrix, 4. The Researcher (Evidence), 5-Persona Adversarial Roast Council Evaluation, 5. The Buyer (Atinek Maurya / Developer Ergonomics), Action Plan: What We Will Do After Creating 6 Folders (+2 more)
+
+### Community 378 - "7 Signature Site Case Studies Analyzed"
+Cohesion: 0.17
+Nodes (11): 1. Pioneer: Corn Revolutionized (Resn — SOTY 2020 Winner), 2. Das Falter Inferno (Wild.as — SOTD Winner), 3. ChungiYoo Portfolio (Art Direction by Zhenya Rynzhuk), 4. Carine Roitfeld (Numbered Studio & AskPhill), 5. WelcomeToSeason16 (LeBron James Lakers Campaign), 6. PulpFingers (Classic SOTD Winner), 7. B-Boy Lilou (90s Street Culture Showcase), 7 Signature Site Case Studies Analyzed (+3 more)
+
+### Community 379 - "7 Signature Site Case Studies & Art Direction Insights"
+Cohesion: 0.18
+Nodes (10): 1. Pioneer: Corn Revolutionized (Resn — SOTY 2020 Winner), 2. Das Falter Inferno (Wild.as — SOTD Winner), 3. ChungiYoo Portfolio (Art Direction by Zhenya Rynzhuk), 4. Carine Roitfeld (Numbered Studio & AskPhill), 5. WelcomeToSeason16 (LeBron James Lakers Campaign), 6. PulpFingers (Classic SOTD Winner), 7. B-Boy Lilou (90s Street Culture Showcase), 7 Signature Site Case Studies & Art Direction Insights (+2 more)
+
+### Community 380 - "THE NEW OBYS"
+Cohesion: 0.18
+Nodes (10): A system behind the simplicity, A Website Built as a Space, Choosing What Matters, Company Info, Introduction, It started with a typeface, Jul 1, 2026, Technologies (+2 more)
+
+### Community 381 - "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice"
+Cohesion: 0.18
+Nodes (10): A Quiet Structure, Building an Archive, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing for Time, Image First, Motion, Navigation as Movement (+2 more)
 
 ### Community 382 - "runner.py"
 Cohesion: 0.26
@@ -1793,6 +2200,78 @@ Nodes (10): AI Generation Model, Architecture Context, Auth and Collaboration Mo
 Cohesion: 0.18
 Nodes (10): Check When Done, Create Project, Delete Project, Dialogs, Editor Home, Goal, Implementation, Project Dialogs & Editor Home (+2 more)
 
+### Community 397 - "FARM MINERALS - CASE STUDY"
+Cohesion: 0.18
+Nodes (10): Apr 15, 2026, Company Info, Farm Minerals - Case Study, FARM MINERALS - CASE STUDY, Introduction, Lessons Learned, Product Visualization, Technologies (+2 more)
+
+### Community 398 - "FARM MINERALS - CASE STUDY"
+Cohesion: 0.18
+Nodes (10): Apr 15, 2026, Company Info, Farm Minerals - Case Study, FARM MINERALS - CASE STUDY, Introduction, Lessons Learned, Product Visualization, Technologies (+2 more)
+
+### Community 399 - "RESHAPING TELHA CLARKE’S DIGITAL HOME"
+Cohesion: 0.18
+Nodes (10): About Gregory & Thomas, Final thoughts, Introduction, Jul 10, 2026, Layouts shaped by content, Meaningful motion, seamless experience, Reducing interaction to a single system, Reshaping Telha Clarke’s Digital Home (+2 more)
+
+### Community 400 - "THE NEW OBYS"
+Cohesion: 0.18
+Nodes (10): A system behind the simplicity, A Website Built as a Space, Choosing What Matters, Company Info, Introduction, It started with a typeface, Jul 1, 2026, Technologies (+2 more)
+
+### Community 401 - "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice"
+Cohesion: 0.18
+Nodes (10): A Quiet Structure, Building an Archive, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice, Designing for Time, Image First, Motion, Navigation as Movement (+2 more)
+
+### Community 402 - "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary"
+Cohesion: 0.18
+Nodes (10): How the Experience Works, Mouse Trail, One Year Later, Optimizations, Sound as a Chapter, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Thank you (+2 more)
+
+### Community 403 - "Awwwards Research Vault Ingestion & Expansion: Discovery & Brainstorm Notes"
+Cohesion: 0.20
+Nodes (9): Awwwards Research Vault Ingestion & Expansion: Discovery & Brainstorm Notes, Executive Summary & Key Decisions, Q1 — Ingestion Strategy & Vault Architecture, Q2 — Article & Case Study Intake Sources, Q3 — Scraping Execution & Non-Lossy Ingestion Strategy, Q4 — 6-Folder Sub-Vault Restructuring Plan & /roast Verdict, Q&A Log, Wave 2 Execution Summary & Checkpoint (+1 more)
+
+### Community 404 - "RESHAPING TELHA CLARKE’S DIGITAL HOME"
+Cohesion: 0.18
+Nodes (10): About Gregory & Thomas, Final thoughts, Introduction, Jul 10, 2026, Layouts shaped by content, Meaningful motion, seamless experience, Reducing interaction to a single system, Reshaping Telha Clarke’s Digital Home (+2 more)
+
+### Community 405 - "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary"
+Cohesion: 0.18
+Nodes (10): How the Experience Works, Mouse Trail, One Year Later, Optimizations, Sound as a Chapter, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary, Thank you (+2 more)
+
+### Community 406 - "DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”"
+Cohesion: 0.20
+Nodes (9): Company Info, Designed to Be Discovered, Designing for an Identity That “ShapeShifts”, DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”, Final Thought - Second Attempt., Jul 8, 2026, Leaving the Method behind, Technologies (+1 more)
+
+### Community 407 - "Magnetic Commerce: Building the Dash Creative Website"
+Cohesion: 0.20
+Nodes (9): Architecture, Magnetic Commerce: Building the Dash Creative Website, Magnetic Commerce: Building the Dash Creative Website, Motion Direction and Persistence, Reflections, Stack and Tools, The Approach, The Hero Background: Distorting a Live Surface (+1 more)
+
+### Community 408 - "DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”"
+Cohesion: 0.20
+Nodes (9): Company Info, Designed to Be Discovered, Designing for an Identity That “ShapeShifts”, DESIGNING FOR AN IDENTITY THAT “SHAPESHIFTS”, Final Thought - Second Attempt., Jul 8, 2026, Leaving the Method behind, Technologies (+1 more)
+
+### Community 409 - "Executive Typographic Breakdown"
+Cohesion: 0.25
+Nodes (7): Executive Typographic Breakdown, Extended vs. Artificially Stretched Text, Font Width Classification & CSS Specs, Key Extended Typeface Recommendations, Key Use Cases in Awwwards Layouts, Modern Web CSS Rules for Extended Fonts, What Is an Extended Font and When to Use It in Web Design
+
+### Community 410 - "Magnetic Commerce: Building the Dash Creative Website"
+Cohesion: 0.20
+Nodes (9): Architecture, Magnetic Commerce: Building the Dash Creative Website, Magnetic Commerce: Building the Dash Creative Website, Motion Direction and Persistence, Reflections, Stack and Tools, The Approach, The Hero Background: Distorting a Live Surface (+1 more)
+
+### Community 411 - "Executive Breakdown & Key Traits of SOTY Winners"
+Cohesion: 0.33
+Nodes (5): A Guide on Building Awwwards-Worthy Websites, Awwwards Judging & Scoring Scale, Executive Breakdown & Key Traits of SOTY Winners, SOTY Checklist & Key Design Traits, Tech Stack & Architecture for SOTY Winners
+
+### Community 412 - "Sorry, you have been blocked"
+Cohesion: 0.33
+Nodes (5): Attention Required! | Cloudflare, Sorry, you have been blocked, What can I do to resolve this?, Why have I been blocked?, You are unable to access medium.com
+
+### Community 413 - "How to win an Awwward — The elements of beautiful webdesign"
+Cohesion: 0.40
+Nodes (4): How to Win an Awwward, How to win an Awwward — The elements of beautiful webdesign, How to win an Awwward — The elements of beautiful webdesign | by Nick Ungerer | Bootcamp | Medium, Lessons from a decade of lurking awwwards.com
+
+### Community 414 - "Extended Font Typographic Rulebook, OpenType `wdth` Axis & CSS Specs"
+Cohesion: 0.22
+Nodes (8): 1. Using CSS `font-stretch` Property, 2. Using Variable Fonts `wdth` Axis (Zero HTTP Overhead), Extended Font Typographic Rulebook, OpenType `wdth` Axis & CSS Specs, Extended vs. Artificially Stretched Text, Font Width Classification & CSS Specs, Key Extended Typeface Recommendations, Key Use Cases in Awwwards Layouts, Modern Web CSS Rules for Extended Fonts
+
 ### Community 415 - "1. Directory Structure Map"
 Cohesion: 0.18
 Nodes (10): 1. Directory Structure Map, 2. Read/Write Policy & Log Alignment Table, 3. Maintenance and Drift Prevention, Global Systems & Vaults (External/Local), Maintenance Scripts (`scripts/`), Reference Manuals (`references/`), Workspace Root Core Configs & Indexes, Workspace-Scoped Agents (`.agents/agents/`) (+2 more)
@@ -1853,6 +2332,10 @@ Nodes (9): 1. Locked Niche Statement, 2. The Offer Architecture ($3,000 Sprint),
 Cohesion: 0.20
 Nodes (9): Domain Vocabulary & Glossary (CONTEXT.md updates), Executive Summary & Key Decisions, Q1 — Spec Engineering & Ticket Pipeline Structure, Q2 — Subagent Execution & Token Efficiency Safeguards, Q3 — Automated Component Sourcing & Design Token Adaptation, Q4 — Security Quality Gates & Modern OWASP Additions, Q5 & Q6 — STORM Research Integration & Persistent Brain Memory, Q&A Log (+1 more)
 
+### Community 430 - "The 4 Core Grid Archetypes"
+Cohesion: 0.25
+Nodes (7): 1. Column Grid (Obys Workhorse), 2. Van De Graaff Canon (Golden Canon), 3. Rectangular / Modular Grid, 4. Typographic Baseline Grid, Obys Agency — The 4 Core Grid Canons & 160px Vertical Padding Math, Screen Margin & Gutter Math Standards, The 4 Core Grid Archetypes
+
 ### Community 431 - "23-Sites Design Psychology, Sensory Feel, & Spatial Choreography Guide"
 Cohesion: 0.20
 Nodes (9): 🧠 1. UX Design Psychology Principles, 23-Sites Design Psychology, Sensory Feel, & Spatial Choreography Guide, 📐 2. Spatial Choreography & Section Sequencing, ✨ 3. Sensory "Feel" & Spatial Rhythm Rules, A. Cognitive Load Optimization & Chunking, Archetype 1: AI SaaS / Product Launch Flow, Archetype 2: High-Ticket Agency / Portfolio Flow, B. Eye-Tracking Scanning Patterns (F-Pattern & Z-Pattern) (+1 more)
@@ -1868,6 +2351,18 @@ Nodes (9): Architecture Decisions, Completed, Current Goal, Current Phase, In Pr
 ### Community 434 - "Issues"
 Cohesion: 0.20
 Nodes (9): 1. Save Button in Workspace Navbar, 2. Delete Nodes and Edges, 3. Node Connection Handles, 4. Drag and Drop Position Offset, 5. Auto Zoom on First Node Drop, 6. Collaborator Avatar Image Error, 7. Remove UserButton from Workspace Navbar, Issues (+1 more)
+
+### Community 441 - "ZERO 3D Spline Camera Narrative Engine & Virtual Scroll Architecture"
+Cohesion: 0.25
+Nodes (7): 1. Gesture Verification Math ("Draw a Zero" Unlock), 2. Virtual Scroll Engine (Zero Native Scroll), 3. Idle GPU Texture Upload Manager, 4. Burning Money Noise-Driven Distance Field Shader, 5. 7-Tap Hexagonal Text Focus Blur Shader, Executive Summary & Engineering Pedigree, ZERO 3D Spline Camera Narrative Engine & Virtual Scroll Architecture
+
+### Community 442 - "Executive Typographic Breakdown"
+Cohesion: 0.25
+Nodes (7): Executive Typographic Breakdown, Extended vs. Artificially Stretched Text, Font Width Classification & CSS Specs, Key Extended Typeface Recommendations, Key Use Cases in Awwwards Layouts, Modern Web CSS Rules for Extended Fonts, What Is an Extended Font and When to Use It in Web Design
+
+### Community 443 - "Trionn Master Motion Architecture — Coordinating GSAP, Three.js, Lenis & Web Audio API"
+Cohesion: 0.29
+Nodes (6): 1. Unified `explodeAmt` State Engine & Shared Render Loop, 2. Reusable `BlurTextReveal` Component (GSAP SplitText + Filter GPU Layer), 3. Web Audio API Runtime Sound Synthesis, 4. Lenis Smooth Scroll Driven via `gsap.ticker`, Executive Summary & Engineering Pedigree, Trionn Master Motion Architecture — Coordinating GSAP, Three.js, Lenis & Web Audio API
 
 ### Community 445 - "run_scrape"
 Cohesion: 0.27
@@ -1956,6 +2451,162 @@ Nodes (8): API Routes, Code Standards, Data and Storage, File Organization, Gene
 ### Community 467 - "Utility Scripts Reference Guide"
 Cohesion: 0.22
 Nodes (8): 1. `agent_adapt.py`, 2. `rename_and_link_update.py`, 3. `verify_skills.py`, 4. `copy_skills_to_antigravity.py`, 4. `design_synthesis_engine.py`, 5. `component_registry_cli.py`, 5. `demo_test_skills.py`, Utility Scripts Reference Guide
+
+### Community 475 - "PX PUSH CRT Monitor Simulation, Extruded Chrome Logo & Nuxt WebGL Task Lifecycle"
+Cohesion: 0.29
+Nodes (6): 1. CSS & Overlay CRT Convex Monitor Simulation, 2. Scroll-Velocity Responsive Extruded Chrome 3D Logo, 3. Asynchronous WebGL Page Task Readiness Gate (`registerPageTask`), 4. Pure CSS Radial-Gradient Paper Punch Hole Mask, Executive Summary & Engineering Pedigree, PX PUSH CRT Monitor Simulation, Extruded Chrome Logo & Nuxt WebGL Task Lifecycle
+
+### Community 476 - "MERSI Editorial WebGL — GSAP Flip.fit() Page Transition, Clip-Path Slider & Silent Teleport"
+Cohesion: 0.33
+Nodes (5): 1. GSAP `Flip.fit()` Taxi.js Page Transition Engine, 2. Split-Screen Synchronized `clip-path: inset()` Slider, 3. Lenis Silent Scroll Teleportation (Infinite Scroll), Executive Summary & Engineering Pedigree, MERSI Editorial WebGL — GSAP Flip.fit() Page Transition, Clip-Path Slider & Silent Teleport
+
+### Community 477 - "IYO Audio Computer — 1.6M GPGPU Particle Simulation & WebGL Performance Protocol"
+Cohesion: 0.33
+Nodes (5): 1. GPGPU Particle Simulation Protocol (Chladni Sound Patterns), 2. Retopologized CAD & Draco GLTF Pipeline, 3. Mobile Performance & Memory Architecture, Executive Summary & Engineering Pedigree, IYO Audio Computer — 1.6M GPGPU Particle Simulation & WebGL Performance Protocol
+
+### Community 478 - "The Sleepers Atmospheric WebGL Shaders, Fake Volumetric Fog & Inverted Hull Outlines"
+Cohesion: 0.33
+Nodes (5): 1. Threshold Swirling Post-Processing Transition Shader, 2. Fake Volumetric Animated Fog (`onBeforeCompile` Override), 3. Blender Inverted Hull Mesh Outline Export Protocol, Executive Summary & Pedigree, The Sleepers Atmospheric WebGL Shaders, Fake Volumetric Fog & Inverted Hull Outlines
+
+### Community 479 - "Executive Breakdown & Key Traits of SOTY Winners"
+Cohesion: 0.33
+Nodes (5): A Guide on Building Awwwards-Worthy Websites, Awwwards Judging & Scoring Scale, Executive Breakdown & Key Traits of SOTY Winners, SOTY Checklist & Key Design Traits, Tech Stack & Architecture for SOTY Winners
+
+### Community 480 - "Core Principles of Digital Hospitality"
+Cohesion: 0.33
+Nodes (5): 1. Anticipatory Footer Expansion, 2. Emotional Arrival (Preloader Handover), 3. Continuous Project Flow, Core Principles of Digital Hospitality, Digital Hospitality & Frictionless UX Conversion Psychology
+
+### Community 481 - "Cross-Site Request Forgery (CSRF)"
+Cohesion: 0.40
+Nodes (5): Cross-Site Request Forgery (CSRF), Edge Cases and Common Mistakes, Endpoints Requiring CSRF Protection, Protection Mechanisms, Verification Checklist
+
+### Community 482 - "Ashley Brooke — Editorial Aesthetics, Drafting Grids & Matte Color Palette"
+Cohesion: 0.40
+Nodes (4): Ashley Brooke — Editorial Aesthetics, Drafting Grids & Matte Color Palette, CSS Color-Mix In Lab Space, Matte Color Palette & Color Mix Engine, Visual Design Philosophy & Studio Archetype
+
+### Community 483 - "Exo Ape Digital Hospitality, Continuous Project Flow & Navigation Island Architecture"
+Cohesion: 0.40
+Nodes (4): 1. Core UX Breakthroughs, 2. Exo Ape Tech Stack & Motion Engine, Executive Summary & Pedigree, Exo Ape Digital Hospitality, Continuous Project Flow & Navigation Island Architecture
+
+### Community 484 - "Obys Agency Design System, Typeface-First Foundation & Bun Zero-CSR Tech Stack"
+Cohesion: 0.40
+Nodes (4): 1. Typeface-First Foundation & Active Logo Anchor, 2. Bun & Zero-CSR Client Architecture, Executive Summary & Pedigree, Obys Agency Design System, Typeface-First Foundation & Bun Zero-CSR Tech Stack
+
+### Community 485 - "Alex Streza SOTY Checklist, Tech Stack Architecture & Judging Scoring Scale"
+Cohesion: 0.40
+Nodes (4): Alex Streza SOTY Checklist, Tech Stack Architecture & Judging Scoring Scale, Awwwards Judging & Scoring Breakdown, SOTY Checklist & Key Design Traits, Tech Stack & Architecture for SOTY Winners
+
+### Community 486 - "Champions 4 Good — System Sans Heavy Hierarchy & Viewport Token Math"
+Cohesion: 0.40
+Nodes (4): Champions 4 Good — System Sans Heavy Hierarchy & Viewport Token Math, Heavy Sans-Serif Typographic Scale, Responsive Breakpoint Geometry, Root Viewport Token Math (`--vw`)
+
+### Community 487 - "Active Theory — Fluid Typography Clamp & HUD Grid Math"
+Cohesion: 0.40
+Nodes (4): Active Theory — Fluid Typography Clamp & HUD Grid Math, Responsive Fluid Typography Clamp Formula, Technical Monospace HUD Grid Math, Typographic Hierarchy Scale
+
+### Community 488 - "Active Theory — Web Audio Synthesizer, Radial Cursor & Camera Motion"
+Cohesion: 0.40
+Nodes (4): 3D Z-Axis Camera Scrubbing Motion, Active Theory — Web Audio Synthesizer, Radial Cursor & Camera Motion, Radial Particle Cursor Physics & Spatial Audio Feedback, Web Audio API Synthesizer Architecture
+
+### Community 489 - "Active Theory — Hydra WebGL Framework, Particle Vector Physics & GLSL Shaders"
+Cohesion: 0.40
+Nodes (4): Active Theory — Hydra WebGL Framework, Particle Vector Physics & GLSL Shaders, GLSL Fragment Shader Specification, Hydra WebGL Framework & Shader Hydration Preloader, Particle Repulsion Vector Math
+
+### Community 490 - "Cerebrium WebGL Pulse Shader, Fresnel Energy Shield & TSL/WebGPU Production Analysis"
+Cohesion: 0.40
+Nodes (4): 1. Static Mesh Network Pulse Shader (Zero Geometry Deformation), 2. Interactive Fresnel Forcefield Energy Shield, Cerebrium WebGL Pulse Shader, Fresnel Energy Shield & TSL/WebGPU Production Analysis, Executive Summary & Engineering Pedigree
+
+### Community 491 - "ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)"
+Cohesion: 0.50
+Nodes (3): ROAST_REFINEMENT_SPEC (Required Fixes Before Execution), THE VERDICT: RESHAPE (With 3-Stage Token-Safe Vault Routing), ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)
+
+### Community 492 - "ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)"
+Cohesion: 0.50
+Nodes (3): ROAST_REFINEMENT_SPEC (3 Pre-Wave 2 Fixes), THE VERDICT: GO (With 3 Immediate Pre-Wave 2 Fixes), ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)
+
+### Community 493 - "ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)"
+Cohesion: 0.50
+Nodes (3): ROAST_REFINEMENT_SPEC, THE VERDICT: GO (100% WAVE 2 SPRINT COMPLETE!), ZORIXEL AIOS Universal Adversarial Roast Council (`/roast`)
+
+### Community 494 - "Active Theory — Agency of the Year Case Study & Portfolio Architecture"
+Cohesion: 0.40
+Nodes (4): Active Theory — Agency of the Year Case Study & Portfolio Architecture, Multi-Mode Platform (Portfolio / VR / AR), Studio Portfolio Overview & Honors, Technical Architecture Breakdown
+
+### Community 495 - "Active Theory — Visual Principles, Cosmic Dark Mode & OKLCH Fills"
+Cohesion: 0.50
+Nodes (3): Active Theory — Visual Principles, Cosmic Dark Mode & OKLCH Fills, OKLCH Dopamine Color Token Specification, Visual Aesthetics & HUD Architecture
+
+### Community 496 - "Champions 4 Good — Vibrant Network Aesthetics & High-Energy Palette"
+Cohesion: 0.50
+Nodes (3): Champions 4 Good — Vibrant Network Aesthetics & High-Energy Palette, Vibrant Color Tokens & Identity Specification, Visual Design Architecture & Studio Pedigree
+
+### Community 497 - "Detroit Paris — Haute Couture AI Aesthetics & Monochromatic Luxe Palette"
+Cohesion: 0.50
+Nodes (3): Detroit Paris — Haute Couture AI Aesthetics & Monochromatic Luxe Palette, Monochromatic Luxe Color Specification, Visual Design Philosophy & Studio Pedigree
+
+### Community 498 - "Follow Art — Electric Cobalt Blue Aesthetics & Rebellious Art Branding"
+Cohesion: 0.50
+Nodes (3): Electric Cobalt Color Token Specification, Follow Art — Electric Cobalt Blue Aesthetics & Rebellious Art Branding, Visual Design Philosophy & Multi-Award Pedigree
+
+### Community 499 - "Gehry Getty — Parchment Archive Aesthetics & Museum Color Palette"
+Cohesion: 0.50
+Nodes (3): Gehry Getty — Parchment Archive Aesthetics & Museum Color Palette, Museum Archival Color Specification, Visual Design Philosophy & Resn Studio Pedigree
+
+### Community 500 - "Good Fella — Geist Mono Monospaced Aesthetics & Electric Red Tokens"
+Cohesion: 0.50
+Nodes (3): Digital Landmark Color Specification, Good Fella — Geist Mono Monospaced Aesthetics & Electric Red Tokens, Visual Design Philosophy & Annnimate Pedigree
+
+### Community 501 - "Obys Agency — Favorite #1 Master Design Canons & Visual Principles"
+Cohesion: 0.50
+Nodes (3): Obys Agency — Favorite #1 Master Design Canons & Visual Principles, Obys Core Design Rules of Thumb, Visual Design Philosophy & Studio Pedigree
+
+### Community 502 - "Obys Agency — OKLCH Palette & Master Architectural Aesthetics"
+Cohesion: 0.50
+Nodes (3): Extracted OKLCH Color Specification, Obys Agency — OKLCH Palette & Master Architectural Aesthetics, Visual Design Philosophy & Architectural Typography
+
+### Community 503 - "Jasmine Gunarto — High-Fashion Editorial Aesthetics & Color Tokens"
+Cohesion: 0.50
+Nodes (3): High-Fashion Editorial Color Specification, Jasmine Gunarto — High-Fashion Editorial Aesthetics & Color Tokens, Visual Design Philosophy & Studio Pedigree
+
+### Community 504 - "Locomotive Agency — Montréal Monochromatic Editorial Aesthetics"
+Cohesion: 0.50
+Nodes (3): Locomotive Agency — Montréal Monochromatic Editorial Aesthetics, Monochromatic Editorial Color Specification, Visual Design Philosophy & Studio Pedigree
+
+### Community 505 - "Made In Evolve — Italian Boutique Editorial Aesthetics & Neon Lime Tokens"
+Cohesion: 0.50
+Nodes (3): Italian Editorial Color Specification, Made In Evolve — Italian Boutique Editorial Aesthetics & Neon Lime Tokens, Visual Design Philosophy & Studio Pedigree
+
+### Community 506 - "Merci Michel — French Gamified Surrealism & Neon Crimson Palette"
+Cohesion: 0.50
+Nodes (3): Gamified Surrealism Color Specification, Merci Michel — French Gamified Surrealism & Neon Crimson Palette, Visual Design Philosophy & Hall of Fame Pedigree
+
+### Community 507 - "Off Menu Design — Agentic AI Pure Dark Aesthetics & Electric Blue Tokens"
+Cohesion: 0.50
+Nodes (3): Agentic Dark Palette Specification, Off Menu Design — Agentic AI Pure Dark Aesthetics & Electric Blue Tokens, Visual Design Philosophy & Studio Pedigree
+
+### Community 508 - "Oryzo AI — Lusion 3D Gaussian Splatting & Satirical Orange Tokens"
+Cohesion: 0.50
+Nodes (3): Oryzo AI — Lusion 3D Gaussian Splatting & Satirical Orange Tokens, Satirical Product Color Specification, Visual Design Philosophy & Lusion Pedigree
+
+### Community 509 - "Outfit Hello Hello — Editorial Streetwear Aesthetics & Electric Red Tokens"
+Cohesion: 0.50
+Nodes (3): Outfit Hello Hello — Editorial Streetwear Aesthetics & Electric Red Tokens, Streetwear Color Specification, Visual Design Philosophy & Studio Pedigree
+
+### Community 510 - "Resn — Biological 3D Particle Aesthetics & Chlorophyll Green Palette"
+Cohesion: 0.50
+Nodes (3): Biological Nature Color Specification, Resn — Biological 3D Particle Aesthetics & Chlorophyll Green Palette, Visual Design Philosophy & Resn Pedigree
+
+### Community 511 - "Sondaven — Ukrainian Luxury Resort Aesthetics & Gold Accent Palette"
+Cohesion: 0.50
+Nodes (3): Luxury Hospitality Color Specification, Sondaven — Ukrainian Luxury Resort Aesthetics & Gold Accent Palette, Visual Design Philosophy & Resort Pedigree
+
+### Community 512 - "The Line Studio — London BAFTA Animation Aesthetics & Electric Red Tokens"
+Cohesion: 0.50
+Nodes (3): Animation Studio Color Specification, The Line Studio — London BAFTA Animation Aesthetics & Electric Red Tokens, Visual Design Philosophy & Studio Pedigree
+
+### Community 513 - "The Shift Tokyo — Japanese Neo-Brutalist Aesthetics & Electric Coral Tokens"
+Cohesion: 0.50
+Nodes (3): Neo-Brutalist Color Specification, The Shift Tokyo — Japanese Neo-Brutalist Aesthetics & Electric Coral Tokens, Visual Design Philosophy & Tokyo Collective Pedigree
 
 ### Community 514 - "design_synthesis_engine.py"
 Cohesion: 0.33
@@ -2113,9 +2764,9 @@ Nodes (7): Export formats, Format 1 — `tokens.css`, Format 2 — Tailwind v4 `
 Cohesion: 0.22
 Nodes (8): Inter-Skill Connections & Handoff Pipeline, Invocation & Tri-Mode Routing, Phase 1: Clarification & Targeted Q&A (Do FIRST), Phase 2: Isolated Extraction & Dependency Audit, Phase 3: Visual Verification & Auditing (Playwright Bypass), Phase 4: Analysis & System Adaptation, Post-Execution Auto-Evolution & Adversarial `/roast` Gate, Scrape Component Skill
 
-### Community 553 - "Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)"
-Cohesion: 0.22
-Nodes (8): A. Sticky-Stack Scroll (Card Stack Effect), B. Magnetic Hover Button Physics, GSAP ScrollTrigger Canonical Skeletons, Interactive Radiant Shader HTML Protocol (`pbakaus/radiant`), Lenis Smooth Momentum Scroll & RAF Sync, Motion Dialing Matrix (Dial 0 to 10), Native CSS View Timeline Animation Offloading, Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v4.0)
+### Community 553 - "Master Awwwards Motion & WebGL Protocols"
+Cohesion: 0.18
+Nodes (10): 1. Trionn Unified `explodeAmt` State Engine, 2. GSAP `Flip.fit()` Page Transition Engine (Taxi.js / Barba.js), 3. IYO 1.6M GPGPU Particle Sound Visualization, 4. The Sleepers Fake Volumetric Fog (`onBeforeCompile`), 5. PX PUSH CRT Convex Monitor Filter, Lenis Smooth Momentum Scroll & RAF Sync, Master Awwwards Motion & WebGL Protocols, Motion Dialing Matrix (Dial 0 to 10) (+2 more)
 
 ### Community 554 - "Jordan Watkins Brand Reference & Playwright Tools: Brainstorm / Discovery Notes"
 Cohesion: 0.25
@@ -2128,6 +2779,10 @@ Nodes (7): Branding Fonts: Brainstorm / Discovery Notes, Open flags (pending inp
 ### Community 556 - "UI Component Libraries & Raw Components Strategy: Brainstorm / Discovery Notes"
 Cohesion: 0.25
 Nodes (7): Adversarial Roast Council Audit (Stress-Test), Open Flags (pending input), Q1 — Primary Objective & Workflow Integration, Q2 — Registry Structure & System Enforcement Rule, Q&A Log, Summary / key decisions, UI Component Libraries & Raw Components Strategy: Brainstorm / Discovery Notes
+
+### Community 557 - "Tresmares Capital — High-Trust Financial Aesthetics & Terracotta Peak Red"
+Cohesion: 0.50
+Nodes (3): Institutional Private Equity Color Specification, Tresmares Capital — High-Trust Financial Aesthetics & Terracotta Peak Red, Visual Design Philosophy & Studio Pedigree
 
 ### Community 558 - "23-Sites Master Design System & Blueprint Matrix"
 Cohesion: 0.25
@@ -2145,6 +2800,78 @@ Nodes (7): Check When Done, Dependencies, Goal, Migration, Models, Prisma Client
 Cohesion: 0.25
 Nodes (7): Auth Route, Check When Done, Configuration, Dependencies, Liveblocks Client, Presence, UserMeta
 
+### Community 562 - "TRIONN Agency — AI-Powered Studio Aesthetics & Indigo Glow Tokens"
+Cohesion: 0.50
+Nodes (3): OKLCH Dark Studio Color Specification, TRIONN Agency — AI-Powered Studio Aesthetics & Indigo Glow Tokens, Visual Design Philosophy & AI Studio Pedigree
+
+### Community 563 - "Truck 'n Roll — Heavy Industrial Tour Aesthetics & High-Visibility Red"
+Cohesion: 0.50
+Nodes (3): Industrial Tour Color Specification, Truck 'n Roll — Heavy Industrial Tour Aesthetics & High-Visibility Red, Visual Design Philosophy & Studio Pedigree
+
+### Community 564 - "Unleashing Best — Victor Work Executive Aesthetics & 6 Theme Runtimes"
+Cohesion: 0.50
+Nodes (3): 6 Dynamic Theme Palette Runtimes, Unleashing Best — Victor Work Executive Aesthetics & 6 Theme Runtimes, Visual Design Philosophy & Victor Work Pedigree
+
+### Community 565 - "Obys Agency — Georgia Serif, Nobel Sans & Courier Mono Type Stack"
+Cohesion: 0.50
+Nodes (3): 3-Font Typography Architecture, Difference Blend Mode Header Navigation, Obys Agency — Georgia Serif, Nobel Sans & Courier Mono Type Stack
+
+### Community 566 - "Jasmine Gunarto — Classical Editorial Serif & Manrope Typography Math"
+Cohesion: 0.50
+Nodes (3): Editorial Serif & Manrope Type Hierarchy, Full Stage Custom Variable Geometry, Jasmine Gunarto — Classical Editorial Serif & Manrope Typography Math
+
+### Community 567 - "Locomotive Agency — Neue Haas Grotesk & Fluid Clamp Typography Math"
+Cohesion: 0.50
+Nodes (3): Fluid Responsive Clamp Formulas & 12-Col Grid, Locomotive Agency — Neue Haas Grotesk & Fluid Clamp Typography Math, Neue Haas Display & Inter Body Type Scale
+
+### Community 568 - "Made In Evolve — Typekit Neue Haas Grotesk & 48-Column Grid Math"
+Cohesion: 0.50
+Nodes (3): 48-Column Background Grid Overlay Math, Made In Evolve — Typekit Neue Haas Grotesk & 48-Column Grid Math, Neue Haas Grotesk Typekit Architecture
+
+### Community 569 - "Merci Michel — Extended Geometric Sans & Centered HUD Grid"
+Cohesion: 0.50
+Nodes (3): Centered 1400px HUD Viewport Grid Math, Extended Geometric Sans Typography Scale, Merci Michel — Extended Geometric Sans & Centered HUD Grid
+
+### Community 570 - "Off Menu Design — Inter Sans & CSS Container Query Math"
+Cohesion: 0.50
+Nodes (3): CSS Container Query & Zoom Offset Math, Inter Sans-Serif Typographic Scale, Off Menu Design — Inter Sans & CSS Container Query Math
+
+### Community 571 - "Oryzo AI — Three.js 3D Space Mono & 60k Scroll Height Geometry"
+Cohesion: 0.50
+Nodes (3): 60,582px Body Scroll Height Geometry, Oryzo AI — Three.js 3D Space Mono & 60k Scroll Height Geometry, Three.js 3D Font & Space Mono Hierarchy
+
+### Community 572 - "Outfit Hello Hello — Neue Haas Grotesk 45vw Headline & Tailwind Grid"
+Cohesion: 0.50
+Nodes (3): Neue Haas Grotesk Typographic Scale, Outfit Hello Hello — Neue Haas Grotesk 45vw Headline & Tailwind Grid, Tailwind CSS v4 Container Query & Aspect Ratio Math
+
+### Community 573 - "Resn — JetBrains Mono HUD & Floating World Coordinates Math"
+Cohesion: 0.50
+Nodes (3): 3D World Coordinate Floating Card Math, JetBrains Mono HUD Typography Scale, Resn — JetBrains Mono HUD & Floating World Coordinates Math
+
+### Community 574 - "Sondaven — KTF Metro Roman Serif & Scrollbar-Lock Math"
+Cohesion: 0.50
+Nodes (3): KTF Metro Roman Typographic Scale, Scrollbar Width Scroll-Lock Math, Sondaven — KTF Metro Roman Serif & Scrollbar-Lock Math
+
+### Community 575 - "The Line Studio — DenimVF Variable Font & Per-Letter Kerning Math"
+Cohesion: 0.50
+Nodes (3): DenimVF Variable Font Typography Scale, Individual Letter Margin Class Kerning Rig, The Line Studio — DenimVF Variable Font & Per-Letter Kerning Math
+
+### Community 576 - "The Shift Tokyo — Everett, Lausanne & YakuHanJP Font Hierarchy"
+Cohesion: 0.50
+Nodes (3): Character-Level SplitText Node Architecture, Everett & YakuHanJP Typographic Scale, The Shift Tokyo — Everett, Lausanne & YakuHanJP Font Hierarchy
+
+### Community 577 - "Tresmares Capital — PP Fragment Serif 8rem & PP Neue Montreal"
+Cohesion: 0.50
+Nodes (3): Flexible Content Padding Geometry, PP Fragment Serif & PP Neue Montreal Scale, Tresmares Capital — PP Fragment Serif 8rem & PP Neue Montreal
+
+### Community 578 - "TRIONN Agency — Fluid Clamp Typography & SplitText Staggering Math"
+Cohesion: 0.50
+Nodes (3): Fluid Clamp Typographic Scale, GSAP SplitText Character Staggering Script, TRIONN Agency — Fluid Clamp Typography & SplitText Staggering Math
+
+### Community 579 - "Truck 'n Roll — Druk Condensed Heavy 8rem, GT America & Space Mono"
+Cohesion: 0.50
+Nodes (3): Druk & Space Mono Industrial Scale, Flex & Rail Grid Math, Truck 'n Roll — Druk Condensed Heavy 8rem, GT America & Space Mono
+
 ### Community 580 - "design_asset_engine.py"
 Cohesion: 0.54
 Nodes (6): get_asset_prompts(), list_sources(), load_db(), main(), render_brief(), search_references()
@@ -2160,6 +2887,10 @@ Nodes (6): Animation Patterns Reference, Background Effects, Effect-to-Feeling G
 ### Community 583 - "Colour"
 Cohesion: 0.29
 Nodes (7): Bans, Colour, Contrast, Dark mode recipe, Palette construction, Principles, Use of the accent
+
+### Community 584 - "Unleashing Best — GrifinitoLMedium Display Serif & 0.52083vw Math"
+Cohesion: 0.50
+Nodes (3): CSS Grid Area Mapping & Fluid Container Bounds, GrifinitoLMedium & Helvetica Scale, Unleashing Best — GrifinitoLMedium Display Serif & 0.52083vw Math
 
 ### Community 585 - "using-superpowers/SKILL.md"
 Cohesion: 0.25
@@ -2177,6 +2908,10 @@ Nodes (6): Slide 1: Hook, Slide 2: Spacing Quote, Slide 3: Secret 1, Slide 4: Se
 Cohesion: 0.29
 Nodes (6): EXPANSIONS — what to add as you grow, How to tell when it's time to add a folder, Suggested cadences, What NOT to add, What ships in the kit (don't remove), What to add as you grow
 
+### Community 589 - "Ashley Brooke — Serif Display Typography & 24-Column Grid Math"
+Cohesion: 0.50
+Nodes (3): 24-Column Responsive Grid Architecture, Ashley Brooke — Serif Display Typography & 24-Column Grid Math, Typographic Hierarchy & Loose Tracking Rules
+
 ### Community 590 - "Google Workspace CLI (GWS) Integration Guide"
 Cohesion: 0.29
 Nodes (6): 🔒 1. Environment & Authentication Profile Flow, 💻 2. Common CLI Commands Reference, 🐍 3. Programmatic Python Execution Template, Calendar Operations (GCal), Gmail Operations (Emails & Drafts), Google Workspace CLI (GWS) Integration Guide
@@ -2188,6 +2923,90 @@ Nodes (6): Architecture Context, Auth and Access Model, Invariants, Stack, Stora
 ### Community 592 - "Architecture Context"
 Cohesion: 0.29
 Nodes (6): Architecture Context, Auth and Access Model, Invariants, Stack, Storage Model, System Boundaries
+
+### Community 593 - "Detroit Paris — Barlow Typography Scaling & Masonry Grid Math"
+Cohesion: 0.50
+Nodes (3): Barlow Typographic Hierarchy & Loose Tracking, Detroit Paris — Barlow Typography Scaling & Masonry Grid Math, Osmo Viewport Font Scaling & Masonry Grid Math
+
+### Community 594 - "Good Fella — Vercel Geist Mono Variable Typography & 12-Column Grid"
+Cohesion: 0.50
+Nodes (3): 12-Column Staggered Grid Overlay Math, Geist Mono Variable Typographic Scale, Good Fella — Vercel Geist Mono Variable Typography & 12-Column Grid
+
+### Community 595 - "Follow Art — HeadingNow & Hardbop Font Pairing & Scale Rem Tokens"
+Cohesion: 0.50
+Nodes (3): Fluid Rem Scale Tokens (`--scale-text-rem`), Follow Art — HeadingNow & Hardbop Font Pairing & Scale Rem Tokens, HeadingNow & Hardbop Typographic Scale
+
+### Community 596 - "Gehry Getty — Playfair Display Serif & Space Mono Metadata Hierarchy"
+Cohesion: 0.50
+Nodes (3): Archival Serif & Monospace Typographic Scale, Gehry Getty — Playfair Display Serif & Space Mono Metadata Hierarchy, Viewport Inset Spacing Math
+
+### Community 597 - "Ashley Brooke — Lenis Smooth Scroll, Barba.js SPA & GSAP SVG Animations"
+Cohesion: 0.50
+Nodes (3): Ashley Brooke — Lenis Smooth Scroll, Barba.js SPA & GSAP SVG Animations, Barba.js SPA Seamless Page Transition Architecture, GSAP DrawSVGPlugin & Lenis Scroll Pipeline
+
+### Community 598 - "Champions 4 Good — Draggable Cards Engine & Lenis Smooth Scroll"
+Cohesion: 0.50
+Nodes (3): Champions 4 Good — Draggable Cards Engine & Lenis Smooth Scroll, Lenis Inertia Scroll Integration, Touch & Mouse Draggable Flick Cards Engine
+
+### Community 599 - "Good Fella — Page Transition Rectangles & Power3 Ease Motion"
+Cohesion: 0.50
+Nodes (3): Good Fella — Page Transition Rectangles & Power3 Ease Motion, Grid Rectangle SPA Page Transition Architecture, Power3 Cubic Bezier Easing Function
+
+### Community 600 - "Jasmine Gunarto — Taxi.js SPA Transitions & Magnetic Button Physics"
+Cohesion: 0.50
+Nodes (3): Jasmine Gunarto — Taxi.js SPA Transitions & Magnetic Button Physics, Magnetic Button Cursor Physics Engine, Taxi.js SPA Router Architecture
+
+### Community 601 - "Locomotive Agency — Locomotive Scroll v5 & Parallax Speed Math"
+Cohesion: 0.50
+Nodes (3): Locomotive Agency — Locomotive Scroll v5 & Parallax Speed Math, Locomotive Scroll v5 Engine Architecture, Parallax Speed Delta Math & GSAP SplitText
+
+### Community 602 - "Made In Evolve — Barba SPA Transitions & CircleType Motion"
+Cohesion: 0.50
+Nodes (3): Barba.js SPA Transition Architecture, CircleType.js Curved Text Path Motion Engine, Made In Evolve — Barba SPA Transitions & CircleType Motion
+
+### Community 603 - "Outfit Hello Hello — Lenis Scroll Inertia & Lookbook Image Transforms"
+Cohesion: 0.50
+Nodes (3): Lenis Scroll Engine Setup, Outfit Hello Hello — Lenis Scroll Inertia & Lookbook Image Transforms, Scroll-Driven Lookbook Image Transforms
+
+### Community 604 - "The Line Studio — Rotated Card Page Transitions & Lenis Scroll"
+Cohesion: 0.50
+Nodes (3): Lenis Smooth Scroll Easing, Rotated Card Page Transition Animation Engine, The Line Studio — Rotated Card Page Transitions & Lenis Scroll
+
+### Community 605 - "Tresmares Capital — Taxi.js SPA Router & Button Underline Offset"
+Cohesion: 0.50
+Nodes (3): Interactive Button Underline Offset Hover, Taxi.js SPA Transition Engine, Tresmares Capital — Taxi.js SPA Router & Button Underline Offset
+
+### Community 606 - "Truck 'n Roll — Swup.js SPA Router & Lenis Parallax Engine"
+Cohesion: 0.50
+Nodes (3): Lenis Inertia Scroll Parallax Script, Swup.js SPA Transition Architecture, Truck 'n Roll — Swup.js SPA Router & Lenis Parallax Engine
+
+### Community 607 - "Detroit Paris — HLS.js 4K Video Streaming & Card Hover Parallax"
+Cohesion: 0.50
+Nodes (3): Detroit Paris — HLS.js 4K Video Streaming & Card Hover Parallax, Dynamic Hover Video Trigger & Parallax Physics, HLS.js Adaptive 4K Streaming Video Player Setup
+
+### Community 608 - "Gehry Getty — Timecoded Audio Synchronization & Camera Spring Orbit Motion"
+Cohesion: 0.50
+Nodes (3): Camera Spring Vector Interpolation Math, Gehry Getty — Timecoded Audio Synchronization & Camera Spring Orbit Motion, Synchronized Audio Narrative Engine Architecture
+
+### Community 609 - "Oryzo AI — 60k-Height Camera Scrollytelling & Rive WASM Runtime"
+Cohesion: 0.50
+Nodes (3): GSAP 7-Keyframe Camera Scrubbing Timeline, Oryzo AI — 60k-Height Camera Scrollytelling & Rive WASM Runtime, Rive WASM Vector Graphics Engine Integration
+
+### Community 610 - "Resn — Velocity-Modulated Audio & 3D Camera Chapter Scrubbing"
+Cohesion: 0.50
+Nodes (3): 3D Camera Z-Axis Chapter Scrubbing, Howler.js Scroll Velocity Audio Modulation, Resn — Velocity-Modulated Audio & 3D Camera Chapter Scrubbing
+
+### Community 611 - "TRIONN Agency — Bento Cards Architecture & Web Audio Feedback"
+Cohesion: 0.50
+Nodes (3): 134 Extracted Bento Card Components, TRIONN Agency — Bento Cards Architecture & Web Audio Feedback, Web Audio Feedback & Sound Toggle Engine
+
+### Community 612 - "Unleashing Best — GSAP 400% Pin Scrollytelling & Clip-Path Wipe"
+Cohesion: 0.50
+Nodes (3): Dual-Text Translation & Clip-Path Page Wipe, GSAP 400% Scroll Pinning & Opacity Velocity Scrubbing, Unleashing Best — GSAP 400% Pin Scrollytelling & Clip-Path Wipe
+
+### Community 613 - "Sondaven — Barba.js 20x12 Grid Dither & SVG Path Slider"
+Cohesion: 0.50
+Nodes (3): Barba.js 20x12 Grid Cell Dither Transition, Drag-Along-Path SVG Curve Slider Math, Sondaven — Barba.js 20x12 Grid Dither & SVG Path Slider
 
 ### Community 614 - "compile_carousel.py"
 Cohesion: 0.48
@@ -2265,6 +3084,10 @@ Nodes (5): ⚡ Execution Pipeline & Cross-Session Resume Protocol, 🎯 High-Lev
 Cohesion: 0.33
 Nodes (5): 🧠 Core Identity & Context, 🛠️ Global Environment & Integrations, ⚙️ Operational Rules & Preferences, ZORIXEL AIOS Persistent Memory, 🎨 Zorixel Design Taste & Visual Guidelines
 
+### Community 633 - "Follow Art — Sticky Layer Scrollytelling & Button Hover Accent Animations"
+Cohesion: 0.50
+Nodes (3): Button Hover Accent Line Micro-Interactions, Follow Art — Sticky Layer Scrollytelling & Button Hover Accent Animations, Sticky Layer Scrollytelling Architecture
+
 ### Community 634 - "08-editor-workspace-shell.md"
 Cohesion: 0.33
 Nodes (5): Access, Access Helpers, Check When Done, Layout, Scope
@@ -2276,6 +3099,190 @@ Nodes (5): Check When Done, Implementation, Notes, Scope Limits, UI Details
 ### Community 636 - "29-spec-ui-integration.md"
 Cohesion: 0.33
 Nodes (5): Check When Done, Implementation, Notes, Scope Limits, UI Details
+
+### Community 637 - "Obys Agency — Power Line Kinetic Typography & ScrollTrigger Scrollytelling"
+Cohesion: 0.50
+Nodes (3): Lenis Smooth Scroll Inertia Pipeline, Obys Agency — Power Line Kinetic Typography & ScrollTrigger Scrollytelling, Power Line Anchored SplitText Kinetic Animation
+
+### Community 638 - "Obys Agency — Grid Scroll Physics & Difference Blend Circle Cursor"
+Cohesion: 0.50
+Nodes (3): Difference Blend Mode Elastic Circle Cursor, Grid Scroll Physics Handler, Obys Agency — Grid Scroll Physics & Difference Blend Circle Cursor
+
+### Community 639 - "Merci Michel — Howler.js Spatial Soundscape & 3D Camera Scrubbing"
+Cohesion: 0.50
+Nodes (3): 3D Camera Z-Axis Translation Scrubbing, Howler.js Spatial Soundscape Engine, Merci Michel — Howler.js Spatial Soundscape & 3D Camera Scrubbing
+
+### Community 640 - "Off Menu Design — Orbital 3D Sphere Rotational Math & Difference Cursor"
+Cohesion: 0.50
+Nodes (3): 3D Orbital Sphere Rotational Math, Difference Blend Mode Cursor Physics, Off Menu Design — Orbital 3D Sphere Rotational Math & Difference Cursor
+
+### Community 641 - "The Shift Tokyo — Real-Time Tokyo Clock & GSAP Kinetic Scroll"
+Cohesion: 0.50
+Nodes (3): GSAP Kinetic Scroll Script, Real-Time Tokyo JST Clock Widget Component, The Shift Tokyo — Real-Time Tokyo Clock & GSAP Kinetic Scroll
+
+### Community 642 - "Obys Agency — Van De Graaff Diagonal Power Line Math & Noise Shaders"
+Cohesion: 0.50
+Nodes (3): 3% SVG Noise Fragment Shader Specification, Obys Agency — Van De Graaff Diagonal Power Line Math & Noise Shaders, Van De Graaff Power Line Vector Equations
+
+### Community 643 - "Obys Agency — Grid Distortion GLSL Fragment Shader & Proximity Physics"
+Cohesion: 0.50
+Nodes (3): Grid Distortion GLSL Fragment Shader Source, Obys Agency — Grid Distortion GLSL Fragment Shader & Proximity Physics, Proximity-Based Euclidean Distance Math
+
+### Community 644 - "Locomotive Agency — 20 GLSL Shaders & Image Wave Distortion Pipeline"
+Cohesion: 0.50
+Nodes (3): GLSL Fragment Shader #01 Source Code, Intercepted Shader Pipeline Overview, Locomotive Agency — 20 GLSL Shaders & Image Wave Distortion Pipeline
+
+### Community 645 - "The Shift Tokyo — Liquid Wave GLSL Shader & Electric Coral Cursor"
+Cohesion: 0.50
+Nodes (3): Electric Coral Circle Cursor Physics, GLSL Liquid Wave Distortion Fragment Shader Source, The Shift Tokyo — Liquid Wave GLSL Shader & Electric Coral Cursor
+
+### Community 646 - "Merci Michel — Particle Bloom Fragment Shader & Vector Displacement Math"
+Cohesion: 0.50
+Nodes (3): GLSL Particle Bloom Fragment Shader Source, Merci Michel — Particle Bloom Fragment Shader & Vector Displacement Math, Pointer Proximity Vector Displacement Math
+
+### Community 647 - "Resn — 6 GLSL Fragment Shaders & Particle Repulsion Vector Math"
+Cohesion: 0.50
+Nodes (3): GLSL Biological Particle Fragment Shader Source, Pointer Radial Particle Repulsion Math, Resn — 6 GLSL Fragment Shaders & Particle Repulsion Vector Math
+
+### Community 648 - "Unleashing Best — WebGL Grain Particles & Circular Progress Ring Cursor"
+Cohesion: 0.50
+Nodes (3): Circular Progress Ring Custom Cursor Physics, Unleashing Best — WebGL Grain Particles & Circular Progress Ring Cursor, WebGL Dynamic Grain & Color Blending Shader
+
+### Community 649 - "Ashley Brooke — CSS Lab Color-Mix, Swiper 12 & Dynamic Card Scale Shaders"
+Cohesion: 0.50
+Nodes (3): Ashley Brooke — CSS Lab Color-Mix, Swiper 12 & Dynamic Card Scale Shaders, Dynamic 3D Hover Scale Physics & Cursor Matrix, Swiper 12 Touch Carousel Math
+
+### Community 650 - "Champions 4 Good — Card Swipe Rotational Torque & Font Hydration Gates"
+Cohesion: 0.50
+Nodes (3): Champions 4 Good — Card Swipe Rotational Torque & Font Hydration Gates, Rotational Drag Torque Mathematical Formula, Web Font Hydration Gate (`.is-ready.fonts-loaded`)
+
+### Community 651 - "Detroit Paris — HLS Stream Buffer Hydration & Cubic-Bezier Transition Math"
+Cohesion: 0.50
+Nodes (3): Cubic-Bezier Opacity & Scale Transition Curves, Detroit Paris — HLS Stream Buffer Hydration & Cubic-Bezier Transition Math, HLS Video Stream Preloading Math
+
+### Community 652 - "Good Fella — LazyCustomCursor Physics & PreloaderScrollLock Math"
+Cohesion: 0.50
+Nodes (3): Good Fella — LazyCustomCursor Physics & PreloaderScrollLock Math, LazyCustomCursor Trailing Pointer Physics, PreloaderScrollLock & Sanity Image Crop Math
+
+### Community 653 - "Jasmine Gunarto — Clip-Path Inset Transitions & Numeric Preloader Math"
+Cohesion: 0.50
+Nodes (3): CSS Clip-Path Inset Transition Formulas, Jasmine Gunarto — Clip-Path Inset Transitions & Numeric Preloader Math, Numeric Preloader Counter Math
+
+### Community 654 - "Made In Evolve — Unicorn Studio WebGL Shaders & Cellular Grid Math"
+Cohesion: 0.50
+Nodes (3): Cellular Grid Preloader Scale Math, Made In Evolve — Unicorn Studio WebGL Shaders & Cellular Grid Math, Unicorn Studio 3D Canvas Engine Setup
+
+### Community 655 - "Off Menu Design — Remi AI Video Preloader & High-Priority AVIF Pipeline"
+Cohesion: 0.50
+Nodes (3): AVIF & WebP High-Priority Preload Pipeline, Off Menu Design — Remi AI Video Preloader & High-Priority AVIF Pipeline, Remi AI Video Avatar Preloader Integration
+
+### Community 656 - "Outfit Hello Hello — Turbopack SSR & Lookbook Image Preloader Pipeline"
+Cohesion: 0.50
+Nodes (3): Lookbook Image Stack Preloader, Next.js 14+ Turbopack SSR Chunk Delivery, Outfit Hello Hello — Turbopack SSR & Lookbook Image Preloader Pipeline
+
+### Community 657 - "The Line Studio — Electric Red FPS Preloader & Multiply Acetate Effect"
+Cohesion: 0.50
+Nodes (3): Real-Time FPS Preloader Counter Mechanic, Red Acetate Multiply Overlay Effect, The Line Studio — Electric Red FPS Preloader & Multiply Acetate Effect
+
+### Community 658 - "TRIONN Agency — 16 GLSL Shaders & Dual-Ring Magnetic Cursor"
+Cohesion: 0.50
+Nodes (3): 16 WebGL GLSL Fragment Shaders Inventory, Dual-Ring Pointer Follower & Magnetic Snapping, TRIONN Agency — 16 GLSL Shaders & Dual-Ring Magnetic Cursor
+
+### Community 659 - "Truck 'n Roll — Hover Caption Metadata Layer & GPU Layer Compositing"
+Cohesion: 0.50
+Nodes (3): Hover Caption Metadata Layer Logic, Locomotive ComponentManager Controller Architecture, Truck 'n Roll — Hover Caption Metadata Layer & GPU Layer Compositing
+
+### Community 660 - "Follow Art — WebGL Intro Canvas & Rotational 3D Physics Math"
+Cohesion: 0.50
+Nodes (3): 3D Rotational Physics Torque Math, Follow Art — WebGL Intro Canvas & Rotational 3D Physics Math, WebGL Canvas Stage & Keyframe Decoration Loop
+
+### Community 661 - "Gehry Getty — 3D Hotspot Vector Projection & Basis WASM Texture Transcoding"
+Cohesion: 0.50
+Nodes (3): Basis Universal WASM Texture Compression Pipeline, Gehry Getty — 3D Hotspot Vector Projection & Basis WASM Texture Transcoding, Hotspot Vector Projection Mathematical Formulas
+
+### Community 662 - "Oryzo AI — Gaussian Splatting WASM Sorter & 3D Buffer Inventory"
+Cohesion: 0.50
+Nodes (3): Oryzo AI — Gaussian Splatting WASM Sorter & 3D Buffer Inventory, Raw 3D Mesh & Keyframe Buffer Inventory (.buf), WebGL Gaussian Splat WASM Depth Sorter
+
+### Community 663 - "Sondaven — Terrain Cloud GLSL Shader & 180° Y-Axis Form Card Flip"
+Cohesion: 0.50
+Nodes (3): 180-Degree Y-Axis Card Flip Form Submit Animation, GLSL Carpathian Terrain Cloud Fragment Shader Source, Sondaven — Terrain Cloud GLSL Shader & 180° Y-Axis Form Card Flip
+
+### Community 664 - "Tresmares Capital — Atmospheric Mountain WebGL Shader & WP Rocket"
+Cohesion: 0.50
+Nodes (3): Tresmares Capital — Atmospheric Mountain WebGL Shader & WP Rocket, WebGL Mountain Peak Atmospheric Shader, WP Rocket Script Lazy-Load Execution
+
+### Community 665 - "Obys Agency — Grids Educational Flagship Case Study & Component Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Obys Agency — Grids Educational Flagship Case Study & Component Blueprints, Platform Case Study Overview & Obys Pedigree
+
+### Community 666 - "Obys Agency — Granularity Master Code Extracts & React Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable React Component Blueprints, Code Extracts Directory Inventory, Obys Agency — Granularity Master Code Extracts & React Blueprints
+
+### Community 667 - "Locomotive Agency — Agency of the Year Case Study & 109 Component Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Locomotive Agency — Agency of the Year Case Study & 109 Component Blueprints, Platform Case Study Overview & Studio Pedigree
+
+### Community 668 - "Resn — 14-Time Agency of the Year Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Resn Pedigree, Resn — 14-Time Agency of the Year Case Study & Blueprints
+
+### Community 669 - "Ashley Brooke — Creative Consultancy Case Study & Component Architecture"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Ashley Brooke — Creative Consultancy Case Study & Component Architecture, Studio Case Study Overview
+
+### Community 670 - "Champions 4 Good — Double Play Studio Case Study & Component Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Champions 4 Good — Double Play Studio Case Study & Component Blueprints, Platform Case Study Overview & Pedigree
+
+### Community 671 - "Detroit Paris — Luxury AI Production Case Study & Component Architecture"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Detroit Paris — Luxury AI Production Case Study & Component Architecture, Platform Case Study Overview & Honors
+
+### Community 672 - "Follow Art — Vide Infra Studio Case Study & Component Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Follow Art — Vide Infra Studio Case Study & Component Blueprints, Platform Case Study Overview & Honors
+
+### Community 673 - "Gehry Getty — Resn Archival Exhibition Case Study & Component Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Gehry Getty — Resn Archival Exhibition Case Study & Component Blueprints, Platform Case Study Overview & Resn Pedigree
+
+### Community 674 - "Good Fella — Annnimate Library & Sanity CMS Case Study & Components"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Good Fella — Annnimate Library & Sanity CMS Case Study & Components, Studio Case Study Overview & Annnimate Pedigree
+
+### Community 675 - "Jasmine Gunarto — Editorial Portfolio Case Study & Component Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Jasmine Gunarto — Editorial Portfolio Case Study & Component Blueprints, Platform Case Study Overview & Studio Pedigree
+
+### Community 676 - "Made In Evolve — Italian Boutique Agency Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Made In Evolve — Italian Boutique Agency Case Study & Blueprints, Platform Case Study Overview & Studio Pedigree
+
+### Community 677 - "Merci Michel — Hall of Fame Gamified Studio Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Merci Michel — Hall of Fame Gamified Studio Case Study & Blueprints, Platform Case Study Overview & Studio Pedigree
+
+### Community 678 - "Off Menu Design — Agentic Product Studio Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Off Menu Design — Agentic Product Studio Case Study & Blueprints, Platform Case Study Overview & Studio Pedigree
+
+### Community 679 - "Oryzo AI — Lusion 3D Gaussian Splatting Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Oryzo AI — Lusion 3D Gaussian Splatting Case Study & Blueprints, Platform Case Study Overview & Lusion Pedigree
+
+### Community 680 - "Outfit Hello Hello — Streetwear Fashion Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Outfit Hello Hello — Streetwear Fashion Case Study & Blueprints, Platform Case Study Overview & Studio Pedigree
+
+### Community 681 - "Sondaven — Ukrainian Luxury Resort Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Resort Pedigree, Sondaven — Ukrainian Luxury Resort Case Study & Blueprints
+
+### Community 682 - "The Line Studio — London Animation Studio Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Studio Pedigree, The Line Studio — London Animation Studio Case Study & Blueprints
 
 ### Community 683 - "generate-brand-candidates.js"
 Cohesion: 0.33
@@ -2361,6 +3368,10 @@ Nodes (5): Access Control Issues, Authorization Checks Checklist, Common Pitfall
 Cohesion: 0.40
 Nodes (5): Common Bypasses and Attacks, Insecure File Upload, Magic Bytes Reference, Secure Upload Handling, Validation Requirements
 
+### Community 706 - "The Shift Tokyo — Japanese Creative Collective Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Studio Pedigree, The Shift Tokyo — Japanese Creative Collective Case Study & Blueprints
+
 ### Community 707 - "Unified AI OS Design System Engine: Brainstorm & Planning"
 Cohesion: 0.40
 Nodes (4): 7-Phase Execution Architecture, Approved File Structure, Summary / Key Decisions, Unified AI OS Design System Engine: Brainstorm & Planning
@@ -2368,6 +3379,10 @@ Nodes (4): 7-Phase Execution Architecture, Approved File Structure, Summary / Ke
 ### Community 708 - "ZORIXEL Brand Strategy & High-Ticket Service Offer: Discovery & Brainstorm Notes"
 Cohesion: 0.50
 Nodes (3): Domain Vocabulary & Glossary (`CONTEXT.md`), Executive Summary & Key Decisions, ZORIXEL Brand Strategy & High-Ticket Service Offer: Discovery & Brainstorm Notes
+
+### Community 709 - "Tresmares Capital — Private Equity Financial Platform Case Study"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Studio Pedigree, Tresmares Capital — Private Equity Financial Platform Case Study
 
 ### Community 710 - "🚀 Next Chat Kickoff Brief: Component Extractor Refinement & Phase 2 Sweep"
 Cohesion: 0.40
@@ -2404,6 +3419,58 @@ Nodes (4): Check When Done, Implementation, Notes, Scope Limits
 ### Community 718 - "28-spec-persistence-download.md"
 Cohesion: 0.40
 Nodes (4): Check When Done, Implementation, Notes, Scope Limits
+
+### Community 719 - "TRIONN Agency — AI Digital Studio Case Study & Blueprints"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Studio Pedigree, TRIONN Agency — AI Digital Studio Case Study & Blueprints
+
+### Community 720 - "Truck 'n Roll — Industrial Logistics Carrier Platform Case Study"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Studio Pedigree, Truck 'n Roll — Industrial Logistics Carrier Platform Case Study
+
+### Community 721 - "Unleashing Best — Victor Work Executive Masterclass Case Study"
+Cohesion: 0.50
+Nodes (3): 4 Reusable Code Blueprints, Platform Case Study Overview & Studio Pedigree, Unleashing Best — Victor Work Executive Masterclass Case Study
+
+### Community 722 - "Ashley Brooke — Editorial Usability & Technical Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Ashley Brooke — Editorial Usability & Technical Evaluation Rubric, Multi-Axis Gallery Scoring Matrix, Technical Quality & Accessibility Safeguards
+
+### Community 723 - "Detroit Paris — Awwwards Site of the Day (SOTD) Scoring Rubric"
+Cohesion: 0.50
+Nodes (3): Awwwards SOTD Evaluation Breakdown, Detroit Paris — Awwwards Site of the Day (SOTD) Scoring Rubric, Technical Performance & Video Streaming Safeguards
+
+### Community 724 - "Follow Art — Triple Award Scoring Rubric (Awwwards SOTD, FWA, CSSDA)"
+Cohesion: 0.50
+Nodes (3): Follow Art — Triple Award Scoring Rubric (Awwwards SOTD, FWA, CSSDA), Technical Performance & Zero-CLS Safeguards, Triple Award Evaluation Breakdown
+
+### Community 725 - "Gehry Getty — Webby, FWA & Awwwards SOTD Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Gehry Getty — Webby, FWA & Awwwards SOTD Evaluation Rubric, Multi-Award Evaluation Breakdown, Technical Performance & VRAM Safeguards
+
+### Community 726 - "Good Fella — Awwwards SOTD & Developer Award Scoring Rubric"
+Cohesion: 0.50
+Nodes (3): Awwwards SOTD Evaluation Breakdown, Good Fella — Awwwards SOTD & Developer Award Scoring Rubric, Technical Performance & Privacy Telemetry
+
+### Community 727 - "Made In Evolve — Digital Boutique Agency Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Digital Boutique Evaluation Matrix, Made In Evolve — Digital Boutique Agency Evaluation Rubric, Technical Performance & Privacy Safeguards
+
+### Community 728 - "Off Menu Design — Framer Showcase & Awwwards Nominee Rubric"
+Cohesion: 0.50
+Nodes (3): Framer Showcase Evaluation Matrix, Off Menu Design — Framer Showcase & Awwwards Nominee Rubric, Safari Polyfill & Plausible Analytics Safeguards
+
+### Community 729 - "Outfit Hello Hello — Awwwards SOTD Fashion Showcase Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Next.js Responsive Image & Privacy Consent Safeguards, Outfit Hello Hello — Awwwards SOTD Fashion Showcase Evaluation Rubric, SOTD Fashion Evaluation Matrix
+
+### Community 730 - "Sondaven — Awwwards Luxury Hospitality Web Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Input Field Regex Filtering & Memory Cleanup Safeguards, Luxury Hospitality Evaluation Matrix, Sondaven — Awwwards Luxury Hospitality Web Evaluation Rubric
+
+### Community 731 - "The Line Studio — BAFTA Animation Studio Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Animation Studio Evaluation Matrix, Nuxt.js Payload Cache & Video Lazy-Load Safeguards, The Line Studio — BAFTA Animation Studio Evaluation Rubric
 
 ### Community 732 - "security_check.py"
 Cohesion: 0.70
@@ -2444,6 +3511,10 @@ Nodes (4): Master RootLayout Standards, Multi-Page Sitemap Specification, Phase 
 ### Community 741 - "Discovery Capture: Ingestion of `jsmastery-pro/skills` & `mattpocock/skills`"
 Cohesion: 0.50
 Nodes (3): Core Strategy, Discovery Capture: Ingestion of `jsmastery-pro/skills` & `mattpocock/skills`, Overview & Objectives
+
+### Community 743 - "The Shift Tokyo — Awwwards Japanese Experimental Agency Rubric"
+Cohesion: 0.50
+Nodes (3): Bilingual EN/JA Hydration & Barba Transition Safeguards, Japanese Experimental Agency Evaluation Matrix, The Shift Tokyo — Awwwards Japanese Experimental Agency Rubric
 
 ### Community 744 - "Codegraph API Reference"
 Cohesion: 0.50
@@ -2525,6 +3596,162 @@ Nodes (3): Check When Done, Implementation, Scope Limits
 Cohesion: 0.50
 Nodes (3): Sample 1, Sample 2, Voice
 
+### Community 764 - "Tresmares Capital — Awwwards SOTD Institutional Financial Rubric"
+Cohesion: 0.50
+Nodes (3): Institutional Financial Evaluation Matrix, Tresmares Capital — Awwwards SOTD Institutional Financial Rubric, WPML Hreflang & CookieYes Consent Safeguards
+
+### Community 765 - "Truck 'n Roll — Awwwards SOTD Industrial Logistics Rubric"
+Cohesion: 0.50
+Nodes (3): Industrial Logistics Evaluation Matrix, Swup Container Hydration & Module Preload Safeguards, Truck 'n Roll — Awwwards SOTD Industrial Logistics Rubric
+
+### Community 766 - "Active Theory — Awwwards Judging Standards & Performance Criteria"
+Cohesion: 0.50
+Nodes (3): Active Theory — Awwwards Judging Standards & Performance Criteria, Awwwards 4-Category Weighted Evaluation, Technical Performance Safeguards
+
+### Community 767 - "Obys Agency — Awwwards SOTY & SOTM Master Rubric Benchmark"
+Cohesion: 0.50
+Nodes (3): Master Benchmark Scoring Matrix, Obys Agency — Awwwards SOTY & SOTM Master Rubric Benchmark, Technical Performance & Grid Discipline Safeguards
+
+### Community 768 - "Locomotive Agency — Awwwards Agency & Site of the Year Rubric"
+Cohesion: 0.50
+Nodes (3): Awwwards Agency of the Year Evaluation Matrix, Locomotive Agency — Awwwards Agency & Site of the Year Rubric, Open-Source & Developer Excellence Safeguards
+
+### Community 769 - "Merci Michel — Awwwards SOTY Hall of Fame Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Gamified WebGL 60FPS Optimization Safeguards, Merci Michel — Awwwards SOTY Hall of Fame Evaluation Rubric, SOTY Evaluation Matrix
+
+### Community 770 - "Oryzo AI — Awwwards WebGL Masterclass & Developer Rubric"
+Cohesion: 0.50
+Nodes (3): Mobile Viewport Height Lock & PBR Map Safeguards, Oryzo AI — Awwwards WebGL Masterclass & Developer Rubric, WebGL Masterclass Evaluation Matrix
+
+### Community 771 - "Resn — Awwwards Agency of the Year & SOTY Rubric"
+Cohesion: 0.50
+Nodes (3): Agency of the Year Evaluation Matrix, Biological WebGL Asset Hydration Safeguards, Resn — Awwwards Agency of the Year & SOTY Rubric
+
+### Community 772 - "Unleashing Best — Orpetron Site of the Month Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Executive Masterclass Evaluation Matrix, Nuxt State Hydration & WebGL Loop Pause Safeguards, Unleashing Best — Orpetron Site of the Month Evaluation Rubric
+
+### Community 773 - "Champions 4 Good — Awwwards Developer Award Scoring Rubric"
+Cohesion: 0.50
+Nodes (3): Champions 4 Good — Awwwards Developer Award Scoring Rubric, Developer Award Evaluation Breakdown, Technical Performance & Privacy Safeguards
+
+### Community 774 - "Obys Agency — SOTM Technical Execution & Performance Evaluation Rubric"
+Cohesion: 0.50
+Nodes (3): Obys Agency — SOTM Technical Execution & Performance Evaluation Rubric, Session Storage Preloading & Memory Safeguards, Technical Execution Scorecard
+
+### Community 775 - "Jasmine Gunarto — Awwwards SOTD & Developer Award Scoring Rubric"
+Cohesion: 0.50
+Nodes (3): Awwwards SOTD Evaluation Breakdown, Jasmine Gunarto — Awwwards SOTD & Developer Award Scoring Rubric, Technical Performance & Asset Safeguards
+
+### Community 776 - "TRIONN Agency — Awwwards AI Digital Studio Rubric"
+Cohesion: 0.50
+Nodes (3): AI Digital Studio Evaluation Matrix, Component Tree Hydration & Shader Cleanup Safeguards, TRIONN Agency — Awwwards AI Digital Studio Rubric
+
+### Community 777 - "Active Theory — Digital Hospitality, UX Psychology & Spatial Choreography"
+Cohesion: 0.50
+Nodes (3): Active Theory — Digital Hospitality, UX Psychology & Spatial Choreography, Digital Hospitality & Non-Intrusive Frictionless CTAs, UX Psychology & Spatial Orientation Mechanics
+
+### Community 778 - "Ashley Brooke — Tactile Drafting Psychology & High-Trust Conversion Choreography"
+Cohesion: 0.50
+Nodes (3): Architectural Grid Line Psychology & Authority, Ashley Brooke — Tactile Drafting Psychology & High-Trust Conversion Choreography, Frictionless Contact Flow & Action Positioning
+
+### Community 779 - "Detroit Paris — Haute Couture Exclusivity Psychology & Video Choreography"
+Cohesion: 0.50
+Nodes (3): Detroit Paris — Haute Couture Exclusivity Psychology & Video Choreography, Haute Couture Exclusivity & Monochromatic Restraint, Instant Video Feedback & Direct Contact UX
+
+### Community 780 - "Follow Art — Contemporary Curator Psychology & Digital Card Identity"
+Cohesion: 0.50
+Nodes (3): Algorithm-Independent Framing Psychology, Follow Art — Contemporary Curator Psychology & Digital Card Identity, "The Card" Mobile Wallet Infrastructure & Exhibition Networking
+
+### Community 781 - "Gehry Getty — Archival Authority & Guided Audio Exhibition Psychology"
+Cohesion: 0.50
+Nodes (3): Gehry Getty — Archival Authority & Guided Audio Exhibition Psychology, Guided Audio Narration & Camera Panning Psychology, Institutional Archival Trust & Deconstructivist Storytelling
+
+### Community 782 - "Made In Evolve — Developer-Born Craft & Frictionless Conversion UX"
+Cohesion: 0.50
+Nodes (3): Developer-Born Craft Authority Framing, Made In Evolve — Developer-Born Craft & Frictionless Conversion UX, Neon Lime Micro-Interactions & Contact Drawer UX
+
+### Community 783 - "Outfit Hello Hello — Editorial Streetwear Authority & Micro-Pill Button UX"
+Cohesion: 0.50
+Nodes (3): Editorial Streetwear Authority Framing, Outfit Hello Hello — Editorial Streetwear Authority & Micro-Pill Button UX, Tactile Micro-Pill Button & Color Inversion Micro-Interactions
+
+### Community 784 - "Sondaven — Investment Resort Hospitality & Seasonal SVG Path UX"
+Cohesion: 0.50
+Nodes (3): Investment Resort Authority Framing, Seasonal Summer/Winter SVG Path Toggle & Equalizer UX, Sondaven — Investment Resort Hospitality & Seasonal SVG Path UX
+
+### Community 785 - "Tresmares Capital — Pico Tres Mountain Metaphor & Investor Portal UX"
+Cohesion: 0.50
+Nodes (3): High-Trust Investor Portal & Button Underline Offset UX, Pico Tres Mountain Summit Authority Framing, Tresmares Capital — Pico Tres Mountain Metaphor & Investor Portal UX
+
+### Community 786 - "Unleashing Best — Victor Work Executive Authority & Sound UX"
+Cohesion: 0.50
+Nodes (3): Soft Contrast & Ambient Audio Ramp UX, Unleashing Best — Victor Work Executive Authority & Sound UX, Victor Work Executive Leadership Framing
+
+### Community 787 - "Good Fella — Content Architecture Psychology & Tab Focus UX"
+Cohesion: 0.50
+Nodes (3): Good Fella — Content Architecture Psychology & Tab Focus UX, Open-Source Frontend Authority Framing, Tab Title Attention Capture & Modal Overlay UX
+
+### Community 788 - "Obys Agency — Educational Authority Psychology & Grid Freedom UX"
+Cohesion: 0.50
+Nodes (3): Educational Authority & Scaffolding Framing Psychology, Frictionless Learning UX & Grid Overlay Discovery, Obys Agency — Educational Authority Psychology & Grid Freedom UX
+
+### Community 789 - "Obys Agency — Interactive Grid Slider & Chapter Counter UX Psychology"
+Cohesion: 0.50
+Nodes (3): Dynamic Chapter Indicator & Fullscreen Drawer UX, Interactive Grid Slider Manipulation Mechanics, Obys Agency — Interactive Grid Slider & Chapter Counter UX Psychology
+
+### Community 790 - "Jasmine Gunarto — Live Location Header & High-Fashion Exclusivity UX"
+Cohesion: 0.50
+Nodes (3): Embla Popup Slider Carousel Modal UX, Jasmine Gunarto — Live Location Header & High-Fashion Exclusivity UX, Real-Time Location Header & Global Presence Framing
+
+### Community 791 - "Locomotive Agency — Open-Source Tool Authority & HUD Language UX"
+Cohesion: 0.50
+Nodes (3): HUD Language Switcher & Percentage Preloader Curtain UX, Locomotive Agency — Open-Source Tool Authority & HUD Language UX, Open-Source Ecosystem Tool Authority Framing
+
+### Community 792 - "Champions 4 Good — Membership Tier Psychology & Gamified Network UX"
+Cohesion: 0.50
+Nodes (3): Champions 4 Good — Membership Tier Psychology & Gamified Network UX, Multi-Tier Membership Framing Psychology, Tactile Swipe Physics & Interactive Engagement
+
+### Community 793 - "Merci Michel — Creativity Drives Technology & Gamified Audio UX"
+Cohesion: 0.50
+Nodes (3): "Creativity Drives Technology" Narrative Framing, Interactive Spatial Soundscape & 3D Tilt Micro-Interactions, Merci Michel — Creativity Drives Technology & Gamified Audio UX
+
+### Community 794 - "Off Menu Design — Remi AI Video Avatar & Orbital Carousel UX Psychology"
+Cohesion: 0.50
+Nodes (3): 3D Orbital Carousel Discovery UX, Off Menu Design — Remi AI Video Avatar & Orbital Carousel UX Psychology, Remi AI Video Avatar Engagement Psychology
+
+### Community 795 - "Oryzo AI — Satirical Product Storytelling & Warning Modal UX"
+Cohesion: 0.50
+Nodes (3): Disclaimer Modal & Interactive Prompt Widget UX, Oryzo AI — Satirical Product Storytelling & Warning Modal UX, Satirical Product Storytelling Copywriting
+
+### Community 796 - "Resn — Interactive Biological Storytelling & Velocity Audio UX"
+Cohesion: 0.50
+Nodes (3): Biological Biotech Narrative Framing, Resn — Interactive Biological Storytelling & Velocity Audio UX, Scroll-Velocity Modulated Audio Feedback
+
+### Community 797 - "The Line Studio — Animation Craft Authority & FPS Preloader UX"
+Cohesion: 0.50
+Nodes (3): Animation Craft FPS Preloader Framing, Card Tilt Video Modal Reveals & Acetate Overlay UX, The Line Studio — Animation Craft Authority & FPS Preloader UX
+
+### Community 798 - "The Shift Tokyo — Tokyo Time Clock Anchor & Electric Coral UX"
+Cohesion: 0.50
+Nodes (3): Electric Coral Cursor Expansion & Numeric Navigation UX, The Shift Tokyo — Tokyo Time Clock Anchor & Electric Coral UX, Tokyo Time Clock Header Anchor Psychology
+
+### Community 799 - "TRIONN Agency — AI Studio Authority & Web Audio UX"
+Cohesion: 0.50
+Nodes (3): AI Digital Studio Engineering Scale Authority Framing, TRIONN Agency — AI Studio Authority & Web Audio UX, Web Audio Feedback & Dual-Ring Magnetic Cursor UX
+
+### Community 800 - "Awwwards Research Vault Precision Sub-Category Skill Routing Map"
+Cohesion: 0.50
+Nodes (3): Awwwards Research Vault Precision Sub-Category Skill Routing Map, Master Phase-to-Sub-Category Precision Matrix, Sub-Vault Directory Quick Index
+
+### Community 801 - "Awwwards Raw Research Ingestion Status Tracker (Wave 1 Complete)"
+Cohesion: 0.50
+Nodes (3): Awwwards Raw Research Ingestion Status Tracker (Wave 1 Complete), Extraction Status Matrix, Pending Waves Tracker (Deferred to Subsequent Sessions)
+
+### Community 802 - "Truck 'n Roll — Concert Tour Logistics Authority & Modal Video UX"
+Cohesion: 0.50
+Nodes (3): Concert Tour Logistics Authority Framing, Modal Video Lightbox & reCAPTCHA Recruitment UX, Truck 'n Roll — Concert Tour Logistics Authority & Modal Video UX
+
 ### Community 864 - "hallmark_runner.py"
 Cohesion: 0.83
 Nodes (3): main(), print_info(), scan_file_for_slop()
@@ -2555,27 +3782,27 @@ Nodes (3): Convert a PowerPoint, Create a New Presentation, Usage
 
 ### Community 1119 - "ZORIXEL AIOS Hot Cache & Handoff State"
 Cohesion: 0.33
-Nodes (5): Active Context & Strategic Baseline, Immediate Next Actions for Next Session, 📌 Master Workflows Pending Deep-Dive Queue (All-Skill Integration), Verified Pre-Flight Health Scripts, ZORIXEL AIOS Hot Cache & Handoff State
+Nodes (5): Active Context & Strategic Baseline, Immediate Next Actions for Next Session, 📌 Master Workflows Queue Status, Verified Pre-Flight Health Scripts, ZORIXEL AIOS Hot Cache & Handoff State
 
 ## Knowledge Gaps
-- **4953 isolated node(s):** `idea-refine.sh script`, `{ chromium }`, `fs`, `path`, `OUTPUT_FILE` (+4948 more)
+- **6024 isolated node(s):** `idea-refine.sh script`, `{ chromium }`, `fs`, `path`, `OUTPUT_FILE` (+6019 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **40 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **77 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Anti-patterns — the named tells` connect `Minor (small taste issues)` to `hallmark/SKILL.md`, `Microinteraction tells`, `Major (looks AI-generated)`, `Critical (ships as slop)`?**
-  _High betweenness centrality (0.003) - this node is a cross-community bridge._
-- **Why does `Hallmark` connect `Hallmark` to `hallmark/SKILL.md`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `Microinteractions` connect `Recipes` to `hallmark/SKILL.md`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `Interaction and states` connect `Interaction and states` to `hallmark/SKILL.md`?**
   _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **What connects `idea-refine.sh script`, `{ chromium }`, `fs` to the rest of the system?**
-  _4953 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _6024 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `FILLER AND HEDGING` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `Step-by-Step 8-Phase Pricing Protocol` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `ZORIXEL AIOS Session Post-Mortem & System Evolution Report` be split into smaller, more focused modules?**
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._
-- **Should `component-cookbook.md` be split into smaller, more focused modules?**
-  _Cohesion score 0.020618556701030927 - nodes in this community are weakly interconnected._

@@ -1,11 +1,18 @@
 ---
 title: 'Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v5.0 Awwwards Vault Edition)'
 domain: skill
-summary: Comprehensive reference for motion engineering, GSAP timelines, Lenis smooth scrolling, WebGL shaders, GPGPU particles, and GSAP Flip page transitions synthesized from Awwwards SOTD/SOTY winners.
+summary: Comprehensive reference for motion engineering, GSAP timelines, Lenis smooth scrolling, WebGL shaders, GPGPU particles,
+  and GSAP Flip page transitions synthesized from Awwwards SOTD/SOTY winners.
 critical_directives:
 - Follow document guidance without bypassing established safeguards.
 - Synchronize Lenis smooth scroll with `gsap.ticker` to prevent main-thread jitter.
 - Enforce 44% Retina shader reduction rule by capping pixel ratio to `Math.min(window.devicePixelRatio, 1.5)`.
+section_outline:
+- Motion Dialing Matrix (Dial 0 to 10)
+- Lenis Smooth Momentum Scroll & RAF Sync
+- Native CSS View Timeline Animation Offloading
+- Master Awwwards Motion & WebGL Protocols
+- 1. Trionn Unified `explodeAmt` State Engine
 read_triggers:
 - When working on skill in .agents/skills/website-design-engine/references/04-motion-and-shaders.md
 - When reading context for Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders
@@ -15,7 +22,7 @@ tags:
 - awwwards
 - webgl
 - gsap
-updated: '2026-08-10'
+updated: '2026-08-08'
 ---
 
 # Phase 4 Reference: Motion Engineering, Lenis, GSAP & WebGL Shaders (v5.0 Awwwards Vault Edition)

@@ -1,17 +1,19 @@
 ---
-name: domain-skills
-description: Catalog of site-specific domain skills and SOP selector maps (e.g. GitHub, LinkedIn, Notion, Vercel, Stripe).
 title: Domain Skills Catalog
 domain: skill
 summary: Catalog of site-specific domain skills and SOP selector maps for automated browser navigation.
 critical_directives:
 - Maintain SOP.md files inside domain slug directories.
+section_outline:
+- Domain Skills Catalog
 read_triggers:
 - When working on skill in .agents/skills/domain-skills/
 tags:
 - skill
 - SKILL
-updated: '2026-08-10'
+updated: '2026-08-08'
+name: domain-skills
+description: Catalog of site-specific domain skills and SOP selector maps (e.g. GitHub, LinkedIn, Notion, Vercel, Stripe).
 ---
 
 # Domain Skills Catalog

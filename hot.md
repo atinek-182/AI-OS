@@ -73,3 +73,55 @@
   - _Skills_: `marketing` (50+ Corey Haines skills) + `grand-slam-offer` + `coldoutbound` + `carousel-copy` + `carousel-render` + `interactive-operator-guide-generator`.
 - **Pending Session 6**: **MW06 — Self-Evolving AIOS Infrastructure & Skill Evolution Loop**
   - _Skills_: `skill-workflow-evolver` + `loop-engine` + `skill-builder` + `ingest-skills` + `os-audit` + `grill-me` + `roast` + `improve-system`.
+
+---
+
+## Session Handoff Milestone (2026-08-12 — 175+ Component Vault Ingestion & Studio Engine)
+
+- **Completed Ingestion Sprint (175 Component Repositories)**:
+  - Unzipped 33 archives and cloned 118 GitHub repos in parallel using `concurrent.futures.ThreadPoolExecutor(max_workers=12)` (0 failures, 175 component repos total in `C:\Users\HP\Downloads\Components`).
+  - Reorganized all 175 folders into 9 dedicated functional taxonomy directories (`01-text-and-typography` through `09-utilities-and-miscellaneous`).
+  - Generated [COMPONENTS_TAXONOMY_INDEX.md](file:///C:/Users/HP/Downloads/Components/COMPONENTS_TAXONOMY_INDEX.md) and [component_manifest.json](file:///C:/Users/HP/Downloads/Components/component_manifest.json).
+
+- **Codrops Studio Gallery & AI Selection Pipeline Specs**:
+  - **Q1 Launch Mode**: Option A (New tab launch `target="_blank"`).
+  - **Q2 Thumbnails**: Option A (Automated Playwright PNG screenshots).
+  - **Q3 AI Selection**: Option C (Visual `#001` - `#175` numbers + 1-click `[Copy for AI]` prompt buttons).
+  - **Q4 Multi-Demo**: Option B (Default `index.html` launch + Codrops internal top header nav).
+  - **Q5 Component Adaptation**: Option A (Parametric React `.tsx` components with typed props).
+  - **Security Baseline**: Bound strictly to `127.0.0.1:8080` (loopback interface) with directory traversal protection.
+
+- **Persistent AIOS Skill Installed**:
+  - [.agents/skills/component-vault-engine/SKILL.md](file:///d:/AI-OS/.agents/skills/component-vault-engine/SKILL.md) (Auto-triggers on any chat bootup when working on the component gallery or adapting vault components).
+  - [references/component-adaptation-rules.md](file:///d:/AI-OS/references/component-adaptation-rules.md) (WebGL GPU memory cleanup & CSS Modules scoping).
+  - [scripts/aios_component_vault_health_check.py](file:///d:/AI-OS/scripts/aios_component_vault_health_check.py) (**PASS 100%**).
+  - Synchronized Rule 1.43 and Rule 1.44 into system prompts [AGENTS.md](file:///d:/AI-OS/AGENTS.md) and [GEMINI.md](file:///d:/AI-OS/GEMINI.md).
+
+- **How to Start Next Session**:
+  - Open a fresh chat session and type:
+    > *"Hey, let's create the Component Studio Dashboard gallery for my 175 components now."*
+
+---
+
+## Session Handoff Milestone (2026-08-12 — Component Repair Sweep & System Prompt Rules 1.45–1.52 Synchronization)
+
+- **Completed Component Repair Sweep (`01-text-and-typography` COMP-020 through COMP-027)**:
+  - **COMP-020 (`3d-text-circle-animation-codrops`)**: Clean native Canvas2D + Three.js module setup with explicit ES imports.
+  - **COMP-021 (`codrops-kinetic-typo`)**: Replaced broken CDN CJS bundle with a native 35-line `createBMFontGeometry` helper building `THREE.BufferGeometry` quads directly from BMFont JSON, plus MSDF `smoothstep` fallback.
+  - **COMP-022 (`codrops-text-demo`)**: Transpiled TypeScript source files (`main.ts`, `Commons.ts`, `WebGLText.ts`, `PostProcessing.ts`) to standard ES6 `.js` modules, updated importmaps, relative font paths (`./public/fonts/...`), and removed external `tympanus.net` adpack scripts.
+  - **COMP-023 (`codrops-tutorial-text-animation`)**: Configured GSAP & ScrollTrigger `+esm` importmaps, fixed relative image thumbnail paths (`./public/tesla.webp`), and verified dual-wave text animation.
+  - **COMP-024 (`containeranimation-splittext`)**: Unnested folder, built a 20-line native `SplitText` DOM polyfill in `index.html` bypassing CORS-blocked CodePen scripts.
+  - **COMP-025 (`living-words`)**: Unnested folder, replaced Google Drive thumbnail links with clean CSS gradient background, verified 3D perspective poem typography cube.
+  - **COMP-026 (`rolling-text`)**: Unnested folder, implemented native `SplitText` class polyfill, verified 3D rolling text cylinder animation.
+  - **COMP-027 (`text-trail-effect-on-mousemove`)**: Unnested folder, fixed typo CDN URL (`unpkg.co` -> `cdnjs`), verified mousemove GSAP text trail physics.
+
+- **System Prompts & Pre-Flight Scripts**:
+  - Formulated Rules 1.45 through 1.52 into `references/GLOBAL_ERROR_PREVENTION_RULES.md`.
+  - Executed `python scripts/sync_global_rules.py` — synchronized system prompts `AGENTS.md` and `GEMINI.md`.
+  - Created and verified `scripts/aios_component_vault_health_check.py`.
+  - Completed `git commit` and `git push origin main`.
+
+- **How to Resume Work in Next Session**:
+  - Open a fresh chat session and type:
+    > *"Let's continue repairing the next batch of components in 01-text-and-typography or launch the Component Studio Gallery!"*
+

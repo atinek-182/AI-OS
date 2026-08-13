@@ -1,7 +1,8 @@
 ---
 title: WorkMon Workflows 1 & 2 Unified Engine Master Specification
 domain: architecture
-summary: Complete technical specification, telemetry topology, n8n hub integration, auto-evolution rules, and SOPs for WorkMon Workflows 1 & 2.
+summary: Complete technical specification, telemetry topology, n8n hub integration, auto-evolution rules, and SOPs for WorkMon
+  Workflows 1 & 2.
 critical_directives:
 - Keep local Python watchdog sensor decoupled from n8n network availability.
 - Append all newly caught task failure patterns to references/GLOBAL_ERROR_PREVENTION_RULES.md.
@@ -21,7 +22,7 @@ tags:
 - workmon
 - n8n
 - monitoring
-updated: '2026-08-10'
+updated: '2026-08-08'
 ---
 
 # WorkMon Workflows 1 & 2 Unified Engine Master Specification

@@ -1,26 +1,32 @@
 ---
-title: Sub-Vault 04 — WebGL, Three.js & Fragment Shaders Index
-domain: index
-summary: Directory index for sub-vault 04 covering IYO 1.6M GPGPU particles, PX PUSH CRT monitor shaders, The Sleepers fake volumetric fog, and Cerebrium network pulse shaders.
+title: 04 Webgl Threejs Fragment Shaders Index
+domain: reference
+summary: Master index for 04-webgl-threejs-fragment-shaders organizing 28 reference files into 4 sub-category directories.
 critical_directives:
-- Maintain explicit read_triggers for all child files in this directory.
+- Enforce zero-emoji mandate across all vault reference files.
+section_outline:
+- 04 Webgl Threejs Fragment Shaders Index
+- Sub-Category Catalog
 read_triggers:
-- When working on architecture in references/awwwards-research-vault/04-webgl-threejs-fragment-shaders
-- When reading context for Sub-Vault 04 — WebGL, Three.js & Fragment Shaders Index
+- When working on reference in 04-webgl-threejs-fragment-shaders
 tags:
-- index
-- webgl
-- threejs
-- shaders
+- reference
 - awwwards
+- index
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 04 — WebGL, Three.js & Fragment Shaders Index
+# 04 Webgl Threejs Fragment Shaders Index
 
-## Cataloged Files
+This sub-vault organizes atomic reference files into crisp, isolated sub-category directories with fresh sequential file numbering for pinpoint skill retrieval.
 
-- [iyo-gpgpu-particle-simulation.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/iyo-gpgpu-particle-simulation.md): 1.6M GPGPU particle physics simulation, Chladni sound frequency shader math, retopologized CAD Draco compression, and 44% Retina shader workload reduction rule.
-- [px-push-crt-monitor-shader.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/px-push-crt-monitor-shader.md): CRT convex monitor screen simulation, SVGLoader extruded chrome logo with scroll velocity rotation, `registerPageTask()` WebGL readiness gate, and CSS radial-gradient punch holes.
-- [the-sleepers-atmospheric-webgl.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/the-sleepers-atmospheric-webgl.md): Threshold swirling post-processing transition shader, `onBeforeCompile` fake volumetric fog, and Blender inverted hull mesh outlines.
-- [cerebrium-threejs-pulse-shader.md](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/cerebrium-threejs-pulse-shader.md): Static mesh UV network pulse shader, interactive Fresnel forcefield energy shield, and TSL/WebGPU compilation latency analysis.
+---
+
+## Sub-Category Catalog
+
+| Sub-Category Directory | Title & Focus | Specifications & File Count |
+| :--- | :--- | :--- |
+| **[01-wave-and-distortion-shaders/](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/01-wave-and-distortion-shaders/INDEX.md)** | 01 Wave And Distortion Shaders | 4 reference files |
+| **[02-particles-and-gpgpu/](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/02-particles-and-gpgpu/INDEX.md)** | 02 Particles And Gpgpu | 5 reference files |
+| **[03-crt-and-screen-effects/](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/03-crt-and-screen-effects/INDEX.md)** | 03 Crt And Screen Effects | 12 reference files |
+| **[04-3d-mesh-and-volumetrics/](file:///d:/AI-OS/references/awwwards-research-vault/04-webgl-threejs-fragment-shaders/04-3d-mesh-and-volumetrics/INDEX.md)** | 04 3D Mesh And Volumetrics | 7 reference files |

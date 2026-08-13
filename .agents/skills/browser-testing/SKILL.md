@@ -1,6 +1,17 @@
 ---
-name: browser-testing
-description: Guidelines and utility standards for web browser testing, page interaction, and visual QA in AI-OS using Playwright and aios_browser_engine.py.
+title: AI-OS Browser Automation & Testing Standard
+domain: skill
+summary: This skill establishes the standard execution protocol for browser automation, visual QA, and form interaction across
+  AI-OS using Playwright and `scripts/aios_browser_engine.py`. When interacting with React, Vue, or Ember state-managed forms,
+  standar
+critical_directives:
+- Follow document guidance without bypassing established safeguards.
+section_outline:
+- AI-OS Browser Automation & Testing Standard
+- Core Execution Guidelines
+- 1. Framework-Aware Input Filling
+- Generate pure JS snippet and execute inside Playwright page context
+- 2. Domain Skill Resolution
 read_triggers:
 - When executing browser automation or visual regression testing in AI-OS
 tags:
@@ -8,7 +19,10 @@ tags:
 - testing
 - playwright
 - aios_browser_engine
-updated: '2026-08-09'
+updated: '2026-08-08'
+name: browser-testing
+description: Guidelines and utility standards for web browser testing, page interaction, and visual QA in AI-OS using Playwright
+  and aios_browser_engine.py.
 ---
 
 # AI-OS Browser Automation & Testing Standard

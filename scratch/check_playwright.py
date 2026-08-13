@@ -1,19 +1,19 @@
-import subprocess
 import shutil
+import os
 
-print("Node:", shutil.which("node"))
-print("Python:", shutil.which("python"))
-
-# Check playwright in python
+print("Python Playwright import test...")
 try:
     import playwright
-    print("Playwright Python: INSTALLED")
+    print("[SUCCESS] Python playwright module is available!")
 except ImportError:
-    print("Playwright Python: NOT installed")
+    print("[INFO] Python playwright module not installed.")
 
-# Check node playwright
-try:
-    res = subprocess.run(["node", "-e", "console.log(require('playwright') ? 'Playwright Node INSTALLED' : 'NONE')"], capture_output=True, text=True, cwd=r"d:\AI-OS")
-    print("Node Playwright check:", res.stdout.strip() or res.stderr.strip())
-except Exception as e:
-    print("Node Playwright error:", e)
+print("Checking global npm node_modules...")
+global_npm = r"C:\Users\HP\AppData\Roaming\npm\node_modules"
+if os.path.exists(global_npm):
+    print("Found global npm packages:", os.listdir(global_npm))
+
+print("Checking root AI-OS node_modules...")
+aios_npm = r"d:\AI-OS\node_modules"
+if os.path.exists(aios_npm):
+    print("Found aios node_modules:", os.listdir(aios_npm)[:10])

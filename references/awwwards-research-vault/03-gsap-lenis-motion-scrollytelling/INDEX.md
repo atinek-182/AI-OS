@@ -1,25 +1,32 @@
 ---
-title: Sub-Vault 03 — GSAP, Lenis Motion & Scrollytelling Index
-domain: index
-summary: Directory index for sub-vault 03 covering Trionn master motion pipeline, ZERO 3D camera spline narrative engine, and MERSI GSAP Flip page transitions & clip-path sliders.
+title: 03 Gsap Lenis Motion Scrollytelling Index
+domain: reference
+summary: Master index for 03-gsap-lenis-motion-scrollytelling organizing 27 reference files into 4 sub-category directories.
 critical_directives:
-- Maintain explicit read_triggers for all child files in this directory.
+- Enforce zero-emoji mandate across all vault reference files.
+section_outline:
+- 03 Gsap Lenis Motion Scrollytelling Index
+- Sub-Category Catalog
 read_triggers:
-- When working on architecture in references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling
-- When reading context for Sub-Vault 03 — GSAP, Lenis Motion & Scrollytelling Index
+- When working on reference in 03-gsap-lenis-motion-scrollytelling
 tags:
+- reference
+- awwwards
 - index
-- gsap
-- lenis
-- motion
-- scrollytelling
 updated: '2026-08-10'
 ---
 
-# Sub-Vault 03 — GSAP, Lenis Motion & Scrollytelling Index
+# 03 Gsap Lenis Motion Scrollytelling Index
 
-## Cataloged Files
+This sub-vault organizes atomic reference files into crisp, isolated sub-category directories with fresh sequential file numbering for pinpoint skill retrieval.
 
-- [01-trionn-master-motion-and-web-audio-pipeline.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/01-trionn-master-motion-and-web-audio-pipeline.md): Unified `explodeAmt` state engine, `BlurTextReveal` SplitText component, raycasted 3D magnetic hover, Web Audio API sound synthesis, and Lenis + `gsap.ticker` sync.
-- [02-zero-3d-spline-camera-narrative.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/02-zero-3d-spline-camera-narrative.md): Virtual scroll architecture (`scrollVh`), 3-check draw-a-zero gesture unlock math, KTX2/ETC1S GPU texture streaming, idle upload queue manager (`drainUploads`), and 7-tap hexagonal text blur shader.
-- [03-mersi-gsap-flip-and-clip-path-slider.md](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/03-mersi-gsap-flip-and-clip-path-slider.md): GSAP `Flip.fit()` Taxi.js page transition engine, split-screen synchronized `clip-path: inset()` slider, and Lenis silent scroll teleportation.
+---
+
+## Sub-Category Catalog
+
+| Sub-Category Directory | Title & Focus | Specifications & File Count |
+| :--- | :--- | :--- |
+| **[01-smooth-scroll-and-momentum-engines/](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/01-smooth-scroll-and-momentum-engines/INDEX.md)** | 01 Smooth Scroll And Momentum Engines | 10 reference files |
+| **[02-scrollytelling-and-pinning/](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/02-scrollytelling-and-pinning/INDEX.md)** | 02 Scrollytelling And Pinning | 8 reference files |
+| **[03-page-transitions-and-morphing/](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/03-page-transitions-and-morphing/INDEX.md)** | 03 Page Transitions And Morphing | 2 reference files |
+| **[04-hover-physics-and-kinetic-text/](file:///d:/AI-OS/references/awwwards-research-vault/03-gsap-lenis-motion-scrollytelling/04-hover-physics-and-kinetic-text/INDEX.md)** | 04 Hover Physics And Kinetic Text | 7 reference files |

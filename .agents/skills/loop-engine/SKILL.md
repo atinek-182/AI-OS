@@ -1,7 +1,9 @@
 ---
 title: ZORIXEL AIOS Native Loop Engineering Engine (`/loop-engine`)
 domain: skill
-summary: Native AIOS dynamic loop engineering and self-healing feedback cycle engine. Converts open-ended tasks into bounded, self-verifying, receipt-logging iteration loops across TDD, doc sync, visual QA, security sweeps, and Autoresearch score optimization.
+summary: Native AIOS dynamic loop engineering and self-healing feedback cycle engine. Converts open-ended tasks into bounded,
+  self-verifying, receipt-logging iteration loops across TDD, doc sync, visual QA, security sweeps, and Autoresearch score
+  optimization.
 critical_directives:
 - Strictly enforce the 6-phase cycle: Observe -> Choose -> Act -> Verify -> Record -> Stop.
 - Support both static playbooks in LOOPS.md and dynamic loop generation (--dynamic) derived from workspace inspection.
@@ -24,9 +26,11 @@ tags:
 - skill
 - SKILL
 - loop-engine
-updated: '2026-08-09'
+updated: '2026-08-08'
 name: loop-engine
-description: Native AIOS dynamic loop engineering engine. Discovers, crafts, audits, adapts, runs, and debriefs repeatable self-healing feedback loops for TDD, doc sync, visual QA, security sweeps, and Autoresearch score optimization with LOOPS.md receipt logging.
+description: Native AIOS dynamic loop engineering engine. Discovers, crafts, audits, adapts, runs, and debriefs repeatable
+  self-healing feedback loops for TDD, doc sync, visual QA, security sweeps, and Autoresearch score optimization with LOOPS.md
+  receipt logging.
 argument-hint: '[loop_name_or_goal] [--run|--craft|--audit|--debrief|--dynamic] [--save]'
 ---
 
