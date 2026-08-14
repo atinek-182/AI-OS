@@ -26,7 +26,7 @@ description: Deep Socratic discovery and grilling engine tailored for Atinek Mau
   structured options, and logging answers to brainstorm capture files. Invokable via /grill-me or naturally when starting
   any discovery session.
 argument-hint: '[topic_or_idea] [optional focus]'
----
+aliases: [grilling, grill-with-docs, to-questionnaire, interview-me]---
 
 # ZORIXEL AIOS Discovery & Socratic Grilling Engine (`/grill-me`)
 

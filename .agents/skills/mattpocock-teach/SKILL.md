@@ -25,7 +25,7 @@ description: Socratic teaching and mental model builder for TypeScript and web d
   and patterns into clear analogies, code snippets, and interactive missions. Triggered via /mattpocock-teach or naturally
   when asking for explanation of complex code.
 argument-hint: '[topic_or_concept]'
----
+aliases: [teach, ask-matt]---
 
 # Matt Pocock Socratic Teaching Engine (`/mattpocock-teach`)
 

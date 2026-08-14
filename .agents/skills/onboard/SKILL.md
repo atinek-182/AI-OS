@@ -97,7 +97,7 @@ Once the intake is complete, generate these files (or update if re-running). Bac
 1. **`context/about-me.md`** — from Q1 (identity, role) + Q7 (top_pain). One short paragraph each.
 2. **`context/about-business.md`** — from Q1 (offer, ICP) + Q4 (revenue model). One paragraph.
 3. **`context/priorities.md`** — from Q3. Numbered list, one line per priority.
-4. **`references/voice.md`** — from Q2. Paste samples verbatim with a short header explaining their use ("Match this register when drafting; don't fake voice on external content without showing me first").
+4. **`second-brain-zorixel/wiki/brand/voice.md`** — from Q2. Paste samples verbatim with a short header explaining their use ("Match this register when drafting; don't fake voice on external content without showing me first").
 5. **`context/connections.md`** — populate the 7-row table from Q4-Q7 answers. Each row gets `mechanism: not yet connected`, `auth: —`, `last checked: —`. The user wires connections on Day 2.
 6. **`GEMINI.md`** — fill all `{{...}}` placeholders. Substitute the user's name, stated priority, voice register summary, and a brief connections summary.
 
@@ -128,7 +128,7 @@ The Default Shift question seeds the Mindset framework before `/level-up` formal
 4. **Idempotent.** Re-running with an edited intake refreshes context files; backs up originals to `archives/intake-{ts}/`. Skips questions already answered unless the user wants to revise.
 5. **Closing screen is three lines.** Not a menu.
 6. **No extra skills generated.** Don't scaffold `/today`, `/draft`, `/connect`, etc. The kit ships 3 skills; the user authors more via `/level-up`.
-7. **Read-only on `references/3ms-framework.md`.** It already ships in the kit. Don't overwrite.
+7. **Read-only on `brain-aios/wiki/strategy/3ms-framework.md`.** It already ships in the kit. Don't overwrite.
 8. **No `.env` writes.** Don't ask for API keys on Day 1. Connections come Day 2.
 
 ## Verification (for the implementer)

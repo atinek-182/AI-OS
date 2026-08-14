@@ -12,7 +12,7 @@ section_outline:
 - Domain Persona Presets (7-Lens Expanded Suite)
 - Execution Pipeline
 read_triggers:
-- When working on skill in .agents/skills/storm-research-project/SKILL.md
+- When working on skill in .agents/skills/storm-research-project-project/SKILL.md
 - When reading context for Storm Research Project (`/storm-research-project`)
 tags:
 - skill
@@ -24,7 +24,7 @@ description: Run Stanford's STORM multi-perspective research method for project 
   Specialist, Developer Ergonomics & Token Footprint Auditor) -> contradiction map -> self-contained verified HTML report
   -> persistent brain logging. Invokable directly via /storm-research-project.
 argument-hint: '[topic to research] [--domain tech|design|content|audit|general]'
----
+aliases: [storm-research, deep-research]---
 
 # Storm Research Project (`/storm-research-project`)
 

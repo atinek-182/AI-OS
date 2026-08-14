@@ -24,7 +24,7 @@ description: Multi-session macro planning and issue map manager. Chart large com
   issue trackers/markdown, working through frontier decision tickets step-by-step. Triggered via /mattpocock-wayfinder or
   naturally when handling large ambiguous epics.
 argument-hint: '[destination_or_map_link]'
----
+aliases: [wayfinder]---
 
 # Matt Pocock Wayfinder Engine (`/mattpocock-wayfinder`)
 

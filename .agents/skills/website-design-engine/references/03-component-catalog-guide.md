@@ -29,7 +29,7 @@ When building UI components, follow the strict 4-level precedence hierarchy:
 1. **Priority 1 [TOP PRIORITY]**: **Six-File Context & Project Codebase Specs** (`TECH_STACK.md`, `REQUIREMENTS.md`, `ARCHITECTURE.md`, `PROJECT.md`, existing TSX components).
 2. **Priority 2**: **Project-Local Visual Assets** (`reference/*.png`, `reference/*.html`, `reference/*.mp4`).
 3. **Priority 3**: **Operator Favorite Components** (`component_registry_cli.py search "<keyword>" --favorite-only`).
-4. **Priority 4**: **300+ Component Catalog** (`references/23-sites-matrix.json` & `python scripts/design_synthesis_engine.py search-pattern <query>`).
+4. **Priority 4**: **300+ Component Catalog** (`references/awwwards-research-vault/data/23-sites-matrix.json` & `python scripts/design_synthesis_engine.py search-pattern <query>`).
 
 ---
 

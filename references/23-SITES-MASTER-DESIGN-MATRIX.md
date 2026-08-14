@@ -105,4 +105,4 @@ export const useMagnetic = (ref: React.RefObject<HTMLElement>, strength = 0.3) =
 
 ## 📂 4. 23-Site Component Mapping
 
-All 300+ extracted components are indexed in `references/23-sites-matrix.json` and queryable via `python scripts/design_synthesis_engine.py search-pattern <query>`.
+All 300+ extracted components are indexed in `references/awwwards-research-vault/data/23-sites-matrix.json` and queryable via `python scripts/design_synthesis_engine.py search-pattern <query>`.

@@ -16,7 +16,7 @@ section_outline:
 - The Five-Axis Review
 - 1. Correctness
 read_triggers:
-- When working on skill in .agents/skills/code-review-and-quality/SKILL.md
+- When working on skill in .agents/skills/code-review-and-quality-and-quality/SKILL.md
 - When reading context for Code Review and Quality
 tags:
 - skill
@@ -26,7 +26,7 @@ name: code-review-and-quality
 description: Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself,
   another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main
   branch.
----
+aliases: [code-review, review]---
 
 # Code Review and Quality
 

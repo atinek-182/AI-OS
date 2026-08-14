@@ -144,4 +144,4 @@ When running a loop, the engine appends an immutable run receipt to `LOOPS.md` u
 
 - **Autoresearch Engine**: Invokes `python scripts/manage_autoresearch.py` and `trials/runner.py` for numeric score optimization.
 - **SDLC Master Engine**: Connects to Phase 3 (Build), Phase 4 (Verify), and Phase 5 (Review) across all engineering workflows.
-- **Research Engine**: Connects to `@.agents/skills/storm-research-project` for iterative market and competitive intelligence sweeps.
+- **Research Engine**: Connects to `@.agents/skills/storm-research-project-project` for iterative market and competitive intelligence sweeps.

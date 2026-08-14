@@ -1,156 +1,134 @@
 ---
-title: System Self-Improvement, Security Audit & Deployment Workflow
+name: improve-system
+description: System self-improvement, security audit, and deployment workflow. Analyzes session transcripts to extract lessons, updates GLOBAL_ERROR_PREVENTION_RULES.md, evolves skills via aios_skill_evolver.py, maintains MEMORY.md, audits security (/vibesec), rebuilds WORKSPACE_MAP.md, and pushes verified updates to main. Invokable directly via /improve-system.
+title: System Self-Improvement, Security Audit & Deployment Workflow (`/improve-system`)
 domain: skill
-summary: 'This skill supports **Tri-Mode Flexible Execution**: - **Slash Command**: Explicitly run `/improve-system [optional
-  focus or specific file]` in chat.'
+summary: Canonical workflow for extracting end-of-session learnings, recording postmortems in brain-aios/wiki/experiences/postmortems/, appending rules to GLOBAL_ERROR_PREVENTION_RULES.md, auto-evolving Tier 1 Master Skills via aios_skill_evolver.py, updating persistent memory MEMORY.md, and running git pre-flight deployment.
 critical_directives:
-- 'Rules & Memory Diffs**: Proposed additions to `AGENTS.md` and `MEMORY.md`.'
-- Update workspace rules in `AGENTS.md` and persistent memory in `MEMORY.md`.
-- '[Rule Name]:** [Concrete guideline to prevent this issue.]'
-- '[Security Rule Name]:** [Secrets hygiene or application security rule.]'
+- Save all narrative experience documents in brain-aios/wiki/experiences/postmortems/YYYY-MM-DD-[slug].md and register them in brain-aios/wiki/experiences/postmortems/INDEX.md.
+- Append error lessons to references/GLOBAL_ERROR_PREVENTION_RULES.md and execute python scripts/sync_global_rules.py (ensuring system prompt invariant cores AGENTS.md and GEMINI.md remain <6KB with ZERO prompt truncation).
+- Auto-evolve target master skills using python scripts/aios_skill_evolver.py record --skill <skill_name> --lesson "<lesson_text>".
+- Maintain MEMORY.md structured under its 4 core sections (<5KB).
+- Rebuild and validate WORKSPACE_MAP.md via python scripts/rebuild_workspace_map.py and python scripts/validate_workspace_map.py.
+- Verify 100% PASS on python scripts/aios_master_runner.py health before completing git commit and push.
 section_outline:
-- System Self-Improvement, Security Audit & Deployment Workflow
-- Invocation & Tri-Mode Routing
+- Overview & Tri-Mode Execution
 - Triggering Rules
-- Execution Workflow
-- 'Step 1: Ingest Session Logs & Deep Transcript Pattern Analysis'
+- 6-Step Execution Workflow
+- Experience Document Schema
+- Pre-Flight Health & Git Deployment
 read_triggers:
 - When working on skill in .agents/skills/improve-system/SKILL.md
-- When reading context for System Self-Improvement, Security Audit & Deployment Workflow
+- When reading context for System Self-Improvement, Security Audit & Deployment Workflow (`/improve-system`)
+- When running system improvement, memory update, or deployment wrap-up
 tags:
 - skill
-- SKILL
-updated: '2026-08-08'
-name: improve-system
-description: Analyze the current session transcript to update skill instructions, save lessons, update memory, audit web/code
-  security, prune stale configurations, and push all changes to main branch. Invokable directly via /improve-system.
-argument-hint: '[optional focus or specific file]'
+- improve-system
+- auto-evolution
+- git
+updated: '2026-08-14'
+aliases:
+- improve-system
+- ship-learnings
+- save-lessons
 ---
 
-# System Self-Improvement, Security Audit & Deployment Workflow
+# System Self-Improvement, Security Audit & Deployment Workflow (`/improve-system`)
 
-## Invocation & Tri-Mode Routing
+## Overview & Tri-Mode Execution
 
-This skill supports **Tri-Mode Flexible Execution**:
-- **Slash Command**: Explicitly run `/improve-system [optional focus or specific file]` in chat.
-- **Dynamic Intent Matching**: Triggered automatically when task context involves keywords in the description.
-- **Inter-Skill & AIOS Calling**: Programmatically invokable by parent skills or subagents via `/improve-system` or by reading `SKILL.md` directly.
+The `/improve-system` skill is the master consolidation and deployment loop for ZORIXEL AIOS. It transforms session friction, debugging breakthroughs, and new architectural patterns into permanent system intelligence across Obsidian [brain-aios](file:///d:/AI-OS/brain-aios/wiki/experiences/postmortems/), [GLOBAL_ERROR_PREVENTION_RULES.md](file:///d:/AI-OS/references/GLOBAL_ERROR_PREVENTION_RULES.md), [aios_skill_evolver.py](file:///d:/AI-OS/scripts/aios_skill_evolver.py), and [MEMORY.md](file:///d:/AI-OS/MEMORY.md).
 
-
-Use this skill when you finish a major milestone, significantly refine a custom skill, solve complex bugs, or run an end-of-session system enhancement. This skill extracts lessons, enforces empirical verification, performs security audits, updates persistent memory, maintains workspace hygiene, and commits and pushes all updates to the `main` branch.
-
-## Triggering Rules
-- Proactively recommend invoking `/improve-system` at the end of a session where architectural iterations, bug workarounds, or custom skill updates occurred.
-- Triggered when the user runs `/improve-system` or asks to "improve the system", "save lessons", "update memory", "log this experience", or "ship system updates".
+Invokable via:
+- **Slash Command**: `/improve-system [optional_focus]` or `/ship-learnings`
+- **Dynamic Intent**: Triggered automatically when finishing a major coding milestone, refining a custom skill, or running an end-of-session system enhancement.
+- **Inter-Skill Calling**: Invoked programmatically by `/session-postmortem-audit`, `/session-handoff`, `/gsd-complete-milestone`, or `/gstack`.
 
 ---
 
-## Execution Workflow
+## 6-Step Execution Workflow
 
-### Step 1: Ingest Session Logs & Deep Transcript Pattern Analysis
-1. Locate the active conversation's `transcript.jsonl` under:
-   `C:/Users/HP/.gemini/antigravity-ide/brain/<conversation-id>/.system_generated/logs/transcript.jsonl`
-   (Substituting the active `Conversation ID` from your session metadata).
-2. Scan the transcript backward to identify:
+```mermaid
+graph TD
+    A[Start /improve-system] --> B[Step 1: Ingest Session Logs & Deep Transcript Scan]
+    B --> C[Step 2: Integrated Security Audit - Vibesec & Secrets Hygiene]
+    C --> D[Step 3: Extract & Categorize System Insights]
+    D --> E[Step 4: Compile & Present System Improvement Proposal]
+    E --> F[Step 5: Execute Approved Changes, Rule Sync & Skill Evolution]
+    F --> G[Step 6: Empirical Health Verification Gate & Git Push]
+```
+
+---
+
+### Step 1: Ingest Session Logs & Deep Transcript Analysis
+1. Inspect the active session transcript logs (`<appDataDir>\brain\<conversation-id>\.system_generated\logs\transcript.jsonl`).
+2. Scan the trajectory backward to identify:
    - User corrections, explicit layout/design directives, and formatting feedback.
    - Script, compiler, or build tool failures (HTTP 429 rate limits, JSX syntax crashes, scoping errors).
-   - Tool execution workarounds (Playwright permission blocks, Node dependency paths, local server fallbacks).
-   - Newly ingested repositories or skills in `brain-aios/wiki/research/skills-library/`.
+   - Tool execution workarounds (Playwright dependency paths, Windows shell escaping, subprocess JSON passing).
 
 ### Step 2: Integrated Security Audit (Vibesec & Secrets Hygiene)
 Run a security check across all modified workspace files:
 1. **Secrets Hygiene**:
    - Check for hardcoded API keys, OAuth tokens, or passwords in source files, scripts, or committed templates.
-   - If secrets are found, flag them immediately, strip them from source code, and store them securely in environment variables or intake configs.
+   - Verify that credentials use environment variables or encrypted credential stores.
 2. **Web & Code Security Audit (Vibesec Guidelines)**:
-   - Check for unescaped user input rendering in HTML/JSX templates.
-   - Verify CORS, CSP, and local HTTP server headers on scratch test servers.
-   - Ensure safe shell command execution (no raw concatenated string injections).
+   - Verify IDOR protection, tenant isolation, JWT `httpOnly` cookie enforcement, Zod input validation, and SSRF private IP blocking.
+   - Ensure safe shell command execution (`shell=False` for JSON payloads).
 
 ### Step 3: Extract & Categorize System Insights
 Categorize findings into four distinct system outputs:
-1. **Developer Experience & Story**: High-leverage developer insights and architectural primitives.
-2. **Skill / System Refinements**: Proposed improvements for `.agents/skills/[skill-name]/SKILL.md` configurations or templates.
-3. **Workspace Rules & Memory Updates**: Additions for `AGENTS.md` (coding/compiler rules) or `MEMORY.md` (user preferences & voice).
-4. **Directory & Workspace Map Hygiene**: Registration of new utility scripts/skills in `WORKSPACE_MAP.md` and pruning of obsolete scratch files (`scratch/ingest-*`).
+1. **Post-Mortem & Story**: High-leverage narrative document for `brain-aios/wiki/experiences/postmortems/`.
+2. **Global Error Rules**: New procedural error prevention rules for `references/GLOBAL_ERROR_PREVENTION_RULES.md`.
+3. **Skill Evolution Recipes**: Specific learned recipes to inject into target master skills via `scripts/aios_skill_evolver.py`.
+4. **Persistent Memory Updates**: High-signal operator baseline and architectural updates for `MEMORY.md` (4 structured sections).
 
 ### Step 4: Compile & Present System Improvement Proposal
-Create a structured Markdown proposal containing:
-- **Learnings & Security Findings**: Story summary, security posture, and guidelines established.
-- **Proposed Skill Diffs**: Exact changes to `.agents/skills/` files.
-- **Rules & Memory Diffs**: Proposed additions to `AGENTS.md` and `MEMORY.md`.
-- **Pruning & Index Plan**: Files to create in `brain-aios/wiki/experiences/`, index in `context/experiences/README.md`, or register in `WORKSPACE_MAP.md`.
+Present a clear, structured proposal to Atinek Maurya detailing:
+- **Learnings & Security Findings**: Narrative story summary and security posture.
+- **Rule Additions**: Specific rules to append to `GLOBAL_ERROR_PREVENTION_RULES.md`.
+- **Skill Evolution Diffs**: Skills to be evolved via `aios_skill_evolver.py`.
+- **Memory & Map Updates**: Proposed updates to `MEMORY.md` and `WORKSPACE_MAP.md`.
 
-Wait for user approval before executing file writes.
+Wait for operator confirmation ("YES") before executing file writes.
 
-### Step 5: Execute Approved Changes & Empirical Verification
-Upon approval, execute the changes:
+### Step 5: Execute Approved Changes & System Evolution
+Upon approval:
 1. **Write Experience Document**:
-   - Create `brain-aios/wiki/experiences/YYYY-MM-DD-[slug].md`.
-   - Update `context/experiences/README.md` chronological index.
-2. **Update Skills, Rules & Memory**:
-   - Update target `.agents/skills/` files.
-   - Update workspace rules in `AGENTS.md` and persistent memory in `MEMORY.md`.
-3. **Log & Clean**:
-   - Record architectural changes in `decisions/log.md` and Obsidian index in `brain-aios/wiki/log.md`.
-   - Update `WORKSPACE_MAP.md`.
-4. **Empirical Verification Check**:
-   - Run verification scripts (Playwright screenshot comparisons, AST/lint validators, or test suites).
-   - Run workspace map validator:
-     ```powershell
-     python scripts/validate_workspace_map.py
-     ```
+   - Create `brain-aios/wiki/experiences/postmortems/YYYY-MM-DD-[slug].md`.
+   - Register the file in `brain-aios/wiki/experiences/postmortems/INDEX.md`.
+2. **Synchronize Global Rules**:
+   - Append new rules to `references/GLOBAL_ERROR_PREVENTION_RULES.md`.
+   - Run `python scripts/sync_global_rules.py` (verifying `AGENTS.md` and `GEMINI.md` remain <6KB).
+3. **Auto-Evolve Target Skills**:
+   - Run `python scripts/aios_skill_evolver.py record --skill <skill_name> --lesson "<lesson_text>"`.
+4. **Update Persistent Memory**:
+   - Update `MEMORY.md` preserving its 4 clean structured sections (<5KB).
+5. **Rebuild & Validate Workspace Map**:
+   - Run `python scripts/rebuild_workspace_map.py`.
+   - Run `python scripts/validate_workspace_map.py`.
+6. **Log Decisions**:
+   - Record architectural updates in `decisions/log.md`.
 
-### Step 6: Git Commit & Push to Main Branch
-After verification passes:
-1. Stage all updated files:
+### Step 6: Empirical Health Verification Gate & Git Push
+1. **Execute Unified Pre-Flight Health Gate**:
+   ```powershell
+   python scripts/aios_master_runner.py health
+   ```
+   Confirm **100% PASS** on all subsystems.
+2. **Git Commit & Push**:
    ```powershell
    git add .
-   ```
-2. Re-run map validator pre-commit check to ensure 0 drift.
-3. Commit all changes with a clean, descriptive conventional commit message:
-   ```powershell
    git commit -m "feat(system): improve AIOS skills, update persistent memory, and synchronize vault logs"
-   ```
-4. Push all changes directly to the `main` branch:
-   ```powershell
    git push origin main
    ```
-5. Confirm clean repository status (`git status`).
+3. **Confirm Clean Repository Status**: Run `git status`.
 
 ---
 
-## Experience Document Template
-
-Files created in `brain-aios/wiki/experiences/` must follow this format:
-
-```markdown
-# [Title of the Experience]
-
-## Lesson / Story
-[A clear narrative paragraph explaining what happened, the root cause identified, and the technical solution executed.]
-
-## System Guidelines & Security Rules Established
-- **[Rule Name]:** [Concrete guideline to prevent this issue.]
-- **[Security Rule Name]:** [Secrets hygiene or application security rule.]
-```
-
----
-
-## Inter-Skill Connections & Handoff Pipeline
-- **Self-Improvement Loop**: Triggered after major milestones, skill updates, or user corrections.
-- **System Maintenance**: Updates skill files, persists lessons into MEMORY.md, and optimizes workspace instructions.
-
----
-
-## Post-Execution Auto-Evolution & Adversarial `/roast` Gate
-
-At the completion of every execution of this skill:
-
-1. **Adversarial `/roast` Council Review**: Convene the 5-Persona ZORIXEL AIOS Roast Council (`/roast`) to stress-test the output, code edits, or strategy generated by this skill. Red-team for missing edge cases, terminal shell bugs, token leaks, or optimization gaps.
-2. **Autonomous Tool, Script & Skill Auto-Upgrade Loop**:
-   - If new error patterns or execution safeguards are discovered, append them to `references/GLOBAL_ERROR_PREVENTION_RULES.md` and execute `python scripts/sync_global_rules.py` via `run_command` so system prompts (`AGENTS.md` and `GEMINI.md`) auto-update inline.
-   - Run pre-flight health checks (`aios_gws_health_check.py`, `test_notion_formula.py`, `graphify_runner.py`).
-   - Self-upgrade this `SKILL.md` instruction file with newly learned edge cases using `replace_file_content` or `write_to_file`.
-3. **Register & Log**: Log milestone upgrades in [WORKSPACE_MAP.md](file:///d:/AI-OS/WORKSPACE_MAP.md) and [decisions/log.md](file:///d:/AI-OS/decisions/log.md).
-
+## ⚡ Learned Edge Cases & Execution Recipes
+- Always verify that sync_global_rules.py passes with zero prompt truncation before staging git commits.
+- Always use aios_skill_evolver.py for targeted skill mutations to preserve YAML schemas and enforce 5-slot LRU pruning.
+- Always run rebuild_workspace_map.py before validate_workspace_map.py.
+- Always update brain-aios/wiki/experiences/postmortems/INDEX.md when saving a new experience document.
+- Run universal_workspace_integrity_sweep.py when renaming or restructuring directory trees.

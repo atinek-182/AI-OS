@@ -56,7 +56,7 @@ name: MW01-zero-subscription-client-os
 - **Socratic Discovery Engine**: `.agents/skills/grill-me/SKILL.md` (Mandatory 5–10 Socratic questions per phase)
 - **Adversarial Audit Engine**: `.agents/skills/roast/SKILL.md` (7-persona council audit per phase)
 - **Proactive Auto-Evolver**: `.agents/skills/skill-workflow-evolver/SKILL.md` (Proactively suggests new tool integrations in chat)
-- **Intake & Discovery**: `.agents/skills/to-questionnaire/SKILL.md`
+- **Intake & Discovery**: `.agents/skills/grill-me/SKILL.md`
 - **Visual Node Automation Engine**: `.agents/skills/n8n/SKILL.md` (Node reference at `references/n8n-nodes-guide.md`)
 - **Spreadsheet & Workspace Engine**: `.agents/skills/gws-automation-engine/SKILL.md`
 - **Bi-Directional Data Sync**: `.agents/skills/notion-sync/SKILL.md`

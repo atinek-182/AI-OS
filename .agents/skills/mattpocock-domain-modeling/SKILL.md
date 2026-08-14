@@ -24,7 +24,7 @@ description: TypeScript domain modeling and ubiquitous language engine. Sharpen 
   prevent domain ambiguity, and record Architectural Decision Records (ADRs). Triggered via /mattpocock-domain-modeling or
   naturally when modeling domain types.
 argument-hint: '[domain_concept_or_feature]'
----
+aliases: [domain-modeling, setup-matt-pocock-skills]---
 
 # Matt Pocock TypeScript Domain Modeling Engine (`/mattpocock-domain-modeling`)
 

@@ -24,6 +24,20 @@ tags:
 updated: '2026-08-08'
 ---
 
+## 2026-08-13 — Dedicated Tier 1 Native Skill: `mobile-component-adapter` (`/mobile-component-adapter`)
+
+**Decision:** Designed, audited, registered, and deployed [.agents/skills/mobile-component-adapter/SKILL.md](file:///d:/AI-OS/.agents/skills/mobile-component-adapter/SKILL.md) as a Tier 1 native skill:
+1. **95% Mobile-First Audit Pipeline**: Phase 0 (390px Pre-Flight Check) -> Phase 1 (STORM 7-Lens Mobile Motion & Network Research) -> Phase 2 (Stage 1 Roast Audit) -> Phase 3 (Stage 2 Roast Audit) -> Phase 4 (Stage 3 Roast & SecurityOS Audit) -> Phase 5 (Technical Feature Spec Generation).
+2. **The 3-Stage Full `/roast` Invocation Loop**: Automatically executes the 5-persona `/roast` council 3 separate times across 3 distinct lifecycle stages (`Stage 1 Pre-Flight`, `Stage 2 Fluid Units & Touch Ergonomics`, `Stage 3 SecurityOS Audit`).
+3. **SecurityOS Integration**: Enforces `/vibesec` verification, Zod server input validation, safe URL routing, and `gsap.context()` GPU memory cleanup on all mobile component feature specs.
+4. **WebGL & GPU Safeguards**: Clamps `devicePixelRatio` to `Math.min(window.devicePixelRatio, 1.5)` and pauses offscreen WebGL rendering loops via `IntersectionObserver`.
+5. **Hybrid Responsive Typography**: Protects desktop typography precision via `@media (min-width: 1024px)` while enforcing fluid `clamp()` with `rem`/`vw` units on mobile viewports (< 768px).
+6. **Master Registration**: Registered skill in `WORKSPACE_MAP.md`, `brainstorms/2026-08-13-mobile-component-adapter-skill.md`, and passed 5-Persona `/roast` Council audit (**Verdict: APPROVED GO**).
+
+**Why:** Gives AIOS a standardized, research-backed mobile adaptation engine that eliminates desktop hover bugs, prevents mobile GPU frame drops, and enforces zero-hardcoded-px responsive design.
+
+**Owner:** Atinek Maurya
+
 ## 2026-08-13 — Vidya Dham Academy 7-File Context Scaffolding, Institutional Vault Ingestion & Session Post-Mortem Audit (`/session-postmortem-audit`)
 
 **Decision:** Completed Vidya-Dham-Academy 7-File Context Scaffolding, Institutional Content Vault Ingestion, Domain Term Scrubbing (JEE -> B.Sc Nursing), Locked Brand Palette Tokens, Approved 4-Category Awwwards Feature Spec, and Autonomous Post-Mortem Audit (`/session-postmortem-audit`):
@@ -42,7 +56,7 @@ updated: '2026-08-08'
 ## 2026-08-12 — Session Post-Mortem Audit & System Prompt Rules 1.45–1.52 Synchronization (`/session-postmortem-audit`)
 
 **Decision:** Executed autonomous 3-phase post-mortem audit across component repair sweep (`01-text-and-typography` COMP-020 through COMP-027):
-1. **Exhaustive Post-Mortem Report ([errors-and-lessons/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md](file:///d:/AI-OS/errors-and-lessons/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md))**: Cataloged exact root causes for ES5 class constructor crashes (`three-bmfont-text`), MSDF WebGL `smoothstep` fallbacks, TypeScript ESM transpilation, relative asset paths, CORS-blocked `SplitText` DOM polyfills, and network timeout adpack script removals.
+1. **Exhaustive Post-Mortem Report ([brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md](file:///d:/AI-OS/brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md))**: Cataloged exact root causes for ES5 class constructor crashes (`three-bmfont-text`), MSDF WebGL `smoothstep` fallbacks, TypeScript ESM transpilation, relative asset paths, CORS-blocked `SplitText` DOM polyfills, and network timeout adpack script removals.
 2. **Automated Pre-Flight Script ([scripts/aios_component_vault_health_check.py](file:///d:/AI-OS/scripts/aios_component_vault_health_check.py))**: Generated and executed Python health check auditing all 30 component directories (**Clean=23, Warnings=1**).
 3. **Adversarial `/roast` Council Audit**: Passed 5-Persona Council review (**Score: 9.0/10, Verdict: APPROVED GO**).
 4. **System Prompt Rules Synchronized**: Registered `Rule 1.45` through `Rule 1.52` in `GLOBAL_ERROR_PREVENTION_RULES.md` and ran `python scripts/sync_global_rules.py` to synchronize `AGENTS.md` and `GEMINI.md`.
@@ -59,7 +73,7 @@ updated: '2026-08-08'
 3. **Component Studio Hub & AI Selection Architecture**: Locked in Q1-Q5 choices (Option A tab launch, Option A Playwright thumbnails, Option C visual numbers + copy button, Option B default `index.html` nav, Option A parametric React props). Enforced `127.0.0.1:8080` local loopback server isolation, Playwright Visual QA, and Context7 MCP auto-triggers.
 4. **Dedicated Auto-Upgrading Skill ([.agents/skills/component-vault-engine/SKILL.md](file:///d:/AI-OS/.agents/skills/component-vault-engine/SKILL.md))**: Created dedicated AIOS skill file and [references/component-adaptation-rules.md](file:///d:/AI-OS/references/component-adaptation-rules.md), guaranteeing 100% cross-session memory recovery in future chat sessions.
 5. **System Rules & Pre-Flight Script**: Formulated Rule 1.43 (Parallel Subprocess Standard) and Rule 1.44 (Component Studio Server Loopback Binding Standard) into `references/GLOBAL_ERROR_PREVENTION_RULES.md` and executed `scripts/sync_global_rules.py`. Created `scripts/aios_component_vault_health_check.py` — verified **100% SUCCESS**.
-6. **Session Report**: Delivered 400+ line post-mortem report in `errors-and-lessons/2026-08-12_SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md`.
+6. **Session Report**: Delivered 400+ line post-mortem report in `brain-aios/wiki/experiences/postmortems/2026-08-12_SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md`.
 
 **Why:** Gives Atinek Maurya permanent, zero-token, cross-session memory for 175 hand-picked components with Playwright visual QA and strict local HTTP security.
 
@@ -73,14 +87,14 @@ updated: '2026-08-08'
 3. **Sequential Renumbering (`01-`, `02-`, `03-`...)**: Renumbered all 185 remaining atomic files inside every sub-folder to start with clean sequential 2-digit prefixes and re-generated all 25 sub-category `INDEX.md` catalogs and 7 parent `INDEX.md` files.
 4. **Frontmatter Standardization**: Swept 1,060 workspace Markdown files with `scripts/aios_frontmatter_standardizer.py` (0 errors).
 5. **System Rules & Pre-Flight Health Script**: Formulated Rules 1.40 (Dynamic Sub-Vault File Discovery), 1.41 (Raw File Ingestion Frontmatter Enforcement), and 1.42 (Sub-Category Sequential Renumbering) into `references/GLOBAL_ERROR_PREVENTION_RULES.md` and `scripts/sync_global_rules.py`. Created `scripts/aios_awwwards_precision_vault_health_check.py` — verified **100% HEALTHY**.
-6. **Session Report**: Delivered 400+ line post-mortem report in `errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_AWWWARDS_SUBVAULT_PRECISION_REFACTORING.md`.
+6. **Session Report**: Delivered 400+ line post-mortem report in `brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-10_AWWWARDS_SUBVAULT_PRECISION_REFACTORING.md`.
 
 ## 2026-08-10 — Wave 2 Awwwards Vault Ingestion (24/24 Sites Complete · 168 Vault Files) & Session Post-Mortem Audit
 
 **Decision:** Completed Wave 2 Awwwards Vault Ingestion sprint and autonomous 3-phase post-mortem audit (`/session-postmortem-audit`):
 1. **Wave 2 Ingestion Complete (24/24 Sites)**: Extracted all 24 target sites across all 7 sub-vault directories, creating 168 atomic reference files containing unsummarized GLSL shaders, fluid typography math, and UX psychology.
 2. **Master Status & Roast Audit ([scratch/awwwards_ingestion_raw/WAVE2_INGESTION_STATUS.md](file:///d:/AI-OS/scratch/awwwards_ingestion_raw/WAVE2_INGESTION_STATUS.md))**: Updated status tracker to 100% complete and passed 5-Persona `/roast` Council audit with maximum score (Score: 10/10, Verdict: APPROVED GO).
-3. **Exhaustive Post-Mortem Report ([errors-and-lessons/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md](file:///d:/AI-OS/errors-and-lessons/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md))**: Logged transcript analysis across 1,142 steps, 349 tool calls, 0 errors, 28 single-click user responses, and formalized 2 reusable skills.
+3. **Exhaustive Post-Mortem Report ([brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md](file:///d:/AI-OS/brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md))**: Logged transcript analysis across 1,142 steps, 349 tool calls, 0 errors, 28 single-click user responses, and formalized 2 reusable skills.
 4. **Pre-Flight Health Script ([scripts/aios_awwwards_vault_health_check.py](file:///d:/AI-OS/scripts/aios_awwwards_vault_health_check.py))**: Automated Python health script verified 205 total reference files across all 7 sub-vaults with 100% clean frontmatter headers.
 5. **System Prompt Rules Synchronized**: Registered `Rule 1.37` (7-Sub-Vault Ingestion Standard), `Rule 1.38` (Socratic Concept Pre-Explanation Requirement), and `Rule 1.39` (Immediate Disk Checkpointing Mandate) in `GLOBAL_ERROR_PREVENTION_RULES.md` and executed `python scripts/sync_global_rules.py` to synchronize `AGENTS.md` and `GEMINI.md`.
 
@@ -91,7 +105,7 @@ updated: '2026-08-08'
 ## 2026-08-10 — Session Post-Mortem Audit & Awwwards Ingestion Health Script (`/session-postmortem-audit`)
 
 **Decision:** Completed autonomous 3-phase post-mortem audit and system self-improvement cycle:
-1. **Exhaustive Post-Mortem Report ([errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_AWWWARDS_INGESTION_AND_SKILL.md](file:///d:/AI-OS/errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_AWWWARDS_INGESTION_AND_SKILL.md))**: Logged transcript analysis across 2 errors, 7 prompt iterations, dynamic sub-vault 07 creation, in-tandem skill upgrades, and single-go ingestion skill creation.
+1. **Exhaustive Post-Mortem Report ([brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-10_AWWWARDS_INGESTION_AND_SKILL.md](file:///d:/AI-OS/brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-10_AWWWARDS_INGESTION_AND_SKILL.md))**: Logged transcript analysis across 2 errors, 7 prompt iterations, dynamic sub-vault 07 creation, in-tandem skill upgrades, and single-go ingestion skill creation.
 2. **Pre-Flight Health Script ([scripts/test_awwwards_ingestion_health.py](file:///d:/AI-OS/scripts/test_awwwards_ingestion_health.py))**: Generated and executed automated Python health check script verifying 100% clean status across all 7 sub-vaults, main `INDEX.md`, `ingest-awwwards-case-study` skill, and ingestion matrices (**PASS 100%, 0 Errors**).
 3. **Adversarial Council Review & System Prompt Sync**: Passed 5-Persona `/roast` Council audit (Score: 9.9/10, Verdict: APPROVED GO) and executed `python scripts/sync_global_rules.py` to keep system prompts (`AGENTS.md` and `GEMINI.md`) fully synchronized.
 
@@ -139,7 +153,7 @@ updated: '2026-08-08'
 ## 2026-08-10 — Session Post-Mortem Audit & 10x Recursive Self-Improvement Protocol (`/session-postmortem-audit`)
 
 **Decision:** Completed autonomous 3-phase post-mortem audit and system self-improvement cycle:
-1. **Exhaustive Post-Mortem Report ([errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_ALL_SKILL_WORKFLOWS_INTEGRATION.md](file:///d:/AI-OS/errors-and-lessons/SESSION_POSTMORTEM_2026-08-10_ALL_SKILL_WORKFLOWS_INTEGRATION.md))**: Logged transcript analysis across 33 skill audits, self-hosted n8n system synthesis, MW01 master blueprint, 10x recursive self-improvement loop, and 3 strategic operator directives.
+1. **Exhaustive Post-Mortem Report ([brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-10_ALL_SKILL_WORKFLOWS_INTEGRATION.md](file:///d:/AI-OS/brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-10_ALL_SKILL_WORKFLOWS_INTEGRATION.md))**: Logged transcript analysis across 33 skill audits, self-hosted n8n system synthesis, MW01 master blueprint, 10x recursive self-improvement loop, and 3 strategic operator directives.
 2. **Pre-Flight Health Script ([scripts/test_master_workflows_health.py](file:///d:/AI-OS/scripts/test_master_workflows_health.py))**: Generated and executed automated Python health check script verifying 100% clean status across MW01 blueprint, n8n skill, n8n reference guide, `LOOPS.md`, and brainstorm capture file (PASS 100%, 0 Errors).
 3. **Adversarial Council Review & System Prompt Sync**: Passed 5-Persona `/roast` Council audit (Score: 9.86/10, Verdict: APPROVED GO) and executed `python scripts/sync_global_rules.py` to keep system prompts (`AGENTS.md` and `GEMINI.md`) fully synchronized.
 
@@ -164,7 +178,7 @@ updated: '2026-08-08'
 ## 2026-08-09 — Session Post-Mortem Audit & Pre-Flight Script Automation
 
 **Decision:** Completed autonomous 3-phase post-mortem audit and system self-improvement cycle:
-1. **Exhaustive Post-Mortem Report**: Authored [errors-and-lessons/SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT.md](file:///d:/AI-OS/errors-and-lessons/SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT.md) auditing 3 errors, 6 prompt iterations, and 5 repeatable patterns.
+1. **Exhaustive Post-Mortem Report**: Authored [brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT.md](file:///d:/AI-OS/brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-09_LOOP_ENGINE_AND_AWWWARDS_VAULT.md) auditing 3 errors, 6 prompt iterations, and 5 repeatable patterns.
 2. **Pre-Flight Health Script (`scripts/test_loop_engine_health.py`)**: Built automated health validator checking Loop Engine skill, `LOOPS.md`, Website Design Engine v5.1, and research vault (PASS 100%).
 3. **System Rules Synchronized**: Appended Rule 1.27 (`CLI Argument Schema Verification`) and Rule 1.28 (`Async Task Log Read Guard`) to `GLOBAL_ERROR_PREVENTION_RULES.md` and synchronized into `AGENTS.md` and `GEMINI.md` via `scripts/sync_global_rules.py`.
 
@@ -209,7 +223,7 @@ updated: '2026-08-08'
 
 **Decision:** Upgraded `.agents/skills/website-design-engine/SKILL.md` to v5.1 following operator discovery and `/roast` council audit:
 1. **Local Awwwards Component Vault (`C:\Users\HP\Downloads\Components`)**: Indexed 24 high-caliber Awwwards clone repos (`Obys-clone`, `Spylt-awward-clone`, `mojito-awwwards-website`, `Custom_WEBGL_Slider`, `webgl-ascii-hero`, `3D-sticky-cards`, `SVG-Page-transition`). Discarded generic 300+ component library for Awwwards builds.
-2. **Deep Research Harvest**: Integrated `@.agents/skills/storm-research-project` (7-agent suite) and `@.agents/skills/agent-reach` for continuous Awwwards research ingestion across YouTube, X, Reddit, and web articles into `brain-aios/wiki/research/`.
+2. **Deep Research Harvest**: Integrated `@.agents/skills/storm-research-project-project` (7-agent suite) and `@.agents/skills/agent-reach` for continuous Awwwards research ingestion across YouTube, X, Reddit, and web articles into `brain-aios/wiki/research/`.
 3. **Human-in-the-Loop Visual Rating Gate**: Added operator visual feedback after Playwright 5-viewport sweeps. Atinek Maurya provides direct 1-line visual feedback after each pass to guide loop convergence.
 
 **Why:** Combines real Awwwards-grade component code with live web research and human visual judgment to achieve 1-to-5 pass Site of the Day quality.
@@ -388,7 +402,7 @@ updated: '2026-08-08'
 **Decision:** Formally integrated **Defuddle (`npx defuddle parse`)** as the standard high-precision article cleaning and clutter removal engine across AIOS web skills and global system instructions:
 1. **Web Scraping Skill (`.agents/skills/scrape-web/SKILL.md`)**: Documented Defuddle CLI usage for converting long-form web pages, technical blogs, and documentation into clean Markdown with YAML frontmatter metadata, preserving code blocks, tables, footnotes, and math expressions.
 2. **Internet Eyes Skill (`.agents/skills/agent-reach/SKILL.md`)**: Added Defuddle as a zero-config alternative to `curl https://r.jina.ai/<URL>` for offline article reading and metadata extraction.
-3. **STORM Research Project Skill (`.agents/skills/storm-research-project/SKILL.md`)**: Integrated Defuddle into Phase 1 research subagents to strip DOM noise before analyzing text into research briefings.
+3. **STORM Research Project Skill (`.agents/skills/storm-research-project-project/SKILL.md`)**: Integrated Defuddle into Phase 1 research subagents to strip DOM noise before analyzing text into research briefings.
 4. **Global Error Prevention Rules (`references/GLOBAL_ERROR_PREVENTION_RULES.md`)**: Created **Rule 2.8 (Web Article Ingestion & Defuddle Standard)** and synchronized system prompts (`AGENTS.md` and `GEMINI.md`) via `python scripts/sync_global_rules.py`.
 
 **Why:** Raw web scraping often contains 70-90% DOM noise (navbars, footers, ad banners, popups) that degrades LLM context quality and wastes tokens. Defuddle provides cleaner Markdown and schema.org YAML frontmatter metadata while preserving critical technical content like code blocks and math.
@@ -417,7 +431,7 @@ updated: '2026-08-08'
 1. **Option A (Master 10 Production Playbooks)**: Mapped 5 core operational domains with 10 step-by-step production playbooks detailing exact triggers, execution chains, parameters, outputs, and secondary fallback safeguards.
 2. **Option B (7-Stage Complete AI Agency Master Engine)**: Super-expanded Option B into a 7-stage client lifecycle system covering Lead Intake (3-Number Pricing Corridor), Zero-SaaS-Fee Notion+GAS Engine (Header-Flexible Script & Notion Formula 2.0 Defensive Null Guards), Loom 9-Slide Deck Compiler (`build_loom_presentation.py`), Interactive Setup Dashboard (`operator_setup_dashboard.html`), AI Lead Scoring (0–100) & Outreach Pipeline, 24/7 SLA Health Monitor (`client_health_monitor.py`) & Monthly ROI Report Generator, and Vault Archive Handoff (`build_client_vault_archive.py`) & 14-Day Referral Engine.
 3. **Future-Proofing Extension Architecture (Skill Plug-and-Play Protocol)**: Established standardized YAML metadata schema (`domain: [...]`, `inter-skill-deps: [...]`, `fallback: ...`) and Capability Auto-Routing Matrix to dynamically route future skills into existing domain pipelines.
-4. **Adversarial `/roast` Audit & Health Verification**: Passed 7-persona `/roast` audit (`GO`, Risk 2/10, ROI 10/10), saved audit artifact (`roast_2026-08-08_skill_workflows.md`), created pre-flight script `scripts/test_skill_workflows_health.py` (PASS 100%), and executed `/session-postmortem-audit` generating `errors-and-lessons/SESSION_POSTMORTEM_2026-08-08_SKILL_WORKFLOWS_ENGINE.md`.
+4. **Adversarial `/roast` Audit & Health Verification**: Passed 7-persona `/roast` audit (`GO`, Risk 2/10, ROI 10/10), saved audit artifact (`roast_2026-08-08_skill_workflows.md`), created pre-flight script `scripts/test_skill_workflows_health.py` (PASS 100%), and executed `/session-postmortem-audit` generating `brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_2026-08-08_SKILL_WORKFLOWS_ENGINE.md`.
 
 **Why:** Establishes a complete, future-proof, 100% reusable operational engine for ZORIXEL AI Agency client sprints ($1,500–$5,000+) and AIOS workflow execution without guesswork or recurring SaaS costs.
 
@@ -441,7 +455,7 @@ updated: '2026-08-08'
 ## 2026-08-07 — Comprehensive Session Post-Mortem Audit & Pre-Flight Script Health Engine
 
 **Decision:** Executed `/session-postmortem-audit` to conduct an exhaustive 4-section session audit:
-1. Created production post-mortem report at `errors-and-lessons/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md`.
+1. Created production post-mortem report at `brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md`.
 2. Created pre-flight script health auditor `scripts/test_script_health.py` and audited all 60 workspace python scripts.
 3. Synchronized living error prevention rules into system prompts (`AGENTS.md` and `GEMINI.md`).
 4. Registered artifacts in `WORKSPACE_MAP.md` and decisions log.
@@ -560,7 +574,7 @@ updated: '2026-08-08'
 ## 2026-08-06 — Session Post-Mortem Audit, Base64 Typography, Interactive Lightbox, and Google Sheets Presentation Engine
 
 **Decision:** Executed complete session post-mortem audit (`/session-postmortem-audit`) and upgraded ZORIXEL presentation and error prevention systems:
-1. **Comprehensive Post-Mortem Report (`errors-and-lessons/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md`)**: Generated >450-line exhaustive report detailing 5 error rules (Rules 1.12–1.16), 7 user delivery iteration policies, repeatable skill specifications, and a 5-persona `/roast` council audit (Score: 9.8/10).
+1. **Comprehensive Post-Mortem Report (`brain-aios/wiki/experiences/postmortems/SESSION_POSTMORTEM_ERRORS_LESSONS_AND_SKILLS.md`)**: Generated >450-line exhaustive report detailing 5 error rules (Rules 1.12–1.16), 7 user delivery iteration policies, repeatable skill specifications, and a 5-persona `/roast` council audit (Score: 9.8/10).
 2. **Base64 Zorixel Brand Typography**: Integrated Base64 Data URIs for `Havock.otf` (82px display headers) and `Rosehot.ttf` (editorial subheads) directly into HTML `<style>` blocks for 100% offline rendering and sandboxed Playwright visual QA stability.
 3. **Interactive Pop-up Lightbox Modal**: Built JavaScript modal popup (`#lightboxModal`) allowing users to click Notion OS and Google Sheet screenshots to inspect full-screen high-res overlays.
 4. **Dual Presentation Build Engine (`scripts/build_loom_presentation.py`)**: Built python compiler script to build both `vashishthya_loom_presentation.html` and `notion_google_sync_presentation.html` in tandem, eliminating file drift.
@@ -697,7 +711,7 @@ updated: '2026-08-08'
 
 **Decision:** Ingested `https://github.com/blader/humanizer` (v2.9.1, 33 AI pattern cleanup rules based on Wikipedia's AI cleanup project) and established a non-negotiable global mandate across the entire AIOS and Zorixel website project:
 1. **Installed Active Skill**: Deployed `.agents/skills/humanizer/SKILL.md` into both the main AIOS environment and the website project (`projects/Zorixel brand/zorixel-website/.agents/skills/humanizer/SKILL.md`).
-2. **System Rules Ingestion**: Embedded the Universal Humanizer Mandate into `AGENTS.md`, `ai-workflow-rules.md`, `MEMORY.md`, `hot.md`, and `.agents/skills/using-superpowers/SKILL.md`.
+2. **System Rules Ingestion**: Embedded the Universal Humanizer Mandate into `AGENTS.md`, `ai-workflow-rules.md`, `MEMORY.md`, `hot.md`, and `.agents/skills/using-agent-skills/SKILL.md`.
 3. **33 Pattern Enforcement**: Enforced strict removal of em dashes (`—`/`–`), inflated symbolism (*'testament/tapestry/fostering'*), promotional puffery, rule of three overuse, sycophancy, meta signposting (*'Let's dive in'*), and tailing negations. Enforced sentence case headings and straight quotes (`"..."`).
 4. **`[PENDING OPERATOR REFERENCE HOLD]` Rule**: Codified a mandatory fallback slot across all component specifications, prioritizing Atinek Maurya's custom references over catalog backstops.
 
@@ -761,7 +775,7 @@ updated: '2026-08-08'
 ## 2026-07-27 — 23-Site AIOS Design Intelligence System Synthesis & Universal Integration
 
 **Decision:** Designed, built, and universally integrated the 23-Site AIOS Design Intelligence System across all skills, reference vaults, scripts, SOPs, and system prompt rules:
-1. **Zero-Bloat CLI Synthesis Engine (`scripts/design_synthesis_engine.py`)**: Indexes all 23 extracted reference sites (*Active Theory, Obys, Locomotive, Resn, Oryzo AI, etc.*) into `references/23-sites-matrix.json` with strict 3-result snippet capping to prevent context bloat.
+1. **Zero-Bloat CLI Synthesis Engine (`scripts/design_synthesis_engine.py`)**: Indexes all 23 extracted reference sites (*Active Theory, Obys, Locomotive, Resn, Oryzo AI, etc.*) into `references/awwwards-research-vault/data/23-sites-matrix.json` with strict 3-result snippet capping to prevent context bloat.
 2. **Unified Component Registry**: Enhanced `scripts/component_registry_cli.py` to search across cataloged UI libraries AND 23-site reference TSX extractions.
 3. **Master Reference Matrices**: Created `references/23-SITES-MASTER-DESIGN-MATRIX.md` (OKLCH color math, layout formulas, GSAP inertia, magnetic cursor physics) and `references/23-SITES-PSYCHOLOGY-AND-CHOREOGRAPHY.md` (UX design psychology, cognitive load rules, progressive disclosure, 4 section sequence flows).
 4. **Live Visual Showroom**: Created `premium-frontend-experience-system/23-sites-showroom.html` local HTML browser showcase.
@@ -815,7 +829,7 @@ updated: '2026-08-08'
    - `mattpocock-to-tickets`: Spec-to-tickets deconstructor creating atomic engineering tasks with verifiable DoD.
    - `mattpocock-teach`: Socratic teaching and mental model builder for TypeScript & web engineering.
    - `mattpocock-setup-ts-deep-modules`: Deep module boundary enforcement and package structure setup.
-3. **Cross-System Integration**: Updated `.agents/AGENTS.md`, `GEMINI.md`, `references/antigravity-skills-guide.md`, `references/aios-user-manual.md`, `MEMORY.md`, and `WORKSPACE_MAP.md`.
+3. **Cross-System Integration**: Updated `.agents/AGENTS.md`, `GEMINI.md`, `brain-aios/wiki/sops/antigravity-skills-guide.md`, `brain-aios/wiki/sops/aios-user-manual.md`, `MEMORY.md`, and `WORKSPACE_MAP.md`.
 
 **Why:** Combining JS Mastery's fullstack Next.js architectural workflows with Matt Pocock's TypeScript domain modeling and wayfinding discipline gives the AIOS world-class fullstack JS and TS engineering capabilities natively in Antigravity.
 
@@ -997,7 +1011,7 @@ updated: '2026-08-08'
 
 ## 2026-07-24 — Ingest `os-audit` as Standalone Antigravity Skill
 
-**Decision:** Ingested and installed `os-audit` from `c:\Users\HP\Downloads\os-audit-SKILL.md` into `.agents/skills/os-audit/SKILL.md` and `brain-aios/wiki/research/skills-library/os-audit/SKILL.md`. Tweaked platform paths for Antigravity compatibility while preserving 100% of its original 6 audit checks (Routing integrity, Index truth, Freshness, Bloat, Hygiene, Context placement) and 4 context failure modes (Poisoning, Bloat, Confusion, Clash) as a standalone skill. Registered `/os-audit` in `GEMINI.md`, `references/aios-user-manual.md`, `references/antigravity-skills-guide.md`, and `WORKSPACE_MAP.md`.
+**Decision:** Ingested and installed `os-audit` from `c:\Users\HP\Downloads\os-audit-SKILL.md` into `.agents/skills/os-audit/SKILL.md` and `brain-aios/wiki/research/skills-library/os-audit/SKILL.md`. Tweaked platform paths for Antigravity compatibility while preserving 100% of its original 6 audit checks (Routing integrity, Index truth, Freshness, Bloat, Hygiene, Context placement) and 4 context failure modes (Poisoning, Bloat, Confusion, Clash) as a standalone skill. Registered `/os-audit` in `GEMINI.md`, `brain-aios/wiki/sops/aios-user-manual.md`, `brain-aios/wiki/sops/antigravity-skills-guide.md`, and `WORKSPACE_MAP.md`.
 
 **Why:** `os-audit` provides a dedicated read-only drift, freshness, and organization audit. Keeping it standalone per explicit user directive ensures its internal logic remains unaltered while giving the AIOS a dedicated tool to check if its operating context is still true.
 
@@ -1022,7 +1036,7 @@ updated: '2026-08-08'
 
 ## 2026-07-14 — Configure Google Workspace CLI (GWS) for Dual Accounts
 
-**Decision:** Installed the Google Workspace CLI (`gws`), configured it with a manual OAuth credential client (`client_secret.json`) from GCP Project `Zorixel AIOS`, and exported independent session credential profiles for Personal (`credentials_personal.json`) and Brand (`credentials_brand.json`) accounts. Documented GWS usage in `references/gws-api.md`.
+**Decision:** Installed the Google Workspace CLI (`gws`), configured it with a manual OAuth credential client (`client_secret.json`) from GCP Project `Zorixel AIOS`, and exported independent session credential profiles for Personal (`credentials_personal.json`) and Brand (`credentials_brand.json`) accounts. Documented GWS usage in `brain-aios/wiki/mcp-servers/gws-api.md`.
 
 **Why:** Native multi-account switching is no longer supported directly in `gws` CLI. By exporting credentials to individual JSON files, we can switch account contexts dynamically in the AI OS environment by modifying the `GOOGLE_WORKSPACE_CLI_CREDENTIALS_FILE` environment variable.
 
@@ -1046,7 +1060,7 @@ updated: '2026-08-08'
 
 ## 2026-07-14 — Consolidate Utility Scripts & Save Skills Documentation
 
-**Decision:** Saved all custom scripts (agent_adapt.py, rename_and_link_update.py, verify_skills.py) to a centralized `/scripts/` directory at the root workspace. Created `references/utility-scripts.md` and `references/antigravity-skills-guide.md` documentation templates to explain their usage and trace corresponding Antigravity/Claude Code plugin sources, and updated `GEMINI.md`, `EXPANSIONS.md`, and the general wiki index.
+**Decision:** Saved all custom scripts (agent_adapt.py, rename_and_link_update.py, verify_skills.py) to a centralized `/scripts/` directory at the root workspace. Created `brain-aios/wiki/sops/utility-scripts.md` and `brain-aios/wiki/sops/antigravity-skills-guide.md` documentation templates to explain their usage and trace corresponding Antigravity/Claude Code plugin sources, and updated `GEMINI.md`, `EXPANSIONS.md`, and the general wiki index.
 
 **Why:** Centralizing helper scripts keeps the workspace tidy (avoiding stray scripts in temporary directories) and enables quick execution for future workspace reorganizations. Documenting both Claude and Antigravity-specific plugins and repositories preserves historical research and ensures clarity on how the AI OS can be extended with official and community modules.
 
@@ -1070,7 +1084,7 @@ updated: '2026-08-08'
 
 ## 2026-07-14 — Verify Workflows & Compile AIOS User Manual
 
-**Decision:** Created a Python test script `demo_test_skills.py` to verify the execution logic of the newly added custom workspace skills (`/plan-day`, `/review-day`, `/scrape-competitor`, `/draft-message`, `/file-search`) and generated the [ZORIXEL AIOS User Manual & Execution Guide](file:///d:/AI-OS/references/aios-user-manual.md) to serve as a comprehensive user handbook. Integrated links to all new guides across both Obsidian indexes (`brain-aios` and `second-brain-zorixel`).
+**Decision:** Created a Python test script `demo_test_skills.py` to verify the execution logic of the newly added custom workspace skills (`/plan-day`, `/review-day`, `/scrape-competitor`, `/draft-message`, `/file-search`) and generated the [ZORIXEL AIOS User Manual & Execution Guide](file:///d:/AI-OS/brain-aios/wiki/sops/aios-user-manual.md) to serve as a comprehensive user handbook. Integrated links to all new guides across both Obsidian indexes (`brain-aios` and `second-brain-zorixel`).
 
 **Why:** Enforcing spec compliance verification prevents "dark code" execution or broken skill configurations before committing file changes. Centralizing instructions and documenting both the local workflow slash-commands and global plugins provides Atinek Maurya with a clear, direct reference for operating their AIOS.
 
@@ -1082,7 +1096,7 @@ updated: '2026-08-08'
 
 ## 2026-07-15 — Integrate & Configure Grill-Me Skill
 
-**Decision:** Installed the `/grill-me` skill both locally in `.agents/skills/grill-me/SKILL.md` and globally in `C:\Users\HP\.gemini\config\skills\grill-me\SKILL.md` based on the downloaded configuration. Registered the slash-command in `GEMINI.md`, added it to `verify_skills.py` verification suite, updated `references/aios-user-manual.md` with instructions, and successfully verified the skill parser.
+**Decision:** Installed the `/grill-me` skill both locally in `.agents/skills/grill-me/SKILL.md` and globally in `C:\Users\HP\.gemini\config\skills\grill-me\SKILL.md` based on the downloaded configuration. Registered the slash-command in `GEMINI.md`, added it to `verify_skills.py` verification suite, updated `brain-aios/wiki/sops/aios-user-manual.md` with instructions, and successfully verified the skill parser.
 
 **Why:** The `/grill-me` skill provides a critical structured mechanism to brainstorm and capture your ideas immediately to file disk storage during detailed Q&A loops, preventing context window decay and keeping track of decisions.
 
@@ -1094,7 +1108,7 @@ updated: '2026-08-08'
 
 ## 2026-07-15 — Integrate Roast & Session Handoff Skills & Ingest Monetization Upgrades
 
-**Decision:** Integrated `/roast` and `/session-handoff` skills into the AIOS. Registered the slash-commands in `GEMINI.md`, added them to `references/aios-user-manual.md` with operational guides, created `brain-aios/wiki/research/aios-monetization-upgrades.md` containing the YouTube clip digest of Nate Herk's 4 core monetization upgrades, updated the wiki index (`brain-aios/wiki/index.md`), and recorded the ingest event in `brain-aios/wiki/log.md`.
+**Decision:** Integrated `/roast` and `/session-handoff` skills into the AIOS. Registered the slash-commands in `GEMINI.md`, added them to `brain-aios/wiki/sops/aios-user-manual.md` with operational guides, created `brain-aios/wiki/research/aios-monetization-upgrades.md` containing the YouTube clip digest of Nate Herk's 4 core monetization upgrades, updated the wiki index (`brain-aios/wiki/index.md`), and recorded the ingest event in `brain-aios/wiki/log.md`.
 
 **Why:** The `/roast` and `/session-handoff` skills represent critical upgrades for business validation and context management respectively. Recording their details in the user manual and documenting the YouTube clip in the LLM Wiki ensures a complete knowledge record of the AIOS capabilities, keeping the repository aligned with Atinek Maurya's target workflow.
 
@@ -1106,7 +1120,7 @@ updated: '2026-08-08'
 
 ## 2026-07-15 — Integrate Superpowers Skill & Set Up Global Rule File
 
-**Decision:** Integrated `/using-superpowers` skill into the AIOS. Copied the skill config to `.agents/skills/using-superpowers/SKILL.md`, registered the command in `GEMINI.md`, added usage guidelines to `references/aios-user-manual.md`, updated `verify_skills.py` test suite, and created the global rule file `C:\Users\HP\.gemini\config\AGENTS.md` containing global instructions to enforce superpowers checks, planning, TDD, and verification across all project workspaces. Also documented the framework in `brain-aios/wiki/research/superpowers-framework.md`, updated the wiki index, and executed `agy plugin install https://github.com/obra/superpowers` to fully set up the superpowers plugin and hooks globally.
+**Decision:** Integrated `/using-superpowers` skill into the AIOS. Copied the skill config to `.agents/skills/using-agent-skills/SKILL.md`, registered the command in `GEMINI.md`, added usage guidelines to `brain-aios/wiki/sops/aios-user-manual.md`, updated `verify_skills.py` test suite, and created the global rule file `C:\Users\HP\.gemini\config\AGENTS.md` containing global instructions to enforce superpowers checks, planning, TDD, and verification across all project workspaces. Also documented the framework in `brain-aios/wiki/research/superpowers-framework.md`, updated the wiki index, and executed `agy plugin install https://github.com/obra/superpowers` to fully set up the superpowers plugin and hooks globally.
 
 **Why:** The `using-superpowers` skill, plugin, and ruleset are essential for maintaining engineering discipline and preventing context rot/hallucinations by forcing structured planning, TDD, and verification cycles before code modification.
 
@@ -1118,7 +1132,7 @@ updated: '2026-08-08'
 
 ## 2026-07-15 — Integrate and Configure Context7 Globally
 
-**Decision:** Registered the Upstash Context7 MCP server in the global `mcp_config.json` configuration, created a global skill `/context7` under `C:\Users\HP\.gemini\config\skills\context7\SKILL.md` to trigger live document retrieval, created `references/context7-api.md` API guide, and updated `GEMINI.md`, `connections.md`, `references/antigravity-skills-guide.md`, and `references/aios-user-manual.md` manuals.
+**Decision:** Registered the Upstash Context7 MCP server in the global `mcp_config.json` configuration, created a global skill `/context7` under `C:\Users\HP\.gemini\config\skills\context7\SKILL.md` to trigger live document retrieval, created `brain-aios/wiki/mcp-servers/context7-api.md` API guide, and updated `GEMINI.md`, `connections.md`, `brain-aios/wiki/sops/antigravity-skills-guide.md`, and `brain-aios/wiki/sops/aios-user-manual.md` manuals.
 
 **Why:** Adding Context7 globally gives the personal AIOS instant access to up-to-date, version-specific external library API documentation and code examples natively via MCP tools. This avoids model hallucination and reduces manual research overhead.
 
@@ -1199,7 +1213,7 @@ updated: '2026-08-08'
 
 ## 2026-07-15 — Implement project-agent Slash Command and Custom Workspace Skill
 
-**Decision:** Created the `/project-agent` custom workspace skill at `.agents/skills/project-agent/SKILL.md` to delegate complex tasks to autonomous background developer subagents. Registered the slash command in `GEMINI.md` and `references/aios-user-manual.md`, added it to `WORKSPACE_MAP.md`, and completed the brainstorm capture file in `brainstorms/`.
+**Decision:** Created the `/project-agent` custom workspace skill at `.agents/skills/project-agent/SKILL.md` to delegate complex tasks to autonomous background developer subagents. Registered the slash command in `GEMINI.md` and `brain-aios/wiki/sops/aios-user-manual.md`, added it to `WORKSPACE_MAP.md`, and completed the brainstorm capture file in `brainstorms/`.
 
 **Why:** The user wants to build and test features inside project subdirectories without clogging the main session's context window. Spawning a background subagent (using `agy --print`) scoped to the specific project path keeps the main chat clean, enforces global superpowers and TDD workflows, auto-generates documentation (`walkthrough.md`), and fuzzy-matches project folder names to minimize typing overhead.
 
@@ -1223,7 +1237,7 @@ updated: '2026-08-08'
 
 ## 2026-07-15 — Integrate Karpathy Coding Guidelines Globally
 
-**Decision:** Adapted and integrated the Karpathy-inspired coding behavioral guidelines from `andrej-karpathy-skills` repository into our local `GEMINI.md` file, registered the `/karpathy-guidelines` command, and installed the guidelines as a global custom skill at the user level in `C:\Users\HP\.gemini\config\skills\karpathy-guidelines\SKILL.md`. Documented the command in `references/aios-user-manual.md`, added it to `verify_skills.py` verifier, and updated `WORKSPACE_MAP.md`.
+**Decision:** Adapted and integrated the Karpathy-inspired coding behavioral guidelines from `andrej-karpathy-skills` repository into our local `GEMINI.md` file, registered the `/karpathy-guidelines` command, and installed the guidelines as a global custom skill at the user level in `C:\Users\HP\.gemini\config\skills\karpathy-guidelines\SKILL.md`. Documented the command in `brain-aios/wiki/sops/aios-user-manual.md`, added it to `verify_skills.py` verifier, and updated `WORKSPACE_MAP.md`.
 
 **Why:** Enforcing the four coding principles (Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution) globally across all workspaces keeps the codebase clean, minimizes overcomplication, enforces testing verification loops, and aligns with the Antigravity developer environment.
 
@@ -1451,7 +1465,7 @@ updated: '2026-08-08'
 
 ## 2026-07-17 — Integrate VibeSec Secure Coding Skill
 
-**Decision:** Cloned VibeSec-Skill repository from GitHub, tweaked it to make it native to Antigravity, and installed it under `.agents/skills/vibesec/SKILL.md`. Registered the slash command in `GEMINI.md`, `references/aios-user-manual.md`, and `WORKSPACE_MAP.md`.
+**Decision:** Cloned VibeSec-Skill repository from GitHub, tweaked it to make it native to Antigravity, and installed it under `.agents/skills/vibesec/SKILL.md`. Registered the slash command in `GEMINI.md`, `brain-aios/wiki/sops/aios-user-manual.md`, and `WORKSPACE_MAP.md`.
 
 **Why:** To provide the AIOS with a structured secure-coding framework and checklists (covering IDOR, XSS, CSRF, secrets leakage, SSRF, SQLi, and JWT issues) when building, scanning, or auditing client web applications.
 
@@ -1571,7 +1585,7 @@ updated: '2026-08-08'
 
 ## 2026-07-19 — Integrate Figma Remote MCP Server
 
-**Decision:** Registered the official Figma Remote MCP server in the global `mcp_config.json` configuration, created a reference manual `references/figma-api.md`, updated `connections.md` and `WORKSPACE_MAP.md`.
+**Decision:** Registered the official Figma Remote MCP server in the global `mcp_config.json` configuration, created a reference manual `brain-aios/wiki/mcp-servers/figma-api.md`, updated `connections.md` and `WORKSPACE_MAP.md`.
 
 **Why:** Direct integration with Figma allows the personal AIOS to pull design metadata, tokens, and layouts natively, accelerating high-fidelity design-to-code workflows for ZORIXEL.
 
@@ -1633,7 +1647,7 @@ updated: '2026-08-08'
 3. Expanded `scripts/verify_skills.py` to recursively compile and verify Python, JavaScript, and JSON syntax across all custom skills.
 4. Installed a Git pre-commit hook that automatically blocks commits if security checks or skill verifications fail.
 5. Adapted local design and scraping skills (like `seo-audit`, `frontend-slides`, `scrape-reference`, and `scrape-component`) to run natively under Antigravity. Dynamic localhost static server utilities (`serve.js`) were updated to bypass local browser restrictions.
-6. Created `references/global-rules-conflict-resolution.md` to prevent layout overlaps and conflicts between global skills (`impeccable`, `ui-ux-pro-max`).
+6. Created `brain-aios/wiki/sops/global-rules-conflict-resolution.md` to prevent layout overlaps and conflicts between global skills (`impeccable`, `ui-ux-pro-max`).
 
 **Why:** To address the user's request to secure the AIOS from credentials leaks and path traversals, break the "one solution, four new problems" regression cycle, and optimize all local scraping and design workflows for the Antigravity developer environment.
 
@@ -1722,7 +1736,7 @@ updated: '2026-08-08'
 
 ## 2026-07-23 — Ingest nutlope/hallmark & Adapt Anti-AI-Slop Design Engine
 
-**Decision:** Ingested `nutlope/hallmark` (v1.1.0, MIT License, Together AI) via `/ingest-repo`. Created native Antigravity skill `.agents/skills/hallmark/SKILL.md` (exposed as `/hallmark`), audit runner script `scripts/hallmark_runner.py`, and stored complete skills library to `brain-aios/wiki/research/skills-library/hallmark/`. Registered in `WORKSPACE_MAP.md`, `GEMINI.md`, `MEMORY.md`, `references/aios-user-manual.md`, and `references/antigravity-skills-guide.md`. Cleaned up temporary clone (`scratch/ingest-hallmark/`).
+**Decision:** Ingested `nutlope/hallmark` (v1.1.0, MIT License, Together AI) via `/ingest-repo`. Created native Antigravity skill `.agents/skills/hallmark/SKILL.md` (exposed as `/hallmark`), audit runner script `scripts/hallmark_runner.py`, and stored complete skills library to `brain-aios/wiki/research/skills-library/hallmark/`. Registered in `WORKSPACE_MAP.md`, `GEMINI.md`, `MEMORY.md`, `brain-aios/wiki/sops/aios-user-manual.md`, and `brain-aios/wiki/sops/antigravity-skills-guide.md`. Cleaned up temporary clone (`scratch/ingest-hallmark/`).
 
 **Why:** Hallmark enforces structural layout variety (21 macrostructures), color theme selection (20 OKLCH themes + custom engine), and 57 anti-slop quality gates across build, audit, redesign, and study verbs. This ensures all UIs generated for ZORIXEL and client AI automations avoid generic AI template tropes.
 
@@ -1965,7 +1979,7 @@ updated: '2026-08-08'
 2. **Token-Optimized Wave Execution**: `/six-file-context-methodology execute` dispatches background developer subagents with wave-based parallelization, protected by strict Token Safeguards (Surgical Context Ingestion, Max 2-Attempt Loop Backstop, 1-3 File Scope Boundaries).
 3. **Catalog-First Component Sourcing & Theme Adaptation**: Queries 300+ Component Synthesis Engine (`component_registry_cli.py search`), prioritizing operator favorites and custom lists. Prohibits creating generic components from scratch when catalog matches exist, and strips hardcoded inline colors to re-bind strictly to project OKLCH tokens in `ui-context.md`.
 4. **Security Quality Gates & OWASP LLM Additions**: Embeds `/vibesec` security contracts into `code-standards.md` and ticket DoD. Adds Next.js 15 Server Action isolation (`import 'server-only'`, in-function `auth()` checks), raw webhook signature verification, and OWASP Top 10 for LLM Applications (Prompt injection, RAG tenant isolation, Excessive Agency safeguards, and Unbounded Consumption rate limits).
-5. **`storm-research-project` Skill & Brain Memory Logging**: Duplicated `storm-research` into a dedicated skill `.agents/skills/storm-research-project/SKILL.md` (leaving the original `storm-research` completely intact). Expanded to 7 research lenses (adding AI/LLM Integration & Latency Specialist and Developer Ergonomics & Token Footprint Auditor). Findings automatically log to `brain-aios/wiki/research/` and `MEMORY.md` so the AIOS persistently retains research context across sessions.
+5. **`storm-research-project` Skill & Brain Memory Logging**: Duplicated `storm-research` into a dedicated skill `.agents/skills/storm-research-project-project/SKILL.md` (leaving the original `storm-research` completely intact). Expanded to 7 research lenses (adding AI/LLM Integration & Latency Specialist and Developer Ergonomics & Token Footprint Auditor). Findings automatically log to `brain-aios/wiki/research/` and `MEMORY.md` so the AIOS persistently retains research context across sessions.
 6. **Strict Zero-Emoji Mandate**: Banned emojis across all responses, chat outputs, skill files, documentation, code comments, and project artifacts.
 
 **Why:** Gives the AIOS an enterprise-grade senior AI engineering workflow that maximizes architectural rigor, security, component quality, and multi-perspective research while strictly protecting against token credit exhaustion and context bloat.

@@ -36,9 +36,9 @@ def check_browser_engine_health() -> bool:
 
     browser_testing_skill = SKILLS_DIR / "browser-testing" / "SKILL.md"
     if not browser_testing_skill.exists():
-        sys.stderr.write("[ERROR] Missing .agents/skills/browser-testing/SKILL.md!\n")
+        sys.stderr.write("[ERROR] Missing .agents/skills/browser-testing-with-devtools/SKILL.md!\n")
         return False
-    print("[OK] .agents/skills/browser-testing/SKILL.md exists.")
+    print("[OK] .agents/skills/browser-testing-with-devtools/SKILL.md exists.")
 
     # Import and run engine unit tests dynamically
     sys.path.insert(0, str(SCRIPTS_DIR))

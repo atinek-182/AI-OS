@@ -22,7 +22,7 @@ name: mattpocock-to-tickets
 description: Decompose technical specs into atomic execution tickets. Creates independent, verifiable developer tasks with
   clear Definition of Done (DoD). Triggered via /mattpocock-to-tickets or naturally when breaking down specs into tasks.
 argument-hint: '[spec_file_or_path]'
----
+aliases: [to-tickets, tickets]---
 
 # Matt Pocock Spec-to-Tickets Engine (`/mattpocock-to-tickets`)
 

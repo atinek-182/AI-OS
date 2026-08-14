@@ -22,7 +22,7 @@ name: mattpocock-to-spec
 description: Convert loose user prompts into sharp technical specs. Asks clarifying questions, resolves architectural choices,
   and outputs structured design contracts. Triggered via /mattpocock-to-spec or naturally when creating technical specs.
 argument-hint: '[loose_idea_or_requirement]'
----
+aliases: [to-spec, spec]---
 
 # Matt Pocock Prompt-to-SPEC Engine (`/mattpocock-to-spec`)
 

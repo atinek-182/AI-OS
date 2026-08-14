@@ -60,7 +60,7 @@ Once the category is identified, read the corresponding reference file using the
 ### 3. Check for Context Files
 Before drafting, check if product marketing context is available in the workspace:
 * Check [product-marketing.md](file:///d:/AI-OS/context/product-marketing.md) or similar files in `d:\AI-OS\context/` or `d:\AI-OS/`.
-* Check the ZORIXEL brand voice in [voice.md](file:///d:/AI-OS/references/voice.md).
+* Check the ZORIXEL brand voice in [voice.md](file:///d:/AI-OS/second-brain-zorixel/wiki/brand/voice.md).
 
 ### 4. Execute and Produce Output
 Apply the rules, style constraints (clear > clever, specific > vague, active voice, removal of jargon), and guidelines from the reference file. Output must include:

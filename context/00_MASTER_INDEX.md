@@ -34,7 +34,7 @@ This master index is the single canonical map for all workspace vaults, brand id
 - **Canonical Task List**: [brain-aios/wiki/checklists/master-task-list.md](file:///d:/AI-OS/brain-aios/wiki/checklists/master-task-list.md)
 
 ## 2. Brand Identity & Strategy Vaults
-- **ZORIXEL Brand Identity v3.0**: [references/zorixel-brand-identity.md](file:///d:/AI-OS/references/zorixel-brand-identity.md)
+- **ZORIXEL Brand Identity v3.0**: [second-brain-zorixel/wiki/brand/zorixel-brand-identity.md](file:///d:/AI-OS/second-brain-zorixel/wiki/brand/zorixel-brand-identity.md)
 - **ZORIXEL Brand OS Junction**: [zorixel-brand-os/](file:///d:/AI-OS/zorixel-brand-os/)
 - **ZORIXEL Second Brain (Research & Content)**: [second-brain-zorixel/](file:///d:/AI-OS/second-brain-zorixel/)
 - **Business Intake & Positioning**: [context/about-business.md](file:///d:/AI-OS/context/about-business.md) & [context/aios-intake.md](file:///d:/AI-OS/context/aios-intake.md)
