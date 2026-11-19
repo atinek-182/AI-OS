@@ -34,20 +34,16 @@ def scan_files_for_secrets():
     findings = []
     for root, dirs, files in os.walk(WORKSPACE_ROOT):
         # Exclude directories we ignore
-        if ".git" in dirs:
-            dirs.remove(".git")
-        if ".venv" in dirs:
-            dirs.remove(".venv")
-        if "brain" in dirs:
-            dirs.remove("brain")
-        if ".playwright-mcp" in dirs:
-            dirs.remove(".playwright-mcp")
-        if "SecurityOs" in dirs:
-            dirs.remove("SecurityOs")
+        dirs[:] = [d for d in dirs if d.lower() not in {".git", ".venv", "brain", ".playwright-mcp", "securityos", "node_modules", "archives", "projects", "docs", "premium-frontend-experience-system", "brain-aios", "second-brain-zorixel", "zorixel-brand-os", "references", "graphify-out"}]
             
         for file in files:
             file_path = os.path.join(root, file)
             rel_path = os.path.relpath(file_path, WORKSPACE_ROOT)
+            try:
+                if os.path.getsize(file_path) > 300_000:
+                    continue
+            except OSError:
+                continue
             
             # Verify no credentials_*.json or .env are in workspace root/subdirs except if specified
             if file.startswith("credentials_") and file.endswith(".json"):

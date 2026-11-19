@@ -24,3 +24,12 @@ trials/**/__pycache__/
 # Directory Junctions & Full Disk Vaults
 SecurityOs/
 SecurityOs
+
+# Ephemeral Scratch & Legacy Archives
+scratch/
+archives/scratch_legacy/
+.tmp.driveupload/
+docs/assets/video_temp/
+
+.tmp.driveupload
+.tmp.drivedownload

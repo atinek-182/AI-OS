@@ -15,6 +15,7 @@ This file provides the canonical architectural map of all workspace vaults, dire
 | `GEMINI.md` | File | Root workspace file component |
 | `LOOPS.md` | File | Root workspace file component |
 | `MEMORY.md` | File | Root workspace file component |
+| `README.md` | File | Canonical GitHub repository documentation and interview showcase |
 | `SecurityOs` | Directory | Root workspace directory component |
 | `WORKSPACE_MAP.md` | File | Root workspace file component |
 | `archives` | Directory | Root workspace directory component |
